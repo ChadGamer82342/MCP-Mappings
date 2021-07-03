@@ -99,7 +99,6 @@ CLASS net/minecraft/class_18 net/minecraft/src/World
 	METHOD method_225 isBoundingBoxBurning (Lnet/minecraft/class_25;)Z
 	METHOD method_226 releaseEntitySkin (Lnet/minecraft/class_57;)V
 	METHOD method_227 updateEntities ()V
-	METHOD method_228 findTopSolidBlock (II)I
 	METHOD method_229 setBlockWithNotify (IIII)Z
 	METHOD method_230 func_28097_e (IIIII)V
 	METHOD method_231 setEntityDead (Lnet/minecraft/class_57;)V

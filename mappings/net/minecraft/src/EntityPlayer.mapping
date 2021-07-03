@@ -1,5 +1,4 @@
 CLASS net/minecraft/class_54 net/minecraft/src/EntityPlayer
-	FIELD field_504 timeInPortal F
 	FIELD field_505 prevTimeInPortal F
 	FIELD field_506 playerCloakUrl Ljava/lang/String;
 	FIELD field_507 field_22062_y F
