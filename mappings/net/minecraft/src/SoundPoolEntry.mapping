@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_267 net/minecraft/src/SoundPoolEntry
+	FIELD field_2126 soundName Ljava/lang/String;
+	FIELD field_2127 soundUrl Ljava/net/URL;

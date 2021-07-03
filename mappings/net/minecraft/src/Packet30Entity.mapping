@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_437 net/minecraft/src/Packet30Entity
+	FIELD field_1748 entityId I
+	FIELD field_1749 xPosition B
+	FIELD field_1750 yPosition B
+	FIELD field_1751 zPosition B
+	FIELD field_1752 yaw B
+	FIELD field_1753 pitch B
+	FIELD field_1754 rotating Z

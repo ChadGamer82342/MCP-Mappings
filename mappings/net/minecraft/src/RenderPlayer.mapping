@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_86 net/minecraft/src/RenderPlayer
+	FIELD field_294 modelBipedMain Lnet/minecraft/class_87;
+	FIELD field_295 modelArmorChestplate Lnet/minecraft/class_87;
+	FIELD field_296 modelArmor Lnet/minecraft/class_87;
+	FIELD field_297 armorFilenamePrefix [Ljava/lang/String;
+	METHOD method_340 renderName (Lnet/minecraft/class_54;DDD)V
+	METHOD method_341 renderPlayer (Lnet/minecraft/class_54;DDDFF)V
+	METHOD method_342 renderSpecials (Lnet/minecraft/class_54;F)V
+	METHOD method_344 setArmorModel (Lnet/minecraft/class_54;IF)Z
+	METHOD method_345 drawFirstPersonHand ()V

@@ -1,0 +1,2 @@
+CLASS argo/format/JsonEscapedString net/minecraft/src/J_JsonEscapedString
+	FIELD escapedString field_27031_a Ljava/lang/String;

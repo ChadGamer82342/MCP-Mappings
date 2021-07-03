@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_158 net/minecraft/src/GuiConnectFailed
+	FIELD field_559 errorMessage Ljava/lang/String;
+	FIELD field_560 errorDetail Ljava/lang/String;

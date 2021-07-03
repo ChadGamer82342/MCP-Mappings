@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_445 net/minecraft/src/ChunkLoader
+	FIELD field_1701 saveDir Ljava/io/File;
+	FIELD field_1702 createIfNecessary Z
+	METHOD method_1478 chunkFileForXZ (II)Ljava/io/File;

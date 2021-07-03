@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_580 net/minecraft/src/EntityClientPlayerMP
+	FIELD field_2505 sendQueue Lnet/minecraft/class_219;
+	FIELD field_2506 field_9380_bx I
+	FIELD field_2507 field_21093_bH Z
+	FIELD field_2508 oldPosX D
+	FIELD field_2509 field_9378_bz D
+	FIELD field_2510 oldPosY D
+	FIELD field_2511 oldPosZ D
+	FIELD field_2512 oldRotationYaw F
+	FIELD field_2513 oldRotationPitch F
+	FIELD field_2514 field_9382_bF Z
+	FIELD field_2515 wasSneaking Z
+	FIELD field_2516 field_12242_bI I
+	METHOD method_1923 sendInventoryChanged ()V

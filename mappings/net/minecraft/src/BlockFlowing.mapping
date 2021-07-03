@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_327 net/minecraft/src/BlockFlowing
+	FIELD field_1232 numAdjacentSources I
+	FIELD field_1233 isOptimalFlowDirection [Z
+	FIELD field_1234 flowCost [I
+	METHOD method_1052 calculateFlowCost (Lnet/minecraft/class_18;IIIII)I
+	METHOD method_1053 getSmallestFlowDecay (Lnet/minecraft/class_18;IIII)I
+	METHOD method_1054 flowIntoBlock (Lnet/minecraft/class_18;IIII)V
+	METHOD method_1055 func_30004_i (Lnet/minecraft/class_18;III)V
+	METHOD method_1056 getOptimalFlowDirections (Lnet/minecraft/class_18;III)[Z
+	METHOD method_1057 blockBlocksFlow (Lnet/minecraft/class_18;III)Z
+	METHOD method_1058 liquidCanDisplaceBlock (Lnet/minecraft/class_18;III)Z

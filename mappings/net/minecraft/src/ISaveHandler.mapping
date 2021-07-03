@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_52 net/minecraft/src/ISaveHandler
+	METHOD method_1732 saveWorldInfo (Lnet/minecraft/class_7;)V
+	METHOD method_1735 func_22091_b ()V
+	METHOD method_1736 func_28111_b (Ljava/lang/String;)Ljava/io/File;
+	METHOD method_1739 func_22093_e ()V

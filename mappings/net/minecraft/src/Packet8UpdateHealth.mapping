@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_36 net/minecraft/src/Packet8UpdateHealth
+	FIELD field_158 healthMP I

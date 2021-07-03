@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_574 net/minecraft/src/ChatLine
+	FIELD field_2469 message Ljava/lang/String;
+	FIELD field_2470 updateCounter I

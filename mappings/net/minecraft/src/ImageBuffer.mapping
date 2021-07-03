@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_131 net/minecraft/src/ImageBuffer
+	METHOD method_1655 parseUserSkin (Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;

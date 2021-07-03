@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_75 net/minecraft/src/EffectRenderer
+	FIELD field_269 worldObj Lnet/minecraft/class_18;
+	FIELD field_270 fxLayers [Ljava/util/List;
+	FIELD field_271 renderer Lnet/minecraft/class_76;
+	FIELD field_272 rand Ljava/util/Random;
+	METHOD method_320 updateEffects ()V
+	METHOD method_321 addBlockHitEffects (IIII)V
+	METHOD method_322 addBlockDestroyEffects (IIIII)V
+	METHOD method_323 clearEffects (Lnet/minecraft/class_18;)V
+	METHOD method_324 renderParticles (Lnet/minecraft/class_57;F)V
+	METHOD method_325 addEffect (Lnet/minecraft/class_77;)V
+	METHOD method_326 getStatistics ()Ljava/lang/String;

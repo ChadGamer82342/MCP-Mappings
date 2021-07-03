@@ -1,0 +1,9 @@
+CLASS argo/jdom/JsonNodeType net/minecraft/src/EnumJsonNodeType
+	FIELD $VALUES field_27442_h [Largo/jdom/JsonNodeType;
+	FIELD ARRAY ARRAY Largo/jdom/JsonNodeType;
+	FIELD FALSE FALSE Largo/jdom/JsonNodeType;
+	FIELD NULL NULL Largo/jdom/JsonNodeType;
+	FIELD NUMBER NUMBER Largo/jdom/JsonNodeType;
+	FIELD OBJECT OBJECT Largo/jdom/JsonNodeType;
+	FIELD STRING STRING Largo/jdom/JsonNodeType;
+	FIELD TRUE TRUE Largo/jdom/JsonNodeType;

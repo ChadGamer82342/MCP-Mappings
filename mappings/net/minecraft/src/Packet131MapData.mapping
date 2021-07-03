@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_161 net/minecraft/src/Packet131MapData
+	FIELD field_570 field_28055_a S
+	FIELD field_571 field_28054_b S
+	FIELD field_572 field_28056_c [B

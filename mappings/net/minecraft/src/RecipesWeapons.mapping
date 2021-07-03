@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_521 net/minecraft/src/RecipesWeapons
+	FIELD field_2188 recipePatterns [[Ljava/lang/String;
+	FIELD field_2189 recipeItems [[Ljava/lang/Object;
+	METHOD method_1773 addRecipes (Lnet/minecraft/class_148;)V

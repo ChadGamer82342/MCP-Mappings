@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_170 net/minecraft/src/Packet16BlockItemSwitch
+	FIELD field_592 id I

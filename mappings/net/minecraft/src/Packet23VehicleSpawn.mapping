@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_414 net/minecraft/src/Packet23VehicleSpawn
+	FIELD field_1663 entityId I
+	FIELD field_1664 xPosition I
+	FIELD field_1665 yPosition I
+	FIELD field_1666 zPosition I
+	FIELD field_1667 field_28047_e I
+	FIELD field_1668 field_28046_f I
+	FIELD field_1669 field_28045_g I
+	FIELD field_1670 type I
+	FIELD field_1671 field_28044_i I

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_404 net/minecraft/src/AchievementMap
+	FIELD field_1549 instance Lnet/minecraft/class_404;
+	FIELD field_1550 guidMap Ljava/util/Map;
+	METHOD method_1271 getGuid (I)Ljava/lang/String;

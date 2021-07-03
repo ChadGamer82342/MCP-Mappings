@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_104 net/minecraft/src/TileEntityMobSpawner
+	FIELD field_2681 delay I
+	FIELD field_2682 yaw D
+	FIELD field_2683 yaw2 D
+	FIELD field_2684 mobID Ljava/lang/String;
+	METHOD method_2034 anyPlayerInRange ()Z
+	METHOD method_2035 setMobID (Ljava/lang/String;)V
+	METHOD method_2036 updateDelay ()V
+	METHOD method_2037 getMobID ()Ljava/lang/String;

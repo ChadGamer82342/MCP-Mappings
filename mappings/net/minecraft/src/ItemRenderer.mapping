@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_556 net/minecraft/src/ItemRenderer
+	FIELD field_2401 mc Lnet/minecraft/client/Minecraft;
+	FIELD field_2402 itemToRender Lnet/minecraft/class_31;
+	FIELD field_2403 equippedProgress F
+	FIELD field_2404 prevEquippedProgress F
+	FIELD field_2405 renderBlocksInstance Lnet/minecraft/class_13;
+	FIELD field_2406 field_28131_f Lnet/minecraft/class_321;
+	FIELD field_2407 field_20099_f I
+	METHOD method_1859 updateEquippedItem ()V
+	METHOD method_1860 renderItemInFirstPerson (F)V
+	METHOD method_1861 renderInsideOfBlock (FI)V
+	METHOD method_1864 renderOverlays (F)V
+	METHOD method_1866 renderWarpedTextureOverlay (F)V
+	METHOD method_1867 renderFireInFirstPerson (F)V

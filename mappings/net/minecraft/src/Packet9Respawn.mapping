@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_335 net/minecraft/src/Packet9Respawn
+	FIELD field_1244 field_28048_a B

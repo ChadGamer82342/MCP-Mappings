@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_194 net/minecraft/src/GuiTexturePacks
+	CLASS class_195 GuiTexturePackSlot
+		FIELD field_707 parentTexturePackGui Lnet/minecraft/class_194;
+	FIELD field_703 guiScreen Lnet/minecraft/class_32;
+	FIELD field_704 field_6454_o I
+	FIELD field_705 fileLocation Ljava/lang/String;

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_89 net/minecraft/src/ChatAllowedCharacters
+	FIELD field_298 allowedCharacters Ljava/lang/String;
+	FIELD field_299 allowedCharactersArray [C
+	METHOD method_350 getAllowedCharacters ()Ljava/lang/String;

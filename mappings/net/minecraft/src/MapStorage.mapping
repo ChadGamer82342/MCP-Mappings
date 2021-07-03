@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_53 net/minecraft/src/MapStorage
+	FIELD field_550 field_28191_a Lnet/minecraft/class_52;
+	FIELD field_551 loadedDataMap Ljava/util/Map;
+	FIELD field_552 loadedDataList Ljava/util/List;
+	FIELD field_553 idCounts Ljava/util/Map;
+	METHOD method_523 saveAllData ()V
+	METHOD method_524 saveData (Lnet/minecraft/class_58;)V
+	METHOD method_526 getUniqueDataId (Ljava/lang/String;)I
+	METHOD method_528 loadIdCounts ()V

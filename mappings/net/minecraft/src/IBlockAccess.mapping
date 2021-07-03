@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_14 net/minecraft/src/IBlockAccess
+	METHOD method_1776 getBlockId (III)I
+	METHOD method_1778 getBlockMetadata (III)I
+	METHOD method_1780 isBlockNormalCube (III)Z
+	METHOD method_1782 getLightBrightness (III)F
+	METHOD method_1783 isBlockOpaqueCube (III)Z
+	METHOD method_1784 getBrightness (IIII)F

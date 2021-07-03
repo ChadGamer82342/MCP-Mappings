@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_160 net/minecraft/src/IRecipe
+	METHOD method_2071 getRecipeSize ()I
+	METHOD method_2072 matches (Lnet/minecraft/class_159;)Z

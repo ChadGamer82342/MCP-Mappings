@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_436 net/minecraft/src/Packet53BlockChange
+	FIELD field_1735 xPosition I
+	FIELD field_1736 yPosition I
+	FIELD field_1737 zPosition I
+	FIELD field_1738 type I
+	FIELD field_1739 metadata I

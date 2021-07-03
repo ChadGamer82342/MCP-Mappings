@@ -1,0 +1,23 @@
+CLASS net/minecraft/class_477 net/minecraft/src/CanvasIsomPreview
+	CLASS 1 ThreadRunIsoClient
+		FIELD field_1966 isoCanvas Lnet/minecraft/class_477;
+	FIELD field_1954 field_1784_j I
+	FIELD field_1955 xPosition I
+	FIELD field_1956 yPosition I
+	FIELD field_1957 field_1793_a I
+	FIELD field_1958 zoomLevel I
+	FIELD field_1959 displayHelpText Z
+	FIELD field_1960 worldObj Lnet/minecraft/class_18;
+	FIELD field_1961 dataFolder Ljava/io/File;
+	FIELD field_1962 running Z
+	FIELD field_1963 imageBufferList Ljava/util/List;
+	FIELD field_1964 imageBuffers [[Lnet/minecraft/class_478;
+	FIELD field_1965 field_1785_i I
+	METHOD method_1633 getMinecraftDir ()Ljava/io/File;
+	METHOD method_1634 setTimeOfDay (I)V
+	METHOD method_1636 isRunning (Lnet/minecraft/class_477;)Z
+	METHOD method_1637 drawScreen (Ljava/awt/Graphics2D;)V
+	METHOD method_1638 getAppDir (Ljava/lang/String;)Ljava/io/File;
+	METHOD method_1640 loadWorld (Ljava/lang/String;)V
+	METHOD method_1641 exit ()V
+	METHOD method_1642 showNextBuffer ()V

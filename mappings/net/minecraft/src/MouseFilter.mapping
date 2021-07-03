@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_12 net/minecraft/src/MouseFilter
+	FIELD field_38 field_22388_a F
+	FIELD field_39 field_22387_b F
+	FIELD field_40 field_22389_c F

@@ -1,0 +1,3 @@
+CLASS argo/jdom/JsonNumberNode net/minecraft/src/J_JsonNumberNode
+	FIELD PATTERN field_27226_a Ljava/util/regex/Pattern;
+	FIELD value field_27225_b Ljava/lang/String;

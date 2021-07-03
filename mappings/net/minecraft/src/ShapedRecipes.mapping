@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_193 net/minecraft/src/ShapedRecipes
+	FIELD field_698 recipeOutputItemID I
+	FIELD field_699 recipeWidth I
+	FIELD field_700 recipeHeight I
+	FIELD field_701 recipeItems [Lnet/minecraft/class_31;
+	FIELD field_702 recipeOutput Lnet/minecraft/class_31;
+	METHOD method_652 func_21139_a (Lnet/minecraft/class_159;IIZ)Z

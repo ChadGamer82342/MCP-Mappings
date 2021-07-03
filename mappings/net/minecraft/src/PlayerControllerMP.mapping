@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_608 net/minecraft/src/PlayerControllerMP
+	FIELD field_2608 currentBlockX I
+	FIELD field_2609 currentBlockY I
+	FIELD field_2610 currentblockZ I
+	FIELD field_2611 curBlockDamageMP F
+	FIELD field_2612 prevBlockDamageMP F
+	FIELD field_2613 field_9441_h F
+	FIELD field_2614 blockHitDelay I
+	FIELD field_2615 isHittingBlock Z
+	FIELD field_2616 netClientHandler Lnet/minecraft/class_219;
+	FIELD field_2617 currentPlayerItem I
+	METHOD method_1997 syncCurrentPlayItem ()V

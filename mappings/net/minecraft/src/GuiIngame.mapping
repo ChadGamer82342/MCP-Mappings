@@ -1,0 +1,22 @@
+CLASS net/minecraft/class_588 net/minecraft/src/GuiIngame
+	FIELD field_2541 field_933_a Ljava/lang/String;
+	FIELD field_2542 damageGuiPartialTime F
+	FIELD field_2543 prevVignetteBrightness F
+	FIELD field_2544 itemRenderer Lnet/minecraft/class_92;
+	FIELD field_2545 chatMessageList Ljava/util/List;
+	FIELD field_2546 rand Ljava/util/Random;
+	FIELD field_2547 mc Lnet/minecraft/client/Minecraft;
+	FIELD field_2548 updateCounter I
+	FIELD field_2549 recordPlaying Ljava/lang/String;
+	FIELD field_2550 recordPlayingUpFor I
+	FIELD field_2551 field_22065_l Z
+	METHOD method_1944 updateTick ()V
+	METHOD method_1945 renderVignette (FII)V
+	METHOD method_1946 renderGameOverlay (FZII)V
+	METHOD method_1947 renderPumpkinBlur (II)V
+	METHOD method_1948 renderInventorySlot (IIIF)V
+	METHOD method_1949 addChatMessage (Ljava/lang/String;)V
+	METHOD method_1950 clearChatMessages ()V
+	METHOD method_1951 renderPortalOverlay (FII)V
+	METHOD method_1952 setRecordPlayingMessage (Ljava/lang/String;)V
+	METHOD method_1953 addChatMessageTranslate (Ljava/lang/String;)V

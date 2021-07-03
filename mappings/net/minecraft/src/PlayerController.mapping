@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_504 net/minecraft/src/PlayerController
+	FIELD field_2104 mc Lnet/minecraft/client/Minecraft;
+	FIELD field_2105 field_1064_b Z
+	METHOD method_1705 resetBlockRemoving ()V
+	METHOD method_1706 setPartialTime (F)V
+	METHOD method_1707 clickBlock (IIII)V
+	METHOD method_1711 flipPlayer (Lnet/minecraft/class_54;)V
+	METHOD method_1715 getBlockReachDistance ()F
+	METHOD method_1716 sendBlockRemoved (IIII)Z
+	METHOD method_1720 updateController ()V
+	METHOD method_1721 sendBlockRemoving (IIII)V
+	METHOD method_1722 shouldDrawHUD ()Z

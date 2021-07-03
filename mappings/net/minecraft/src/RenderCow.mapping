@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_590 net/minecraft/src/RenderCow
+	METHOD method_1955 renderCow (Lnet/minecraft/class_466;DDDFF)V

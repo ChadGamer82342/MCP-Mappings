@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_518 net/minecraft/src/EntityPortalFX
+	FIELD field_2149 field_4083_a F
+	FIELD field_2150 field_4086_p D
+	FIELD field_2151 field_4085_q D
+	FIELD field_2152 field_4084_r D

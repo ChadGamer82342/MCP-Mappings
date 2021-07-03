@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_219 net/minecraft/src/NetClientHandler
+	FIELD field_1967 field_1209_a Ljava/lang/String;
+	FIELD field_1968 field_28118_b Lnet/minecraft/class_53;
+	FIELD field_1969 rand Ljava/util/Random;
+	FIELD field_1970 disconnected Z
+	FIELD field_1971 netManager Lnet/minecraft/class_117;
+	FIELD field_1972 mc Lnet/minecraft/client/Minecraft;
+	FIELD field_1973 worldClient Lnet/minecraft/class_454;
+	FIELD field_1974 field_1210_g Z
+	METHOD method_1644 processReadPackets ()V
+	METHOD method_1647 disconnect ()V
+	METHOD method_1648 addToSendQueue (Lnet/minecraft/class_169;)V

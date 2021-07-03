@@ -1,0 +1,19 @@
+CLASS net/minecraft/class_578 net/minecraft/src/RenderManager
+	FIELD field_2489 instance Lnet/minecraft/class_578;
+	FIELD field_2490 renderPosX D
+	FIELD field_2491 renderPosY D
+	FIELD field_2492 renderPosZ D
+	FIELD field_2493 renderEngine Lnet/minecraft/class_76;
+	FIELD field_2494 itemRenderer Lnet/minecraft/class_556;
+	FIELD field_2495 worldObj Lnet/minecraft/class_18;
+	FIELD field_2496 livingPlayer Lnet/minecraft/class_127;
+	FIELD field_2497 playerViewY F
+	FIELD field_2498 playerViewX F
+	FIELD field_2499 options Lnet/minecraft/class_322;
+	FIELD field_2500 field_1222_l D
+	FIELD field_2501 field_1221_m D
+	FIELD field_2502 field_1220_n D
+	FIELD field_2503 entityRenderMap Ljava/util/Map;
+	FIELD field_2504 fontRenderer Lnet/minecraft/class_34;
+	METHOD method_1920 renderEntityWithPosYaw (Lnet/minecraft/class_57;DDDFF)V
+	METHOD method_1921 renderEntity (Lnet/minecraft/class_57;F)V

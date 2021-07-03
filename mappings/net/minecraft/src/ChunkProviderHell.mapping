@@ -1,0 +1,23 @@
+CLASS net/minecraft/class_359 net/minecraft/src/ChunkProviderHell
+	FIELD field_1337 field_4177_a Lnet/minecraft/class_209;
+	FIELD field_1338 field_4176_b Lnet/minecraft/class_209;
+	FIELD field_1339 field_4175_c [D
+	FIELD field_1340 field_4174_d [D
+	FIELD field_1341 field_4173_e [D
+	FIELD field_1342 field_4172_f [D
+	FIELD field_1343 field_4171_g [D
+	FIELD field_1344 hellRNG Ljava/util/Random;
+	FIELD field_1345 field_4169_i Lnet/minecraft/class_209;
+	FIELD field_1346 field_4168_j Lnet/minecraft/class_209;
+	FIELD field_1347 field_4167_k Lnet/minecraft/class_209;
+	FIELD field_1348 field_4166_l Lnet/minecraft/class_209;
+	FIELD field_1349 field_4165_m Lnet/minecraft/class_209;
+	FIELD field_1350 worldObj Lnet/minecraft/class_18;
+	FIELD field_1351 field_4163_o [D
+	FIELD field_1352 field_4162_p [D
+	FIELD field_1353 field_4161_q [D
+	FIELD field_1354 field_4160_r [D
+	FIELD field_1355 field_4159_s Lnet/minecraft/class_105;
+	METHOD method_1180 func_4062_a (II[B)V
+	METHOD method_1181 func_4060_a ([DIIIIII)[D
+	METHOD method_1182 func_4061_b (II[B)V

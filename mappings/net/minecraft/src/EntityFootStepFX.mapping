@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_227 net/minecraft/src/EntityFootStepFX
+	FIELD field_849 field_27018_a I
+	FIELD field_850 field_27020_o I
+	FIELD field_851 field_27019_p Lnet/minecraft/class_76;

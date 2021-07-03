@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_236 net/minecraft/src/Packet104WindowItems
+	FIELD field_869 windowId I
+	FIELD field_870 itemStack [Lnet/minecraft/class_31;

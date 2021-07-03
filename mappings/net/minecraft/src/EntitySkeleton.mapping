@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_90 net/minecraft/src/EntitySkeleton
+	FIELD field_302 defaultHeldItem Lnet/minecraft/class_31;

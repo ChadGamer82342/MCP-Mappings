@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_296 net/minecraft/src/TextureLavaFlowFX
+	FIELD field_1166 field_1143_g [F
+	FIELD field_1167 field_1142_h [F
+	FIELD field_1168 field_1141_i [F
+	FIELD field_1169 field_1140_j [F
+	FIELD field_1170 field_1139_k I

@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_108 net/minecraft/src/Pathfinder
+	FIELD field_333 worldMap Lnet/minecraft/class_14;
+	FIELD field_334 path Lnet/minecraft/class_109;
+	FIELD field_335 pointMap Lnet/minecraft/class_80;
+	FIELD field_336 pathOptions [Lnet/minecraft/class_29;

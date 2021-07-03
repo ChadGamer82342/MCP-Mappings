@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_567 net/minecraft/src/SpawnerAnimals
+	FIELD field_2408 nightSpawnEntities [Ljava/lang/Class;
+	FIELD field_2409 eligibleChunksForSpawning Ljava/util/Set;
+	METHOD method_1870 performSpawning (Lnet/minecraft/class_18;ZZ)I

@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_49 net/minecraft/src/BlockPumpkin
+	FIELD field_178 blockType Z

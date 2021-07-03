@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_96 net/minecraft/src/StatFileWriter
+	FIELD field_2604 field_25102_a Ljava/util/Map;
+	FIELD field_2605 field_25101_b Ljava/util/Map;
+	FIELD field_2606 field_27189_c Z
+	FIELD field_2607 statsSyncher Lnet/minecraft/class_605;
+	METHOD method_1988 hasAchievementUnlocked (Lnet/minecraft/class_24;)Z
+	METHOD method_1989 writeStat (Lnet/minecraft/class_139;)I
+	METHOD method_1990 readStat (Lnet/minecraft/class_139;I)V
+	METHOD method_1994 syncStats ()V

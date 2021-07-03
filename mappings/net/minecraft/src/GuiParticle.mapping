@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_35 net/minecraft/src/GuiParticle
+	FIELD field_300 field_25090_a Ljava/util/List;
+	FIELD field_301 field_25089_b Lnet/minecraft/client/Minecraft;

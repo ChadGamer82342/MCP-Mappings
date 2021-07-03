@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_628 net/minecraft/src/TextureLavaFX
+	FIELD field_2701 field_1147_g [F
+	FIELD field_2702 field_1146_h [F
+	FIELD field_2703 field_1145_i [F
+	FIELD field_2704 field_1144_j [F

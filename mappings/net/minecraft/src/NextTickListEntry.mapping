@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_366 net/minecraft/src/NextTickListEntry
+	FIELD field_1400 xCoord I
+	FIELD field_1401 yCoord I
+	FIELD field_1402 zCoord I
+	FIELD field_1403 blockID I
+	FIELD field_1404 scheduledTime J
+	FIELD field_1405 nextTickEntryID J
+	FIELD field_1406 tickEntryID J
+	METHOD method_1198 comparer (Lnet/minecraft/class_366;)I

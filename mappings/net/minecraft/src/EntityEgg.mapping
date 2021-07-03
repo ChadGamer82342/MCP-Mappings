@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_499 net/minecraft/src/EntityEgg
+	FIELD field_2038 field_20057_a I
+	FIELD field_2039 field_20056_b I
+	FIELD field_2040 field_20055_c I
+	FIELD field_2041 field_20054_d I
+	FIELD field_2042 field_20053_e I
+	FIELD field_2043 field_20052_f Z
+	FIELD field_2044 field_20051_g Lnet/minecraft/class_127;
+	FIELD field_2045 field_20050_h I
+	FIELD field_2046 field_20049_i I
+	METHOD method_1682 setEggHeading (DDDFF)V

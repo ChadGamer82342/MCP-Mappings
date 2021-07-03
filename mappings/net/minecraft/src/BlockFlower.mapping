@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_473 net/minecraft/src/BlockFlower
+	METHOD method_1683 canThisPlantGrowOnThisBlockID (I)Z
+	METHOD method_1684 func_276_g (Lnet/minecraft/class_18;III)V

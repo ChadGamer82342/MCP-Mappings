@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_295 net/minecraft/src/Packet21PickupSpawn
+	FIELD field_1156 entityId I
+	FIELD field_1157 xPosition I
+	FIELD field_1158 yPosition I
+	FIELD field_1159 zPosition I
+	FIELD field_1160 rotation B
+	FIELD field_1161 pitch B
+	FIELD field_1162 roll B
+	FIELD field_1163 itemID I
+	FIELD field_1164 count I
+	FIELD field_1165 itemDamage I

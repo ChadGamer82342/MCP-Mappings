@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_415 net/minecraft/src/MapGenCaves
+	METHOD method_1399 func_669_a (II[BDDD)V
+	METHOD method_1400 releaseEntitySkin (II[BDDDFFFIID)V

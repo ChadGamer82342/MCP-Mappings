@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_573 net/minecraft/src/Frustrum
+	FIELD field_2465 clippingHelper Lnet/minecraft/class_84;
+	FIELD field_2466 xPosition D
+	FIELD field_2467 yPosition D
+	FIELD field_2468 zPosition D
+	METHOD method_1907 isBoxInFrustum (DDDDDD)Z

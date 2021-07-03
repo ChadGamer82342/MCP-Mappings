@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_334 net/minecraft/src/ColorizerFoliage
+	FIELD field_1243 foliageBuffer [I
+	METHOD method_1079 getFoliageColorPine ()I
+	METHOD method_1080 getFoliageColor (DD)I
+	METHOD method_1082 getFoliageColorBirch ()I

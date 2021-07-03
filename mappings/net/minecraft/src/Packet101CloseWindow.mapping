@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_276 net/minecraft/src/Packet101CloseWindow
+	FIELD field_1123 windowId I

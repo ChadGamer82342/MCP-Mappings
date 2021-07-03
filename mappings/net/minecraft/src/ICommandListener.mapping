@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_39 net/minecraft/src/ICommandListener
+	METHOD method_1409 log (Ljava/lang/String;)V
+	METHOD method_1410 getUsername ()Ljava/lang/String;

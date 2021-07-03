@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_289 net/minecraft/src/WorldGenClay
+	FIELD field_1144 clayBlockId I
+	FIELD field_1145 numberOfBlocks I

@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_272 net/minecraft/src/Packet20NamedEntitySpawn
+	FIELD field_1114 entityId I
+	FIELD field_1115 name Ljava/lang/String;
+	FIELD field_1116 xPosition I
+	FIELD field_1117 yPosition I
+	FIELD field_1118 zPosition I
+	FIELD field_1119 rotation B
+	FIELD field_1120 pitch B
+	FIELD field_1121 currentItem I

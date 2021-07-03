@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_438 net/minecraft/src/Packet40EntityMetadata
+	FIELD field_1975 entityId I
+	FIELD field_1976 field_21048_b Ljava/util/List;

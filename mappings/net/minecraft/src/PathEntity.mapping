@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_61 net/minecraft/src/PathEntity
+	FIELD field_2690 pathLength I
+	FIELD field_2691 points [Lnet/minecraft/class_29;
+	FIELD field_2692 pathIndex I
+	METHOD method_2040 incrementPathIndex ()V
+	METHOD method_2042 isFinished ()Z

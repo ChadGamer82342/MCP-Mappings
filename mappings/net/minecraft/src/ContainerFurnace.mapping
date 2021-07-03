@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_337 net/minecraft/src/ContainerFurnace
+	FIELD field_1258 furnace Lnet/minecraft/class_138;
+	FIELD field_1259 cookTime I
+	FIELD field_1260 burnTime I
+	FIELD field_1261 itemBurnTime I

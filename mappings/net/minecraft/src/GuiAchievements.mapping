@@ -1,0 +1,17 @@
+CLASS net/minecraft/class_609 net/minecraft/src/GuiAchievements
+	FIELD field_2618 field_27121_a I
+	FIELD field_2619 field_27119_i I
+	FIELD field_2620 field_27118_j I
+	FIELD field_2621 field_27117_l I
+	FIELD field_2622 field_27116_m D
+	FIELD field_2623 field_27115_n D
+	FIELD field_2624 field_27114_o D
+	FIELD field_2625 field_27113_p D
+	FIELD field_2626 field_27112_q D
+	FIELD field_2627 field_27111_r D
+	FIELD field_2628 field_27126_s I
+	FIELD field_2629 field_27125_t I
+	FIELD field_2630 field_27124_u I
+	FIELD field_2631 field_27123_v I
+	FIELD field_2632 field_27122_w I
+	FIELD field_2633 field_27120_x Lnet/minecraft/class_96;

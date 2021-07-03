@@ -1,0 +1,17 @@
+CLASS net/minecraft/class_10 net/minecraft/src/NetLoginHandler
+	CLASS 1 ThreadLoginVerifier
+		FIELD field_362 loginPacket Lnet/minecraft/class_118;
+		FIELD field_363 loginHandler Lnet/minecraft/class_10;
+	FIELD field_353 logger Ljava/util/logging/Logger;
+	FIELD field_354 netManager Lnet/minecraft/class_117;
+	FIELD field_355 finishedProcessing Z
+	FIELD field_356 rand Ljava/util/Random;
+	FIELD field_357 mcServer Lnet/minecraft/server/MinecraftServer;
+	FIELD field_358 loginTimer I
+	FIELD field_359 username Ljava/lang/String;
+	FIELD field_360 packet1login Lnet/minecraft/class_118;
+	FIELD field_361 serverId Ljava/lang/String;
+	METHOD method_414 tryLogin ()V
+	METHOD method_417 kickUser (Ljava/lang/String;)V
+	METHOD method_418 getUserAndIPString ()Ljava/lang/String;
+	METHOD method_419 doLogin (Lnet/minecraft/class_118;)V

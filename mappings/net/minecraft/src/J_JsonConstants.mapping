@@ -1,0 +1,5 @@
+CLASS argo/jdom/JsonConstants net/minecraft/src/J_JsonConstants
+	FIELD FALSE field_27230_c Largo/jdom/JsonConstants;
+	FIELD NULL field_27228_a Largo/jdom/JsonConstants;
+	FIELD TRUE field_27227_b Largo/jdom/JsonConstants;
+	FIELD jsonNodeType field_27229_d Largo/jdom/JsonNodeType;

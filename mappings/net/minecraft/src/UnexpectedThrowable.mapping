@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_447 net/minecraft/src/UnexpectedThrowable
+	FIELD field_1704 description Ljava/lang/String;
+	FIELD field_1705 exception Ljava/lang/Throwable;

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_515 net/minecraft/src/ChunkCoordIntPair
+	FIELD field_2378 chunkXPos I
+	FIELD field_2379 chunkZPos I
+	METHOD method_1854 chunkXZ2Int (II)I

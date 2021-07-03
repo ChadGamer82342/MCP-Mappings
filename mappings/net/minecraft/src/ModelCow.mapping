@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_256 net/minecraft/src/ModelCow
+	FIELD field_950 udders Lnet/minecraft/class_163;
+	FIELD field_951 horn1 Lnet/minecraft/class_163;
+	FIELD field_952 horn2 Lnet/minecraft/class_163;

@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_342 net/minecraft/src/BlockDetectorRail
+	METHOD method_1144 setStateIfMinecartInteractsWithRail (Lnet/minecraft/class_18;IIII)V

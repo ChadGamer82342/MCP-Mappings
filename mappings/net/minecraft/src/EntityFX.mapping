@@ -1,0 +1,16 @@
+CLASS net/minecraft/class_77 net/minecraft/src/EntityFX
+	FIELD field_2635 particleTextureIndex I
+	FIELD field_2636 particleTextureJitterX F
+	FIELD field_2637 particleTextureJitterY F
+	FIELD field_2638 particleAge I
+	FIELD field_2639 particleMaxAge I
+	FIELD field_2640 particleScale F
+	FIELD field_2641 particleGravity F
+	FIELD field_2642 particleRed F
+	FIELD field_2643 particleGreen F
+	FIELD field_2644 particleBlue F
+	FIELD field_2645 interpPosX D
+	FIELD field_2646 interpPosY D
+	FIELD field_2647 interpPosZ D
+	METHOD method_2002 renderParticle (Lnet/minecraft/class_67;FFFFFF)V
+	METHOD method_2003 getFXLayer ()I

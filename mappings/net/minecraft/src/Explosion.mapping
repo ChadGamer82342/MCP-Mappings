@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_60 net/minecraft/src/Explosion
+	FIELD field_1391 isFlaming Z
+	FIELD field_1392 explosionX D
+	FIELD field_1393 explosionY D
+	FIELD field_1394 explosionZ D
+	FIELD field_1395 exploder Lnet/minecraft/class_57;
+	FIELD field_1396 explosionSize F
+	FIELD field_1397 destroyedBlockPositions Ljava/util/Set;
+	FIELD field_1398 ExplosionRNG Ljava/util/Random;
+	FIELD field_1399 worldObj Lnet/minecraft/class_18;
+	METHOD method_1195 doExplosionA ()V
+	METHOD method_1196 doExplosionB (Z)V

@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_202 net/minecraft/src/NBTTagList
+	FIELD field_1659 tagList Ljava/util/List;
+	FIELD field_1660 tagType B
+	METHOD method_1397 setTag (Lnet/minecraft/class_187;)V
+	METHOD method_1398 tagCount ()I

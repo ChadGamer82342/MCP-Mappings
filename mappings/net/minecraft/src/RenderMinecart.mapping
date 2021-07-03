@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_576 net/minecraft/src/RenderMinecart
+	FIELD field_2471 modelMinecart Lnet/minecraft/class_173;

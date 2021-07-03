@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_207 net/minecraft/src/BlockPortal
+	METHOD method_736 tryToCreatePortal (Lnet/minecraft/class_18;III)Z

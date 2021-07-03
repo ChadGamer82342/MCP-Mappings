@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_440 net/minecraft/src/Packet54PlayNoteBlock
+	FIELD field_2047 xLocation I
+	FIELD field_2048 yLocation I
+	FIELD field_2049 zLocation I
+	FIELD field_2050 instrumentType I
+	FIELD field_2051 pitch I

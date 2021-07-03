@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_301 net/minecraft/src/BlockCrops
+	METHOD method_996 fertilize (Lnet/minecraft/class_18;III)V
+	METHOD method_997 getGrowthRate (Lnet/minecraft/class_18;III)F

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_328 net/minecraft/src/BlockTrapDoor
+	METHOD method_1059 onPoweredBlockChange (Lnet/minecraft/class_18;IIIZ)V
+	METHOD method_1060 setBlockBoundsForBlockRender (I)V
+	METHOD method_1061 isTrapdoorOpen (I)Z

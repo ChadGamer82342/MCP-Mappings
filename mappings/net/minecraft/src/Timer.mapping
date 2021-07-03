@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_559 net/minecraft/src/Timer
+	FIELD field_2368 ticksPerSecond F
+	FIELD field_2369 elapsedTicks I
+	FIELD field_2370 renderPartialTicks F
+	FIELD field_2371 timerSpeed F
+	FIELD field_2372 elapsedPartialTicks F
+	FIELD field_2373 lastHRTime D
+	FIELD field_2374 lastSyncSysClock J
+	FIELD field_2375 lastSyncHRClock J
+	FIELD field_2376 field_28132_i J
+	FIELD field_2377 timeSyncAdjustment D
+	METHOD method_1853 updateTimer ()V

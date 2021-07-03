@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_485 net/minecraft/src/BlockBed
+	FIELD field_1999 headBlockToFootBlockMap [[I
+	METHOD method_1657 setBedOccupied (Lnet/minecraft/class_18;IIIZ)V
+	METHOD method_1658 getDirectionFromMetadata (I)I
+	METHOD method_1659 isBlockFootOfBed (I)Z
+	METHOD method_1660 isBedOccupied (I)Z
+	METHOD method_1662 setBounds ()V

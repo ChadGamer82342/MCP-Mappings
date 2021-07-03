@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_474 net/minecraft/src/BlockFire
+	FIELD field_2307 chanceToEncourageFire [I
+	FIELD field_2308 abilityToCatchFire [I
+	METHOD method_1822 setBurnRate (III)V
+	METHOD method_1824 canBlockCatchFire (Lnet/minecraft/class_14;III)Z
+	METHOD method_1825 getChanceToEncourageFire (Lnet/minecraft/class_18;IIII)I
+	METHOD method_1826 func_268_g (Lnet/minecraft/class_18;III)Z
+	METHOD method_1827 getChanceOfNeighborsEncouragingFire (Lnet/minecraft/class_18;III)I

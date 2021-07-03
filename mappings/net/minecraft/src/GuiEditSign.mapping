@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_615 net/minecraft/src/GuiEditSign
+	FIELD field_2655 screenTitle Ljava/lang/String;
+	FIELD field_2656 entitySign Lnet/minecraft/class_140;
+	FIELD field_2657 updateCounter I
+	FIELD field_2658 editLine I
+	FIELD field_2659 allowedCharacters Ljava/lang/String;

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_1 net/minecraft/src/Packet7UseEntity
+	FIELD field_1 playerEntityId I
+	FIELD field_2 targetEntity I
+	FIELD field_3 isLeftClick I

@@ -1,0 +1,15 @@
+CLASS net/minecraft/class_151 net/minecraft/src/EntitySquid
+	FIELD field_2217 field_21089_a F
+	FIELD field_2218 field_21088_b F
+	FIELD field_2219 field_21087_c F
+	FIELD field_2220 field_21086_f F
+	FIELD field_2221 field_21085_g F
+	FIELD field_2222 field_21084_h F
+	FIELD field_2223 field_21083_i F
+	FIELD field_2224 field_21082_j F
+	FIELD field_2225 randomMotionSpeed F
+	FIELD field_2226 field_21080_l F
+	FIELD field_2227 field_21079_m F
+	FIELD field_2228 randomMotionVecX F
+	FIELD field_2229 randomMotionVecY F
+	FIELD field_2230 randomMotionVecZ F

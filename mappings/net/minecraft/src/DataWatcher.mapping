@@ -1,0 +1,15 @@
+CLASS net/minecraft/class_216 net/minecraft/src/DataWatcher
+	FIELD field_1740 dataTypes Ljava/util/HashMap;
+	FIELD field_1741 watchedObjects Ljava/util/Map;
+	FIELD field_1742 objectChanged Z
+	METHOD method_1500 hasObjectChanged ()Z
+	METHOD method_1501 getWatchableObjectByte (I)B
+	METHOD method_1502 addObject (ILjava/lang/Object;)V
+	METHOD method_1503 readWatchableObjects (Ljava/io/DataInputStream;)Ljava/util/List;
+	METHOD method_1504 writeWatchableObjects (Ljava/io/DataOutputStream;)V
+	METHOD method_1506 writeObjectsInListToStream (Ljava/util/List;Ljava/io/DataOutputStream;)V
+	METHOD method_1507 getChangedObjects ()Ljava/util/ArrayList;
+	METHOD method_1508 getWatchableObjectInt (I)I
+	METHOD method_1509 updateObject (ILjava/lang/Object;)V
+	METHOD method_1510 getWatchableObjectString (I)Ljava/lang/String;
+	METHOD method_1511 updateWatchedObjectsFromList (Ljava/util/List;)V

@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_391 net/minecraft/src/PropertyManager
+	FIELD field_1519 logger Ljava/util/logging/Logger;
+	FIELD field_1520 serverProperties Ljava/util/Properties;
+	FIELD field_1521 serverPropertiesFile Ljava/io/File;
+	METHOD method_1245 generateNewProperties ()V
+	METHOD method_1246 getIntProperty (Ljava/lang/String;I)I
+	METHOD method_1247 getStringProperty (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	METHOD method_1248 getBooleanProperty (Ljava/lang/String;Z)Z
+	METHOD method_1249 saveProperties ()V
+	METHOD method_1250 setProperty (Ljava/lang/String;Z)V

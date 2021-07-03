@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_72 net/minecraft/src/WorldManager
+	FIELD field_267 mcServer Lnet/minecraft/server/MinecraftServer;
+	FIELD field_268 field_28134_b Lnet/minecraft/class_73;

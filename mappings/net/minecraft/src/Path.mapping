@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_109 net/minecraft/src/Path
+	FIELD field_931 pathPoints [Lnet/minecraft/class_29;
+	FIELD field_932 count I
+	METHOD method_841 clearPath ()V
+	METHOD method_842 sortBack (I)V
+	METHOD method_844 changeDistance (Lnet/minecraft/class_29;F)V
+	METHOD method_846 sortForward (I)V
+	METHOD method_847 isPathEmpty ()Z

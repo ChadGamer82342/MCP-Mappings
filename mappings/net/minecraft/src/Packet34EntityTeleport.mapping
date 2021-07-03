@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_374 net/minecraft/src/Packet34EntityTeleport
+	FIELD field_1420 entityId I
+	FIELD field_1421 xPosition I
+	FIELD field_1422 yPosition I
+	FIELD field_1423 zPosition I
+	FIELD field_1424 yaw B
+	FIELD field_1425 pitch B

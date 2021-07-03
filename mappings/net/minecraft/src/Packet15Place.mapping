@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_145 net/minecraft/src/Packet15Place
+	FIELD field_542 xPosition I
+	FIELD field_543 yPosition I
+	FIELD field_544 zPosition I
+	FIELD field_545 direction I
+	FIELD field_546 itemStack Lnet/minecraft/class_31;

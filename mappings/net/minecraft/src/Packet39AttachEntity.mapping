@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_308 net/minecraft/src/Packet39AttachEntity
+	FIELD field_1193 entityId I
+	FIELD field_1194 vehicleEntityId I

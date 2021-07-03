@@ -1,0 +1,8 @@
+CLASS argo/jdom/JsonNodeSelectors net/minecraft/src/J_JsonNodeSelectors
+	CLASS 1 J_JsonStringNodeSelector
+	CLASS 10 J_JsonObjectNodeSelector
+	CLASS 12 J_JsonFieldNodeSelector
+		FIELD val$fieldName field_27066_a Largo/jdom/JsonStringNode;
+	CLASS 13 J_JsonElementNodeSelector
+		FIELD val$index field_27069_a I
+	CLASS 8 J_JsonArrayNodeSelector

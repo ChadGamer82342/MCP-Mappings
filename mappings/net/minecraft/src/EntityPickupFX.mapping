@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_143 net/minecraft/src/EntityPickupFX
+	FIELD field_537 field_675_a Lnet/minecraft/class_57;
+	FIELD field_538 field_679_o Lnet/minecraft/class_57;
+	FIELD field_539 field_678_p I
+	FIELD field_540 field_677_q I
+	FIELD field_541 field_676_r F

@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_24 net/minecraft/src/Achievement
+	FIELD field_1202 displayColumn I
+	FIELD field_1203 displayRow I
+	FIELD field_1204 parentAchievement Lnet/minecraft/class_24;
+	FIELD field_1205 theItemStack Lnet/minecraft/class_31;
+	FIELD field_1206 achievementDescription Ljava/lang/String;
+	FIELD field_1207 isSpecial Z
+	FIELD field_1208 statStringFormatter Lnet/minecraft/class_241;
+	METHOD method_1043 getDescription ()Ljava/lang/String;
+	METHOD method_1044 getSpecial ()Z

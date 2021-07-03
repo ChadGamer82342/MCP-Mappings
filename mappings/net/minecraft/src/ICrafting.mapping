@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_633 net/minecraft/src/ICrafting
+	METHOD method_2099 updateCraftingInventoryInfo (Lnet/minecraft/class_71;II)V

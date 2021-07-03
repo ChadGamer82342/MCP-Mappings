@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_497 net/minecraft/src/SlotFurnace
+	FIELD field_2021 thePlayer Lnet/minecraft/class_54;

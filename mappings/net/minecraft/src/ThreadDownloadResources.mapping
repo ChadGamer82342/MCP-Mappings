@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_28 net/minecraft/src/ThreadDownloadResources
+	FIELD field_137 resourcesFolder Ljava/io/File;
+	FIELD field_138 mc Lnet/minecraft/client/Minecraft;
+	FIELD field_139 closing Z
+	METHOD method_107 reloadResources ()V
+	METHOD method_108 loadResource (Ljava/io/File;Ljava/lang/String;)V
+	METHOD method_109 downloadResource (Ljava/net/URL;Ljava/io/File;J)V
+	METHOD method_110 downloadAndInstallResource (Ljava/net/URL;Ljava/lang/String;JI)V
+	METHOD method_111 closeMinecraft ()V

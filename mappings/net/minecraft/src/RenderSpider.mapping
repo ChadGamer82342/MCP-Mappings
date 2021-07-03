@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_618 net/minecraft/src/RenderSpider
+	METHOD method_2020 setSpiderDeathMaxRotation (Lnet/minecraft/class_558;)F
+	METHOD method_2021 setSpiderEyeBrightness (Lnet/minecraft/class_558;IF)Z

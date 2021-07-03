@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_394 net/minecraft/src/Packet29DestroyEntity
+	FIELD field_1526 entityId I

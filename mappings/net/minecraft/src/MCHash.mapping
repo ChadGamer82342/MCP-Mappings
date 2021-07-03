@@ -1,0 +1,17 @@
+CLASS net/minecraft/class_80 net/minecraft/src/MCHash
+	FIELD field_859 slots [Lnet/minecraft/class_232;
+	FIELD field_860 count I
+	FIELD field_861 threshold I
+	FIELD field_862 growFactor F
+	FIELD field_863 versionStamp I
+	METHOD method_771 clearMap ()V
+	METHOD method_772 lookup (I)Ljava/lang/Object;
+	METHOD method_773 getSlotIndex (II)I
+	METHOD method_774 insert (IILjava/lang/Object;I)V
+	METHOD method_775 addKey (ILjava/lang/Object;)V
+	METHOD method_776 copyTo ([Lnet/minecraft/class_232;)V
+	METHOD method_777 containsItem (I)Z
+	METHOD method_779 removeObject (I)Ljava/lang/Object;
+	METHOD method_781 getHash (I)I
+	METHOD method_782 computeHash (I)I
+	METHOD method_783 grow (I)V

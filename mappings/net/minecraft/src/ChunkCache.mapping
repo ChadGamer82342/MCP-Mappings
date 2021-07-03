@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_42 net/minecraft/src/ChunkCache
+	FIELD field_166 chunkX I
+	FIELD field_167 chunkZ I
+	FIELD field_168 chunkArray [[Lnet/minecraft/class_43;
+	FIELD field_169 worldObj Lnet/minecraft/class_18;
+	METHOD method_142 getLightValueExt (IIIZ)I
+	METHOD method_143 getLightValue (III)I

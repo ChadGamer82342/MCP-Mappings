@@ -1,0 +1,19 @@
+CLASS net/minecraft/class_70 net/minecraft/src/ItemInWorldManager
+	FIELD field_2309 thisPlayer Lnet/minecraft/class_54;
+	FIELD field_2310 thisWorld Lnet/minecraft/class_73;
+	FIELD field_2311 field_672_d F
+	FIELD field_2312 field_22055_d I
+	FIELD field_2313 field_22054_g I
+	FIELD field_2314 field_22053_h I
+	FIELD field_2315 field_22052_i I
+	FIELD field_2316 field_22051_j I
+	FIELD field_2317 field_22050_k Z
+	FIELD field_2318 field_22049_l I
+	FIELD field_2319 field_22048_m I
+	FIELD field_2320 field_22047_n I
+	FIELD field_2321 field_22046_o I
+	METHOD method_1828 func_328_a ()V
+	METHOD method_1829 func_22045_b (III)V
+	METHOD method_1830 func_324_a (IIII)V
+	METHOD method_1833 removeBlock (III)Z
+	METHOD method_1834 func_325_c (III)Z

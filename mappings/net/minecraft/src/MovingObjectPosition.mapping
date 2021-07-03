@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_27 net/minecraft/src/MovingObjectPosition
+	FIELD field_1983 typeOfHit Lnet/minecraft/class_212;
+	FIELD field_1984 blockX I
+	FIELD field_1985 blockY I
+	FIELD field_1986 blockZ I
+	FIELD field_1987 sideHit I
+	FIELD field_1988 hitVec Lnet/minecraft/class_26;
+	FIELD field_1989 entityHit Lnet/minecraft/class_57;

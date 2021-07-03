@@ -1,0 +1,2 @@
+CLASS argo/jdom/JsonNodeSelector net/minecraft/src/J_JsonNodeSelector
+	FIELD valueGetter field_27359_a Largo/jdom/Functor;

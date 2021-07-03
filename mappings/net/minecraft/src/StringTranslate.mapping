@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_300 net/minecraft/src/StringTranslate
+	FIELD field_1173 instance Lnet/minecraft/class_300;
+	FIELD field_1174 translateTable Ljava/util/Properties;
+	METHOD method_993 translateKey (Ljava/lang/String;)Ljava/lang/String;
+	METHOD method_994 translateKeyFormat (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+	METHOD method_995 translateNamedKey (Ljava/lang/String;)Ljava/lang/String;

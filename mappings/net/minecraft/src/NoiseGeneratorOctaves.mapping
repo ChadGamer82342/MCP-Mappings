@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_209 net/minecraft/src/NoiseGeneratorOctaves
+	FIELD field_1744 generatorCollection [Lnet/minecraft/class_369;
+	FIELD field_1745 field_1191_b I
+	METHOD method_1513 func_647_a (DD)D
+	METHOD method_1514 generateNoiseOctaves ([DDDDIIIDDD)[D
+	METHOD method_1515 func_4103_a ([DIIIIDDD)[D

@@ -1,0 +1,3 @@
+CLASS argo/jdom/ChainedFunctor net/minecraft/src/J_ChainedFunctor
+	FIELD childJsonNodeSelector field_27061_b Largo/jdom/JsonNodeSelector;
+	FIELD parentJsonNodeSelector field_27062_a Largo/jdom/JsonNodeSelector;

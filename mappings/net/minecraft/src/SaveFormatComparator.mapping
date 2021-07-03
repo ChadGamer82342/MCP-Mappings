@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_591 net/minecraft/src/SaveFormatComparator
+	FIELD field_2557 fileName Ljava/lang/String;
+	FIELD field_2558 displayName Ljava/lang/String;
+	FIELD field_2559 field_22169_c J
+	FIELD field_2560 field_22168_d J
+	FIELD field_2561 field_22167_e Z
+	METHOD method_1956 getFileName ()Ljava/lang/String;
+	METHOD method_1958 getDisplayName ()Ljava/lang/String;

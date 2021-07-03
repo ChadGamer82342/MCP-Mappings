@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_597 net/minecraft/src/GuiSlider
+	FIELD field_2591 sliderValue F
+	FIELD field_2592 dragging Z
+	FIELD field_2593 idFloat Lnet/minecraft/class_271;

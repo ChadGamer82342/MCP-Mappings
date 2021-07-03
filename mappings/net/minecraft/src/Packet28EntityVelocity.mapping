@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_119 net/minecraft/src/Packet28EntityVelocity
+	FIELD field_364 entityId I
+	FIELD field_365 motionX I
+	FIELD field_366 motionY I
+	FIELD field_367 motionZ I

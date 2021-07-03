@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_63 net/minecraft/src/ChunkCoordinates
+	FIELD field_1482 x I
+	FIELD field_1483 y I
+	FIELD field_1484 z I
+	METHOD method_1235 getSqDistanceTo (III)D
+	METHOD method_1236 compareChunkCoordinate (Lnet/minecraft/class_63;)I

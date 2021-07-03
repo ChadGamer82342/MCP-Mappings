@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_30 net/minecraft/src/WorldGenDungeons
+	METHOD method_116 pickMobSpawner (Ljava/util/Random;)Ljava/lang/String;

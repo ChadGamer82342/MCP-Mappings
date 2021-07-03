@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_81 net/minecraft/src/PlayerNBTManager
+	FIELD field_278 logger Ljava/util/logging/Logger;
+	FIELD field_279 worldDir Ljava/io/File;
+	FIELD field_280 worldFile Ljava/io/File;
+	FIELD field_281 field_28112_d Ljava/io/File;
+	FIELD field_282 field_22100_d J
+	METHOD method_332 getWorldDir ()Ljava/io/File;
+	METHOD method_333 null (Ljava/lang/String;)Lnet/minecraft/class_8;
+	METHOD method_334 func_22098_f ()V

@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_180 net/minecraft/src/GuiCreateWorld
+	FIELD field_631 field_22131_a Lnet/minecraft/class_32;
+	FIELD field_632 textboxWorldName Lnet/minecraft/class_181;
+	FIELD field_633 textboxSeed Lnet/minecraft/class_181;
+	FIELD field_634 folderName Ljava/lang/String;
+	FIELD field_635 createClicked Z

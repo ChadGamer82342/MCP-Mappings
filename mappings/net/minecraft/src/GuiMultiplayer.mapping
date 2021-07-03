@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_412 net/minecraft/src/GuiMultiplayer
+	FIELD field_1657 parentScreen Lnet/minecraft/class_32;
+	FIELD field_1658 field_22111_h Lnet/minecraft/class_181;
+	METHOD method_1395 parseIntWithDefault (Ljava/lang/String;I)I

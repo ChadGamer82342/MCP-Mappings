@@ -1,0 +1,18 @@
+CLASS net/minecraft/class_259 net/minecraft/src/MapColor
+	FIELD field_2737 mapColorArray [Lnet/minecraft/class_259;
+	FIELD field_2738 airColor Lnet/minecraft/class_259;
+	FIELD field_2739 grassColor Lnet/minecraft/class_259;
+	FIELD field_2740 sandColor Lnet/minecraft/class_259;
+	FIELD field_2741 clothColor Lnet/minecraft/class_259;
+	FIELD field_2742 tntColor Lnet/minecraft/class_259;
+	FIELD field_2743 iceColor Lnet/minecraft/class_259;
+	FIELD field_2744 ironColor Lnet/minecraft/class_259;
+	FIELD field_2745 foliageColor Lnet/minecraft/class_259;
+	FIELD field_2746 snowColor Lnet/minecraft/class_259;
+	FIELD field_2747 clayColor Lnet/minecraft/class_259;
+	FIELD field_2748 dirtColor Lnet/minecraft/class_259;
+	FIELD field_2749 stoneColor Lnet/minecraft/class_259;
+	FIELD field_2750 waterColor Lnet/minecraft/class_259;
+	FIELD field_2751 woodColor Lnet/minecraft/class_259;
+	FIELD field_2752 colorValue I
+	FIELD field_2753 colorIndex I

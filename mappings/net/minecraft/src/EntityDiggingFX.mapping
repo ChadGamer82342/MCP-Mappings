@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_563 net/minecraft/src/EntityDiggingFX
+	FIELD field_2383 field_4082_a Lnet/minecraft/class_17;
+	FIELD field_2384 field_32001_o I

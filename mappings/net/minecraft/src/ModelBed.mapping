@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_213 net/minecraft/src/ModelBed
+	FIELD field_792 field_22280_a [I
+	FIELD field_793 field_22279_b [I
+	FIELD field_794 bedDirection [[I

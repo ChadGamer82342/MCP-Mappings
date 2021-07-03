@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_519 net/minecraft/src/WorldChunkManager
+	FIELD field_2235 temperature [D
+	FIELD field_2236 humidity [D
+	FIELD field_2237 field_4196_c [D
+	FIELD field_2238 field_4195_d [Lnet/minecraft/class_153;
+	FIELD field_2239 field_4194_e Lnet/minecraft/class_458;
+	FIELD field_2240 field_4193_f Lnet/minecraft/class_458;
+	FIELD field_2241 field_4192_g Lnet/minecraft/class_458;
+	METHOD method_1786 getTemperature (II)D
+	METHOD method_1790 getTemperatures ([DIIII)[D

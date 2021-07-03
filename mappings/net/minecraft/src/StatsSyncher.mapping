@@ -1,0 +1,20 @@
+CLASS net/minecraft/class_605 net/minecraft/src/StatsSyncher
+	CLASS 1 ThreadStatSyncherSend
+		FIELD field_2728 field_27233_a Ljava/util/Map;
+		FIELD field_2729 field_27232_b Lnet/minecraft/class_605;
+	CLASS 2 ThreadStatSyncherReceive
+		FIELD field_2730 field_27231_a Lnet/minecraft/class_605;
+	FIELD field_2715 field_27438_a Z
+	FIELD field_2716 field_27437_b Ljava/util/Map;
+	FIELD field_2717 field_27436_c Ljava/util/Map;
+	FIELD field_2718 field_27435_d Lnet/minecraft/class_96;
+	FIELD field_2719 field_27434_e Ljava/io/File;
+	FIELD field_2720 field_27433_f Ljava/io/File;
+	FIELD field_2721 field_27432_g Ljava/io/File;
+	FIELD field_2722 field_27431_h Ljava/io/File;
+	FIELD field_2723 field_27430_i Ljava/io/File;
+	FIELD field_2724 field_27429_j Ljava/io/File;
+	FIELD field_2725 field_27428_k Lnet/minecraft/class_237;
+	FIELD field_2726 field_27427_l I
+	FIELD field_2727 field_27426_m I
+	METHOD method_2064 syncStatsFileWithMap (Ljava/util/Map;)V

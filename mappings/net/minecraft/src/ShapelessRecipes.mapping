@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_453 net/minecraft/src/ShapelessRecipes
+	FIELD field_1719 recipeOutput Lnet/minecraft/class_31;
+	FIELD field_1720 recipeItems Ljava/util/List;

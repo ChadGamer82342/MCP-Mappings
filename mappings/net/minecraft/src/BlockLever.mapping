@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_530 net/minecraft/src/BlockLever
+	METHOD method_1785 checkIfAttachedToBlock (Lnet/minecraft/class_18;III)Z

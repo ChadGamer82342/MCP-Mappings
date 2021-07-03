@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_4 net/minecraft/src/TileEntityRecordPlayer
+	FIELD field_4 record I

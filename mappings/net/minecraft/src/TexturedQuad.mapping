@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_552 net/minecraft/src/TexturedQuad
+	FIELD field_2518 vertexPositions [Lnet/minecraft/class_290;
+	FIELD field_2519 nVertices I
+	FIELD field_2520 invertNormal Z
+	METHOD method_1925 flipFace ()V
+	METHOD method_1926 draw (Lnet/minecraft/class_67;F)V

@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_251 net/minecraft/src/McRegionChunkLoader
+	FIELD field_930 worldDir Ljava/io/File;

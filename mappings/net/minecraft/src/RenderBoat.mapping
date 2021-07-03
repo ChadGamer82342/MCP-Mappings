@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_172 net/minecraft/src/RenderBoat
+	FIELD field_596 modelBoat Lnet/minecraft/class_173;

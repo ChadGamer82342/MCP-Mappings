@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_570 net/minecraft/src/ImageBufferDownload
+	FIELD field_2445 imageData [I
+	FIELD field_2446 imageWidth I
+	FIELD field_2447 imageHeight I

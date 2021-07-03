@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_427 net/minecraft/src/RenderArrow
+	METHOD method_1416 renderArrow (Lnet/minecraft/class_410;DDDFF)V

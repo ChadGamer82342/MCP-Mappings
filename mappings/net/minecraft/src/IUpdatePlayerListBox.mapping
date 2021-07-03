@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_46 net/minecraft/src/IUpdatePlayerListBox
+	METHOD method_148 update ()V

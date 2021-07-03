@@ -1,0 +1,20 @@
+CLASS net/minecraft/class_549 net/minecraft/src/EntityMinecart
+	FIELD field_2272 minecartCurrentDamage I
+	FIELD field_2273 minecartTimeSinceHit I
+	FIELD field_2274 minecartRockDirection I
+	FIELD field_2275 minecartType I
+	FIELD field_2276 fuel I
+	FIELD field_2277 pushX D
+	FIELD field_2278 pushZ D
+	FIELD field_2279 cargoItems [Lnet/minecraft/class_31;
+	FIELD field_2280 field_856_i Z
+	FIELD field_2281 field_855_j [[[I
+	FIELD field_2282 field_9415_k I
+	FIELD field_2283 field_9414_l D
+	FIELD field_2284 field_9413_m D
+	FIELD field_2285 field_9412_n D
+	FIELD field_2286 field_9411_o D
+	FIELD field_2287 field_9410_p D
+	FIELD field_2288 field_9409_q D
+	FIELD field_2289 field_9408_r D
+	FIELD field_2290 field_9407_s D

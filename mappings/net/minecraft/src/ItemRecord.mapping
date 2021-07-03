@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_449 net/minecraft/src/ItemRecord
+	FIELD field_1710 recordName Ljava/lang/String;

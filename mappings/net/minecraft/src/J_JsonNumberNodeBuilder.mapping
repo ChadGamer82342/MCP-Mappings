@@ -1,0 +1,2 @@
+CLASS argo/jdom/JsonNumberNodeBuilder net/minecraft/src/J_JsonNumberNodeBuilder
+	FIELD value field_27239_a Largo/jdom/JsonNode;

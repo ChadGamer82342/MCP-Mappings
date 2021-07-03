@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_155 net/minecraft/src/ConsoleLogManager
+	FIELD field_557 logger Ljava/util/logging/Logger;
+	METHOD method_534 init ()V

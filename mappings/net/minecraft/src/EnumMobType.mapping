@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_389 net/minecraft/src/EnumMobType
+	FIELD field_1505 everything Lnet/minecraft/class_389;
+	FIELD field_1506 mobs Lnet/minecraft/class_389;
+	FIELD field_1507 players Lnet/minecraft/class_389;
+	FIELD field_1508 field_1340_d [Lnet/minecraft/class_389;

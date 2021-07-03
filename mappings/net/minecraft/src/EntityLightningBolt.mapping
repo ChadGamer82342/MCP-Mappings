@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_411 net/minecraft/src/EntityLightningBolt
+	FIELD field_2687 field_27029_a J
+	FIELD field_2688 field_27028_b I
+	FIELD field_2689 field_27030_c I

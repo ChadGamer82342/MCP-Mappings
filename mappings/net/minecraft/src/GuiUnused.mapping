@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_625 net/minecraft/src/GuiUnused
+	FIELD field_2699 message1 Ljava/lang/String;
+	FIELD field_2700 message2 Ljava/lang/String;

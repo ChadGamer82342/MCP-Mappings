@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_524 net/minecraft/src/GuiFurnace
+	FIELD field_2191 furnaceInventory Lnet/minecraft/class_138;

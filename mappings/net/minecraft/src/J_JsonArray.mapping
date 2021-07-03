@@ -1,0 +1,4 @@
+CLASS argo/jdom/JsonArray net/minecraft/src/J_JsonArray
+	CLASS 1 J_JsonNodeList
+		FIELD val$elements field_27405_a Ljava/lang/Iterable;
+	FIELD elements field_27221_a Ljava/util/List;

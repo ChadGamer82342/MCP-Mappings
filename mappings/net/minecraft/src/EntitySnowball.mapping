@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_484 net/minecraft/src/EntitySnowball
+	FIELD field_1990 shakeSnowball I
+	FIELD field_1991 xTileSnowball I
+	FIELD field_1992 yTileSnowball I
+	FIELD field_1993 zTileSnowball I
+	FIELD field_1994 inTileSnowball I
+	FIELD field_1995 inGroundSnowball Z
+	FIELD field_1996 thrower Lnet/minecraft/class_127;
+	FIELD field_1997 ticksInGroundSnowball I
+	FIELD field_1998 ticksInAirSnowball I
+	METHOD method_1656 setSnowballHeading (DDDFF)V

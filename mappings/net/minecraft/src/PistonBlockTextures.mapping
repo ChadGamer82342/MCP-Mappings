@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_505 net/minecraft/src/PistonBlockTextures
+	FIELD field_2106 field_31057_a [I
+	FIELD field_2107 field_31056_b [I
+	FIELD field_2108 field_31059_c [I
+	FIELD field_2109 field_31058_d [I

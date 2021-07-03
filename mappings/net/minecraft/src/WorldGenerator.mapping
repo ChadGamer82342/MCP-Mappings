@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_239 net/minecraft/src/WorldGenerator
+	METHOD method_1143 func_420_a (DDD)V

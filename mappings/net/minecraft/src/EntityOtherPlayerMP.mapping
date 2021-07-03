@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_614 net/minecraft/src/EntityOtherPlayerMP
+	FIELD field_2648 field_20924_a F
+	FIELD field_2649 field_785_bg I
+	FIELD field_2650 field_784_bh D
+	FIELD field_2651 field_783_bi D
+	FIELD field_2652 field_782_bj D
+	FIELD field_2653 field_780_bk D
+	FIELD field_2654 field_786_bl D

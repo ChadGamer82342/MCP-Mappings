@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_387 net/minecraft/src/ChunkFilePattern
+	FIELD field_1485 field_22189_a Ljava/util/regex/Pattern;

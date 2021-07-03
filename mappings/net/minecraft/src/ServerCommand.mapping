@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_38 net/minecraft/src/ServerCommand
+	FIELD field_159 command Ljava/lang/String;
+	FIELD field_160 commandListener Lnet/minecraft/class_39;

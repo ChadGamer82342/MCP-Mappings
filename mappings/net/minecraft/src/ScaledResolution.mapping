@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_564 net/minecraft/src/ScaledResolution
+	FIELD field_2389 field_25121_a D
+	FIELD field_2390 field_25120_b D
+	FIELD field_2391 scaleFactor I
+	FIELD field_2392 scaledWidth I
+	FIELD field_2393 scaledHeight I
+	METHOD method_1857 getScaledWidth ()I
+	METHOD method_1858 getScaledHeight ()I

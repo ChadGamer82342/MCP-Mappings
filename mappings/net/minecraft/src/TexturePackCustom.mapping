@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_592 net/minecraft/src/TexturePackCustom
+	FIELD field_2562 texturePackZipFile Ljava/util/zip/ZipFile;
+	FIELD field_2563 texturePackName I
+	FIELD field_2564 texturePackThumbnail Ljava/awt/image/BufferedImage;
+	FIELD field_2565 texturePackFile Ljava/io/File;
+	METHOD method_1962 truncateString (Ljava/lang/String;)Ljava/lang/String;

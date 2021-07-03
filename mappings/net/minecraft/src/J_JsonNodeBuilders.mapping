@@ -1,0 +1,4 @@
+CLASS argo/jdom/JsonNodeBuilders net/minecraft/src/J_JsonNodeBuilders
+	CLASS 1 J_JsonNullNodeBuilder
+	CLASS 2 J_JsonTrueNodeBuilder
+	CLASS 3 J_JsonFalseNodeBuilder

@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_432 net/minecraft/src/Packet130UpdateSign
+	FIELD field_1755 xPosition I
+	FIELD field_1756 yPosition I
+	FIELD field_1757 zPosition I
+	FIELD field_1758 signLines [Ljava/lang/String;

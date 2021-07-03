@@ -1,0 +1,22 @@
+CLASS net/minecraft/class_8 net/minecraft/src/NBTTagCompound
+	FIELD field_1199 tagMap Ljava/util/Map;
+	METHOD method_1012 setByte (Ljava/lang/String;B)V
+	METHOD method_1013 setDouble (Ljava/lang/String;D)V
+	METHOD method_1014 setFloat (Ljava/lang/String;F)V
+	METHOD method_1015 setInteger (Ljava/lang/String;I)V
+	METHOD method_1016 setLong (Ljava/lang/String;J)V
+	METHOD method_1019 setString (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD method_1020 setShort (Ljava/lang/String;S)V
+	METHOD method_1021 setBoolean (Ljava/lang/String;Z)V
+	METHOD method_1022 setByteArray (Ljava/lang/String;[B)V
+	METHOD method_1023 hasKey (Ljava/lang/String;)Z
+	METHOD method_1024 func_28107_c ()Ljava/util/Collection;
+	METHOD method_1025 getByte (Ljava/lang/String;)B
+	METHOD method_1026 getShort (Ljava/lang/String;)S
+	METHOD method_1027 getInteger (Ljava/lang/String;)I
+	METHOD method_1028 getLong (Ljava/lang/String;)J
+	METHOD method_1029 getFloat (Ljava/lang/String;)F
+	METHOD method_1030 getDouble (Ljava/lang/String;)D
+	METHOD method_1031 getString (Ljava/lang/String;)Ljava/lang/String;
+	METHOD method_1032 getByteArray (Ljava/lang/String;)[B
+	METHOD method_1035 getBoolean (Ljava/lang/String;)Z

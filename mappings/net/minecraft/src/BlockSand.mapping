@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_123 net/minecraft/src/BlockSand
+	FIELD field_375 fallInstantly Z
+	METHOD method_435 canFallBelow (Lnet/minecraft/class_18;III)Z
+	METHOD method_436 tryToFall (Lnet/minecraft/class_18;III)V

@@ -1,0 +1,5 @@
+CLASS argo/saj/PositionTrackingPushbackReader net/minecraft/src/J_PositionTrackingPushbackReader
+	FIELD characterCount field_27337_b I
+	FIELD lastCharacterWasCarriageReturn field_27339_d Z
+	FIELD lineCount field_27340_c I
+	FIELD pushbackReader field_27338_a Ljava/io/PushbackReader;

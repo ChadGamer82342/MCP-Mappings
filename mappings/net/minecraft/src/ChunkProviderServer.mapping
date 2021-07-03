@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_79 net/minecraft/src/ChunkProviderServer
+	FIELD field_933 chunkLoadOverride Z
+	FIELD field_934 field_725_a Ljava/util/Set;
+	FIELD field_935 dummyChunk Lnet/minecraft/class_43;
+	FIELD field_936 serverChunkGenerator Lnet/minecraft/class_51;
+	FIELD field_937 field_729_d Lnet/minecraft/class_243;
+	FIELD field_938 id2ChunkMap Ljava/util/Map;
+	FIELD field_939 field_727_f Ljava/util/List;
+	FIELD field_940 world Lnet/minecraft/class_73;
+	METHOD method_848 func_375_a (Lnet/minecraft/class_43;)V
+	METHOD method_849 func_373_b (Lnet/minecraft/class_43;)V
+	METHOD method_850 func_374_c (II)V

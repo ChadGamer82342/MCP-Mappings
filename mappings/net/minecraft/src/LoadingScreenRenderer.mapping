@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_452 net/minecraft/src/LoadingScreenRenderer
+	FIELD field_1714 field_1004_a Ljava/lang/String;
+	FIELD field_1715 mc Lnet/minecraft/client/Minecraft;
+	FIELD field_1716 field_1007_c Ljava/lang/String;
+	FIELD field_1717 field_1006_d J
+	FIELD field_1718 field_1005_e Z
+	METHOD method_1491 printText (Ljava/lang/String;)V

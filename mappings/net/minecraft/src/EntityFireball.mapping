@@ -1,0 +1,13 @@
+CLASS net/minecraft/class_372 net/minecraft/src/EntityFireball
+	FIELD field_2192 field_9406_a I
+	FIELD field_2193 field_9397_j Lnet/minecraft/class_127;
+	FIELD field_2194 field_9405_b D
+	FIELD field_2195 field_9404_c D
+	FIELD field_2196 field_9403_d D
+	FIELD field_2197 field_9402_e I
+	FIELD field_2198 field_9401_f I
+	FIELD field_2199 field_9400_g I
+	FIELD field_2200 field_9399_h I
+	FIELD field_2201 field_9398_i Z
+	FIELD field_2202 field_9396_k I
+	FIELD field_2203 field_9395_l I

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_320 net/minecraft/src/InventoryLargeChest
+	FIELD field_1215 name Ljava/lang/String;
+	FIELD field_1216 upperChest Lnet/minecraft/class_134;
+	FIELD field_1217 lowerChest Lnet/minecraft/class_134;

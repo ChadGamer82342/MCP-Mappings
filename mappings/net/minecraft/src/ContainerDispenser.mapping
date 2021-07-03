@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_407 net/minecraft/src/ContainerDispenser
+	FIELD field_1551 field_21149_a Lnet/minecraft/class_137;

@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_594 net/minecraft/src/GuiAchievement
+	FIELD field_2571 theGame Lnet/minecraft/client/Minecraft;
+	FIELD field_2572 achievementWindowWidth I
+	FIELD field_2573 achievementWindowHeight I
+	FIELD field_2574 field_25085_d Ljava/lang/String;
+	FIELD field_2575 field_25084_e Ljava/lang/String;
+	FIELD field_2576 theAchievement Lnet/minecraft/class_24;
+	FIELD field_2577 field_25083_f J
+	FIELD field_2578 itemRender Lnet/minecraft/class_92;
+	FIELD field_2579 field_27103_i Z
+	METHOD method_1963 updateAchievementWindow ()V
+	METHOD method_1964 queueTakenAchievement (Lnet/minecraft/class_24;)V
+	METHOD method_1965 updateAchievementWindowScale ()V
+	METHOD method_1966 queueAchievementInformation (Lnet/minecraft/class_24;)V

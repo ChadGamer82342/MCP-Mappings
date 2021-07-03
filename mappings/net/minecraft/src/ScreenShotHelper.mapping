@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_260 net/minecraft/src/ScreenShotHelper
+	FIELD field_1005 dateFormat Ljava/text/DateFormat;
+	FIELD field_1006 buffer Ljava/nio/ByteBuffer;
+	FIELD field_1007 pixelData [B
+	FIELD field_1008 imageData [I
+	METHOD method_908 saveScreenshot (Ljava/io/File;II)Ljava/lang/String;

@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_266 net/minecraft/src/SoundPool
+	FIELD field_1086 numberOfSoundPoolEntries I
+	FIELD field_1087 field_1657_b Z
+	FIELD field_1088 rand Ljava/util/Random;
+	FIELD field_1089 nameToSoundPoolEntriesMapping Ljava/util/Map;
+	FIELD field_1090 allSoundPoolEntries Ljava/util/List;

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_105 net/minecraft/src/MapGenBase
+	FIELD field_330 field_1306_a I
+	FIELD field_331 rand Ljava/util/Random;
+	METHOD method_396 func_666_a (Lnet/minecraft/class_18;IIII[B)V

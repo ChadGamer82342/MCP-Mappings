@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_142 net/minecraft/src/EntityItem
+	FIELD field_564 item Lnet/minecraft/class_31;
+	FIELD field_565 age I
+	FIELD field_566 delayBeforeCanPickup I
+	FIELD field_567 field_804_d F
+	FIELD field_568 field_803_e I
+	FIELD field_569 health I

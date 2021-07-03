@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_184 net/minecraft/src/Packet10Flying
+	FIELD field_636 xPosition D
+	FIELD field_637 yPosition D
+	FIELD field_638 zPosition D
+	FIELD field_639 stance D
+	FIELD field_640 yaw F
+	FIELD field_641 pitch F
+	FIELD field_642 onGround Z
+	FIELD field_643 moving Z
+	FIELD field_644 rotating Z

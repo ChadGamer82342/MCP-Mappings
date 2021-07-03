@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_264 net/minecraft/src/GuiChest
+	FIELD field_1063 upperChestInventory Lnet/minecraft/class_134;
+	FIELD field_1064 lowerChestInventory Lnet/minecraft/class_134;
+	FIELD field_1065 inventoryRows I

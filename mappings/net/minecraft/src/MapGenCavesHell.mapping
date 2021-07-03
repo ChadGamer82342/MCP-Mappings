@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_344 net/minecraft/src/MapGenCavesHell
+	METHOD method_1145 func_4106_a (II[BDDD)V
+	METHOD method_1146 func_4105_a (II[BDDDFFFIID)V

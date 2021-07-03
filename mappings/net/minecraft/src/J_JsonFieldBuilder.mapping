@@ -1,0 +1,3 @@
+CLASS argo/jdom/JsonFieldBuilder net/minecraft/src/J_JsonFieldBuilder
+	FIELD keyBuilder field_27306_a Largo/jdom/JsonNodeBuilder;
+	FIELD valueBuilder field_27305_b Largo/jdom/JsonNodeBuilder;

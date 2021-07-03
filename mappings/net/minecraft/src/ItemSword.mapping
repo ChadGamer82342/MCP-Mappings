@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_352 net/minecraft/src/ItemSword
+	FIELD field_1314 weaponDamage I

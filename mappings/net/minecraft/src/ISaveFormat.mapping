@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_182 net/minecraft/src/ISaveFormat
+	METHOD method_1003 flushCache ()V
+	METHOD method_1007 isOldMapFormat (Ljava/lang/String;)Z

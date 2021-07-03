@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_493 net/minecraft/src/ModelSlime
+	FIELD field_2016 slimeBodies Lnet/minecraft/class_163;
+	FIELD field_2017 slimeRightEye Lnet/minecraft/class_163;
+	FIELD field_2018 slimeLeftEye Lnet/minecraft/class_163;
+	FIELD field_2019 slimeMouth Lnet/minecraft/class_163;

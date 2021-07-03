@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_533 net/minecraft/src/ItemBlock
+	FIELD field_2216 blockID I

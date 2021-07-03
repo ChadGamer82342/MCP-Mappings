@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_318 net/minecraft/src/RecipesFood
+	METHOD method_1045 addRecipes (Lnet/minecraft/class_148;)V

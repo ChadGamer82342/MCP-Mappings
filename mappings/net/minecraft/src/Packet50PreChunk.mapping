@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_403 net/minecraft/src/Packet50PreChunk
+	FIELD field_1546 xPosition I
+	FIELD field_1547 yPosition I
+	FIELD field_1548 mode Z

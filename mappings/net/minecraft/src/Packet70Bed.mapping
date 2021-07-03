@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_434 net/minecraft/src/Packet70Bed
+	FIELD field_2080 field_25020_a [Ljava/lang/String;
+	FIELD field_2081 field_25019_b I

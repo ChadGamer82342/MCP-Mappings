@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_506 net/minecraft/src/ContainerChest
+	FIELD field_2110 field_20125_a Lnet/minecraft/class_134;
+	FIELD field_2111 field_27282_b I

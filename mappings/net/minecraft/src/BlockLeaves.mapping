@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_299 net/minecraft/src/BlockLeaves
+	FIELD field_1171 adjacentTreeBlocks [I
+	FIELD field_1172 baseIndexInPNG I
+	METHOD method_990 removeLeaves (Lnet/minecraft/class_18;III)V
+	METHOD method_991 setGraphicsLevel (Z)V

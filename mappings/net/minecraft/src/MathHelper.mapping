@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_189 net/minecraft/src/MathHelper
+	FIELD field_664 SIN_TABLE [F
+	METHOD method_642 sqrt_double (D)F
+	METHOD method_643 abs_max (DD)D
+	METHOD method_644 sin (F)F
+	METHOD method_645 floor_double (D)I
+	METHOD method_646 cos (F)F
+	METHOD method_647 sqrt_float (F)F
+	METHOD method_648 floor_float (F)I
+	METHOD method_649 abs (F)F
+	METHOD method_650 bucketInt (II)I
+	METHOD method_651 stringNullOrLengthZero (Ljava/lang/String;)Z

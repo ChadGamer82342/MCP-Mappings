@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_531 net/minecraft/src/EnumOS2
+	FIELD field_2210 linux Lnet/minecraft/class_531;
+	FIELD field_2211 solaris Lnet/minecraft/class_531;
+	FIELD field_2212 windows Lnet/minecraft/class_531;
+	FIELD field_2213 macos Lnet/minecraft/class_531;
+	FIELD field_2214 unknown Lnet/minecraft/class_531;
+	FIELD field_2215 field_6511_f [Lnet/minecraft/class_531;

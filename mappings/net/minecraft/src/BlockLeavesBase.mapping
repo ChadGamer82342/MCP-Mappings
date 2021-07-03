@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_307 net/minecraft/src/BlockLeavesBase
+	FIELD field_1192 graphicsLevel Z

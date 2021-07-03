@@ -1,0 +1,15 @@
+CLASS net/minecraft/class_390 net/minecraft/src/ChunkProviderLoadOrGenerate
+	FIELD field_1509 lastQueriedChunkXPos I
+	FIELD field_1510 lastQueriedChunkZPos I
+	FIELD field_1511 blankChunk Lnet/minecraft/class_43;
+	FIELD field_1512 chunkProvider Lnet/minecraft/class_51;
+	FIELD field_1513 chunkLoader Lnet/minecraft/class_243;
+	FIELD field_1514 chunks [Lnet/minecraft/class_43;
+	FIELD field_1515 worldObj Lnet/minecraft/class_18;
+	FIELD field_1516 lastQueriedChunk Lnet/minecraft/class_43;
+	FIELD field_1517 curChunkX I
+	FIELD field_1518 curChunkY I
+	METHOD method_1240 saveExtraChunkData (Lnet/minecraft/class_43;)V
+	METHOD method_1241 saveChunk (Lnet/minecraft/class_43;)V
+	METHOD method_1242 setCurrentChunkOver (II)V
+	METHOD method_1243 canChunkExist (II)Z

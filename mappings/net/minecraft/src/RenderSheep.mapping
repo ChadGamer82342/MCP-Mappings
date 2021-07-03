@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_612 net/minecraft/src/RenderSheep
+	METHOD method_2004 setWoolColorAndRender (Lnet/minecraft/class_613;IF)Z

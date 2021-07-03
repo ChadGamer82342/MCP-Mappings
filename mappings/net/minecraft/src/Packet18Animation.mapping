@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_305 net/minecraft/src/Packet18Animation
+	FIELD field_1189 entityId I
+	FIELD field_1190 animate I

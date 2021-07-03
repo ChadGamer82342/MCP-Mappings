@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_535 net/minecraft/src/EntityPigZombie
+	FIELD field_2242 angerLevel I
+	FIELD field_2243 randomSoundDelay I
+	FIELD field_2244 defaultHeldItem Lnet/minecraft/class_31;
+	METHOD method_1792 becomeAngryAt (Lnet/minecraft/class_57;)V

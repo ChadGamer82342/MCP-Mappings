@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_68 net/minecraft/src/ICamera
+	METHOD method_2006 setPosition (DDD)V
+	METHOD method_2007 isBoundingBoxInFrustum (Lnet/minecraft/class_25;)Z

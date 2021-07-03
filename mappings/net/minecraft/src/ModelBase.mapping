@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_173 net/minecraft/src/ModelBase
+	FIELD field_1427 onGround F
+	FIELD field_1428 isRiding Z
+	METHOD method_1209 setLivingAnimations (Lnet/minecraft/class_127;FFF)V
+	METHOD method_1210 setRotationAngles (FFFFFF)V
+	METHOD method_1211 render (FFFFFF)V

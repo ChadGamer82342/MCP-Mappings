@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_444 net/minecraft/src/TileEntityNote
+	FIELD field_1699 note B
+	FIELD field_1700 previousRedstoneState Z
+	METHOD method_1476 changePitch ()V
+	METHOD method_1477 triggerNote (Lnet/minecraft/class_18;III)V

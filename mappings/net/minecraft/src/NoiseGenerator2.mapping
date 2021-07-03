@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_459 net/minecraft/src/NoiseGenerator2
+	FIELD field_2166 field_4292_a D
+	FIELD field_2167 field_4291_b D
+	FIELD field_2168 field_4297_c D
+	FIELD field_2169 field_4296_d [[I
+	FIELD field_2170 field_4295_e [I
+	FIELD field_2171 field_4294_f D
+	FIELD field_2172 field_4293_g D
+	METHOD method_1758 wrap (D)I
+	METHOD method_1759 func_4115_a ([DDDIIDDD)V
+	METHOD method_1760 func_4114_a ([IDD)D

@@ -1,0 +1,13 @@
+CLASS net/minecraft/class_357 net/minecraft/src/Packet27Position
+	FIELD field_1330 field_22039_a F
+	FIELD field_1331 field_22038_b F
+	FIELD field_1332 field_22043_c Z
+	FIELD field_1333 field_22042_d Z
+	FIELD field_1334 field_22041_e F
+	FIELD field_1335 field_22040_f F
+	METHOD method_1174 func_22031_c ()F
+	METHOD method_1175 func_22029_d ()F
+	METHOD method_1176 func_22028_e ()F
+	METHOD method_1177 func_22033_f ()F
+	METHOD method_1178 func_22032_g ()Z
+	METHOD method_1179 func_22030_h ()Z

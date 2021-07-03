@@ -1,0 +1,13 @@
+CLASS argo/jdom/JsonListenerToJdomAdapter net/minecraft/src/J_JsonListenerToJdomAdapter
+	CLASS 1 J_ArrayNodeContainer
+		FIELD this$0 field_27293_b Largo/jdom/JsonListenerToJdomAdapter;
+		FIELD val$arrayBuilder field_27294_a Largo/jdom/JsonArrayNodeBuilder;
+	CLASS 2 J_ObjectNodeContainer
+		FIELD this$0 field_27295_b Largo/jdom/JsonListenerToJdomAdapter;
+		FIELD val$objectNodeBuilder field_27296_a Largo/jdom/JsonObjectNodeBuilder;
+	CLASS 3 J_FieldNodeContainer
+		FIELD this$0 field_27291_b Largo/jdom/JsonListenerToJdomAdapter;
+		FIELD val$fieldBuilder field_27292_a Largo/jdom/JsonFieldBuilder;
+	CLASS NodeContainer J_NodeContainer
+	FIELD root field_27209_b Largo/jdom/JsonNodeBuilder;
+	FIELD stack field_27210_a Ljava/util/Stack;

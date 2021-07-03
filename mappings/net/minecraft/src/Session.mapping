@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_237 net/minecraft/src/Session
+	FIELD field_871 registeredBlocksList Ljava/util/List;
+	FIELD field_872 username Ljava/lang/String;
+	FIELD field_873 sessionId Ljava/lang/String;
+	FIELD field_874 mpPassParameter Ljava/lang/String;

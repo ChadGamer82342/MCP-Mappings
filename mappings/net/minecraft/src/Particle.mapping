@@ -1,0 +1,20 @@
+CLASS net/minecraft/class_388 net/minecraft/src/Particle
+	FIELD field_1486 field_25146_a D
+	FIELD field_1487 field_25145_b D
+	FIELD field_1488 field_25144_c D
+	FIELD field_1489 field_25143_d D
+	FIELD field_1490 field_25142_e D
+	FIELD field_1491 field_25141_f D
+	FIELD field_1492 field_25140_g D
+	FIELD field_1493 field_25139_h Z
+	FIELD field_1494 field_25138_i I
+	FIELD field_1495 field_25137_j I
+	FIELD field_1496 field_25136_k D
+	FIELD field_1497 field_25135_l D
+	FIELD field_1498 field_25134_m D
+	FIELD field_1499 field_25133_n D
+	FIELD field_1500 field_25132_o D
+	FIELD field_1501 field_25131_p D
+	FIELD field_1502 field_25130_q D
+	FIELD field_1503 field_25129_r D
+	FIELD field_1504 field_25128_s Ljava/util/Random;

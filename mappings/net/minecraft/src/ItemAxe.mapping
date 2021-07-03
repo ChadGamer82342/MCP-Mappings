@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_420 net/minecraft/src/ItemAxe
+	FIELD field_1681 blocksEffectiveAgainst [Lnet/minecraft/class_17;

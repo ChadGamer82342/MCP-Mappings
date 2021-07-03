@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_33 net/minecraft/src/GuiButton
+	FIELD field_1368 width I
+	FIELD field_1369 height I
+	FIELD field_1370 xPosition I
+	FIELD field_1371 yPosition I
+	FIELD field_1372 displayString Ljava/lang/String;
+	FIELD field_1373 id I
+	FIELD field_1374 enabled Z
+	FIELD field_1375 enabled2 Z
+	METHOD method_1185 mouseReleased (II)V
+	METHOD method_1186 drawButton (Lnet/minecraft/client/Minecraft;II)V
+	METHOD method_1187 getHoverState (Z)I
+	METHOD method_1188 mouseDragged (Lnet/minecraft/client/Minecraft;II)V
+	METHOD method_1189 mousePressed (Lnet/minecraft/client/Minecraft;II)Z

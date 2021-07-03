@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_313 net/minecraft/src/EntityChicken
+	FIELD field_2159 field_753_a Z
+	FIELD field_2160 field_752_b F
+	FIELD field_2161 destPos F
+	FIELD field_2162 field_757_d F
+	FIELD field_2163 field_756_e F
+	FIELD field_2164 field_755_h F
+	FIELD field_2165 timeUntilNextEgg I

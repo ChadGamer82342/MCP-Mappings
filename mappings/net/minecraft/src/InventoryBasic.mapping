@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_275 net/minecraft/src/InventoryBasic
+	FIELD field_2385 inventoryTitle Ljava/lang/String;
+	FIELD field_2386 slotsCount I
+	FIELD field_2387 inventoryContents [Lnet/minecraft/class_31;
+	FIELD field_2388 field_20073_d Ljava/util/List;

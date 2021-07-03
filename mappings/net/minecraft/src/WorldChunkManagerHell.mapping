@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_152 net/minecraft/src/WorldChunkManagerHell
+	FIELD field_554 field_4201_e Lnet/minecraft/class_153;
+	FIELD field_555 field_4200_f D
+	FIELD field_556 field_4199_g D

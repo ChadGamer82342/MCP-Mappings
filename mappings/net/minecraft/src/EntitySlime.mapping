@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_451 net/minecraft/src/EntitySlime
+	FIELD field_1951 field_768_a F
+	FIELD field_1952 field_767_b F
+	FIELD field_1953 slimeJumpDelay I
+	METHOD method_1631 setSlimeSize (I)V
+	METHOD method_1632 getSlimeSize ()I

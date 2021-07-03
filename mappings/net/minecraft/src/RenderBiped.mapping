@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_589 net/minecraft/src/RenderBiped
+	FIELD field_2556 modelBipedMain Lnet/minecraft/class_87;

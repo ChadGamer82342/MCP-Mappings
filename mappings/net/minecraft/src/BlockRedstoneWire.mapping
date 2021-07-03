@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_408 net/minecraft/src/BlockRedstoneWire
+	FIELD field_1570 wiresProvidePower Z
+	FIELD field_1571 field_21031_b Ljava/util/Set;
+	METHOD method_1286 func_21031_a (Lnet/minecraft/class_18;IIIIII)V
+	METHOD method_1287 isPowerProviderOrWire (Lnet/minecraft/class_14;IIII)Z
+	METHOD method_1288 getMaxCurrentStrength (Lnet/minecraft/class_18;IIII)I
+	METHOD method_1289 updateAndPropagateCurrentStrength (Lnet/minecraft/class_18;III)V
+	METHOD method_1290 notifyWireNeighborsOfNeighborChange (Lnet/minecraft/class_18;III)V

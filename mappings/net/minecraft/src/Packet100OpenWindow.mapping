@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_201 net/minecraft/src/Packet100OpenWindow
+	FIELD field_741 windowId I
+	FIELD field_742 inventoryType I
+	FIELD field_743 windowTitle Ljava/lang/String;
+	FIELD field_744 slotsCount I

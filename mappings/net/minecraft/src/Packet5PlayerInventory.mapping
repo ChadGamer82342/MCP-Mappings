@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_393 net/minecraft/src/Packet5PlayerInventory
+	FIELD field_1522 entityID I
+	FIELD field_1523 slot I
+	FIELD field_1524 itemID I
+	FIELD field_1525 itemDamage I

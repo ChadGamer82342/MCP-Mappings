@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_386 net/minecraft/src/KeyBinding
+	FIELD field_2380 keyDescription Ljava/lang/String;
+	FIELD field_2381 keyCode I

@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_234 net/minecraft/src/Packet17Sleep
+	FIELD field_864 field_22045_a I
+	FIELD field_865 field_22044_b I
+	FIELD field_866 field_22048_c I
+	FIELD field_867 field_22047_d I
+	FIELD field_868 field_22046_e I

@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_343 net/minecraft/src/EnumOS1
+	FIELD field_1303 linux Lnet/minecraft/class_343;
+	FIELD field_1304 solaris Lnet/minecraft/class_343;
+	FIELD field_1305 windows Lnet/minecraft/class_343;
+	FIELD field_1306 macos Lnet/minecraft/class_343;
+	FIELD field_1307 unknown Lnet/minecraft/class_343;
+	FIELD field_1308 field_6525_f [Lnet/minecraft/class_343;

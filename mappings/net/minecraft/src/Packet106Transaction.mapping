@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_325 net/minecraft/src/Packet106Transaction
+	FIELD field_1222 windowId I
+	FIELD field_1223 field_20028_b S
+	FIELD field_1224 field_20030_c Z

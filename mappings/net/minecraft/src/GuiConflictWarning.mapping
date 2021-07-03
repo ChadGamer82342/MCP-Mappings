@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_562 net/minecraft/src/GuiConflictWarning
+	FIELD field_2382 updateCounter I

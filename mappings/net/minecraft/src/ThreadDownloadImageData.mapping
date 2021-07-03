@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_130 net/minecraft/src/ThreadDownloadImageData
+	CLASS 1 ThreadDownloadImage
+		FIELD field_496 location Ljava/lang/String;
+		FIELD field_497 buffer Lnet/minecraft/class_131;
+		FIELD field_498 imageData Lnet/minecraft/class_130;
+	FIELD field_492 image Ljava/awt/image/BufferedImage;
+	FIELD field_493 referenceCount I
+	FIELD field_494 textureName I
+	FIELD field_495 textureSetupComplete Z

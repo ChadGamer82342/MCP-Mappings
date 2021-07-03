@@ -1,0 +1,20 @@
+CLASS net/minecraft/class_25 net/minecraft/src/AxisAlignedBB
+	FIELD field_129 minX D
+	FIELD field_130 minY D
+	FIELD field_131 minZ D
+	FIELD field_132 maxX D
+	FIELD field_133 maxY D
+	FIELD field_134 maxZ D
+	FIELD field_135 boundingBoxes Ljava/util/List;
+	FIELD field_136 numBoundingBoxesInUse I
+	METHOD method_85 clearBoundingBoxPool ()V
+	METHOD method_88 isVecInside (Lnet/minecraft/class_26;)Z
+	METHOD method_90 intersectsWith (Lnet/minecraft/class_25;)Z
+	METHOD method_91 calculateXOffset (Lnet/minecraft/class_25;D)D
+	METHOD method_95 isVecInYZ (Lnet/minecraft/class_26;)Z
+	METHOD method_96 setBB (Lnet/minecraft/class_25;)V
+	METHOD method_97 calculateYOffset (Lnet/minecraft/class_25;D)D
+	METHOD method_100 isVecInXZ (Lnet/minecraft/class_26;)Z
+	METHOD method_101 calculateZOffset (Lnet/minecraft/class_25;D)D
+	METHOD method_103 isVecInXY (Lnet/minecraft/class_26;)Z
+	METHOD method_106 getAverageEdgeLength ()D

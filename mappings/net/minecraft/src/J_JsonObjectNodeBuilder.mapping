@@ -1,0 +1,4 @@
+CLASS argo/jdom/JsonObjectNodeBuilder net/minecraft/src/J_JsonObjectNodeBuilder
+	CLASS 1 J_JsonObjectNodeList
+		FIELD this$0 field_27308_a Largo/jdom/JsonObjectNodeBuilder;
+	FIELD fieldBuilders field_27238_a Ljava/util/List;

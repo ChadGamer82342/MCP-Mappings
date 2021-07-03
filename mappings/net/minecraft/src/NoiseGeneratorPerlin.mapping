@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_369 net/minecraft/src/NoiseGeneratorPerlin
+	FIELD field_1407 permutations [I
+	FIELD field_1408 xCoord D
+	FIELD field_1409 yCoord D
+	FIELD field_1410 zCoord D
+	METHOD method_1199 generateNoise (DDD)D
+	METHOD method_1200 func_4102_a (IDD)D
+	METHOD method_1201 grad (IDDD)D
+	METHOD method_1202 func_646_a ([DDDDIIIDDDD)V
+	METHOD method_1203 lerp (DDD)D
+	METHOD method_1204 func_642_a (DD)D

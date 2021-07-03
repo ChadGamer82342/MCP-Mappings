@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_585 net/minecraft/src/GuiInventory
+	FIELD field_2523 xSize_lo F
+	FIELD field_2524 ySize_lo F

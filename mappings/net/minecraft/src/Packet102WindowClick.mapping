@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_363 net/minecraft/src/Packet102WindowClick
+	FIELD field_1362 window_Id I
+	FIELD field_1363 inventorySlot I
+	FIELD field_1364 mouseClick I
+	FIELD field_1365 action S
+	FIELD field_1366 itemStack Lnet/minecraft/class_31;
+	FIELD field_1367 field_27050_f Z

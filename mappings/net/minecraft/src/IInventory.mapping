@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_134 net/minecraft/src/IInventory
+	METHOD method_947 onInventoryChanged ()V
+	METHOD method_948 getSizeInventory ()I
+	METHOD method_950 setInventorySlotContents (ILnet/minecraft/class_31;)V
+	METHOD method_951 canInteractWith (Lnet/minecraft/class_54;)Z
+	METHOD method_952 getInvName ()Ljava/lang/String;
+	METHOD method_953 getInventoryStackLimit ()I

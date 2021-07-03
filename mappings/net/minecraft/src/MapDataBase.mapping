@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_58 net/minecraft/src/MapDataBase
+	FIELD field_574 field_28168_a Ljava/lang/String;
+	FIELD field_575 dirty Z
+	METHOD method_544 markDirty ()V
+	METHOD method_545 readFromNBT (Lnet/minecraft/class_8;)V
+	METHOD method_546 setDirty (Z)V
+	METHOD method_547 isDirty ()Z
+	METHOD method_548 writeToNBT (Lnet/minecraft/class_8;)V

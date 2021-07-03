@@ -1,0 +1,19 @@
+CLASS net/minecraft/class_71 net/minecraft/src/Container
+	FIELD field_2731 field_20917_a S
+	FIELD field_2732 field_20918_b Ljava/util/Set;
+	FIELD field_2733 field_20123_d Ljava/util/List;
+	FIELD field_2734 slots Ljava/util/List;
+	FIELD field_2735 windowId I
+	FIELD field_2736 field_20121_g Ljava/util/List;
+	METHOD method_2075 updateCraftingResults ()V
+	METHOD method_2076 onCraftGuiOpened (Lnet/minecraft/class_633;)V
+	METHOD method_2079 addSlot (Lnet/minecraft/class_133;)V
+	METHOD method_2080 setCanCraft (Lnet/minecraft/class_54;Z)V
+	METHOD method_2081 func_28126_a (Lnet/minecraft/class_31;IIZ)V
+	METHOD method_2083 func_28127_b ()Ljava/util/List;
+	METHOD method_2085 getCanCraft (Lnet/minecraft/class_54;)Z
+	METHOD method_2087 onCraftGuiClosed (Lnet/minecraft/class_54;)V
+	METHOD method_2088 onCraftMatrixChanged (Lnet/minecraft/class_134;)V
+	METHOD method_2089 putStackInSlot (ILnet/minecraft/class_31;)V
+	METHOD method_2092 putStacksInSlots ([Lnet/minecraft/class_31;)V
+	METHOD method_2094 isUsableByPlayer (Lnet/minecraft/class_54;)Z

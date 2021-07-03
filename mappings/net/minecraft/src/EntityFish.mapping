@@ -1,0 +1,23 @@
+CLASS net/minecraft/class_135 net/minecraft/src/EntityFish
+	FIELD field_1066 shake I
+	FIELD field_1067 angler Lnet/minecraft/class_54;
+	FIELD field_1068 bobber Lnet/minecraft/class_57;
+	FIELD field_1069 xTile I
+	FIELD field_1070 yTile I
+	FIELD field_1071 zTile I
+	FIELD field_1072 inTile I
+	FIELD field_1073 inGround Z
+	FIELD field_1074 ticksInGround I
+	FIELD field_1075 ticksInAir I
+	FIELD field_1076 ticksCatchable I
+	FIELD field_1077 field_6388_l I
+	FIELD field_1078 field_6387_m D
+	FIELD field_1079 field_6386_n D
+	FIELD field_1080 field_6385_o D
+	FIELD field_1081 field_6384_p D
+	FIELD field_1082 field_6383_q D
+	FIELD field_1083 velocityX D
+	FIELD field_1084 velocityY D
+	FIELD field_1085 velocityZ D
+	METHOD method_955 func_6142_a (DDDFF)V
+	METHOD method_956 catchFish ()I

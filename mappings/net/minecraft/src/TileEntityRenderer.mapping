@@ -1,0 +1,18 @@
+CLASS net/minecraft/class_331 net/minecraft/src/TileEntityRenderer
+	FIELD field_1552 instance Lnet/minecraft/class_331;
+	FIELD field_1553 staticPlayerX D
+	FIELD field_1554 staticPlayerY D
+	FIELD field_1555 staticPlayerZ D
+	FIELD field_1556 renderEngine Lnet/minecraft/class_76;
+	FIELD field_1557 worldObj Lnet/minecraft/class_18;
+	FIELD field_1558 entityLivingPlayer Lnet/minecraft/class_127;
+	FIELD field_1559 playerYaw F
+	FIELD field_1560 playerPitch F
+	FIELD field_1561 playerX D
+	FIELD field_1562 playerY D
+	FIELD field_1563 playerZ D
+	FIELD field_1564 specialRendererMap Ljava/util/Map;
+	FIELD field_1565 fontRenderer Lnet/minecraft/class_34;
+	METHOD method_1276 hasSpecialRenderer (Lnet/minecraft/class_55;)Z
+	METHOD method_1277 renderTileEntityAt (Lnet/minecraft/class_55;DDDF)V
+	METHOD method_1278 renderTileEntity (Lnet/minecraft/class_55;F)V

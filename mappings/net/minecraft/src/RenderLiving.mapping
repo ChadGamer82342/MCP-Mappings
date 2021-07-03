@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_245 net/minecraft/src/RenderLiving
+	FIELD field_909 mainModel Lnet/minecraft/class_173;
+	FIELD field_910 renderPassModel Lnet/minecraft/class_173;
+	METHOD method_815 setRenderPassModel (Lnet/minecraft/class_173;)V
+	METHOD method_816 getDeathMaxRotation (Lnet/minecraft/class_127;)F
+	METHOD method_817 getColorMultiplier (Lnet/minecraft/class_127;FF)I
+	METHOD method_821 passSpecialRender (Lnet/minecraft/class_127;DDD)V
+	METHOD method_822 doRenderLiving (Lnet/minecraft/class_127;DDDFF)V
+	METHOD method_823 preRenderCallback (Lnet/minecraft/class_127;F)V
+	METHOD method_824 rotateCorpse (Lnet/minecraft/class_127;FFF)V
+	METHOD method_825 shouldRenderPass (Lnet/minecraft/class_127;IF)Z
+	METHOD method_827 renderEquippedItems (Lnet/minecraft/class_127;F)V

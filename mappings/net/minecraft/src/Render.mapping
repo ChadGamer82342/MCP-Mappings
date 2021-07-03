@@ -1,0 +1,16 @@
+CLASS net/minecraft/class_579 net/minecraft/src/Render
+	FIELD field_2676 modelBase Lnet/minecraft/class_173;
+	FIELD field_2677 renderManager Lnet/minecraft/class_578;
+	FIELD field_2678 shadowSize F
+	FIELD field_2679 field_194_c F
+	FIELD field_2680 renderBlocks Lnet/minecraft/class_13;
+	METHOD method_2022 doRender (Lnet/minecraft/class_57;DDDFF)V
+	METHOD method_2024 renderAABB (Lnet/minecraft/class_25;)V
+	METHOD method_2025 renderOffsetAABB (Lnet/minecraft/class_25;DDD)V
+	METHOD method_2026 loadTexture (Ljava/lang/String;)V
+	METHOD method_2027 loadDownloadableImageTexture (Ljava/lang/String;Ljava/lang/String;)Z
+	METHOD method_2028 renderEntityOnFire (Lnet/minecraft/class_57;DDDF)V
+	METHOD method_2029 setRenderManager (Lnet/minecraft/class_578;)V
+	METHOD method_2030 renderShadowOnBlock (Lnet/minecraft/class_17;DDDIIIFFDDD)V
+	METHOD method_2032 doRenderShadowAndFire (Lnet/minecraft/class_57;DDDFF)V
+	METHOD method_2033 renderShadow (Lnet/minecraft/class_57;DDDFF)V

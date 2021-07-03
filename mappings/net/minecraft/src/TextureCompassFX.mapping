@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_356 net/minecraft/src/TextureCompassFX
+	FIELD field_1326 mc Lnet/minecraft/client/Minecraft;
+	FIELD field_1327 compassIconImageData [I
+	FIELD field_1328 field_4229_i D
+	FIELD field_1329 field_4228_j D

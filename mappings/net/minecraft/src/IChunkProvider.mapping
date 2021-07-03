@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_51 net/minecraft/src/IChunkProvider
+	METHOD method_1801 unload100OldestChunks ()Z
+	METHOD method_1802 chunkExists (II)Z
+	METHOD method_1803 populate (Lnet/minecraft/class_51;II)V
+	METHOD method_1804 saveChunks (ZLnet/minecraft/class_62;)Z
+	METHOD method_1805 canSave ()Z
+	METHOD method_1808 makeString ()Ljava/lang/String;

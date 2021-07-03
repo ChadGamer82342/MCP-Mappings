@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_595 net/minecraft/src/GuiConnecting
+	CLASS 1 ThreadConnectToServer
+		FIELD field_2582 mc Lnet/minecraft/client/Minecraft;
+		FIELD field_2583 hostName Ljava/lang/String;
+		FIELD field_2584 port I
+		FIELD field_2585 connectingGui Lnet/minecraft/class_595;
+	FIELD field_2580 clientHandler Lnet/minecraft/class_219;
+	FIELD field_2581 cancelled Z
+	METHOD method_1967 isCancelled (Lnet/minecraft/class_595;)Z

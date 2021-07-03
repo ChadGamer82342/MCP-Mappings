@@ -1,0 +1,3 @@
+CLASS argo/jdom/JsonNodeDoesNotMatchChainedJsonNodeSelectorException net/minecraft/src/J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException
+	FIELD failPath field_27325_b Ljava/util/List;
+	FIELD failedNode field_27326_a Largo/jdom/Functor;

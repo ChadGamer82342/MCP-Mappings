@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_421 net/minecraft/src/BlockFurnace
+	FIELD field_1682 furnaceRand Ljava/util/Random;
+	FIELD field_1683 isActive Z
+	FIELD field_1684 keepFurnaceInventory Z
+	METHOD method_1403 updateFurnaceBlockState (ZLnet/minecraft/class_18;III)V
+	METHOD method_1404 setDefaultDirection (Lnet/minecraft/class_18;III)V

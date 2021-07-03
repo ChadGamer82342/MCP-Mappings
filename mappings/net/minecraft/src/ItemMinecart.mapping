@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_381 net/minecraft/src/ItemMinecart
+	FIELD field_1431 minecartType I

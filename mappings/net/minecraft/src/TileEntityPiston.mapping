@@ -1,0 +1,15 @@
+CLASS net/minecraft/class_283 net/minecraft/src/TileEntityPiston
+	FIELD field_1761 storedBlockID I
+	FIELD field_1762 storedMetadata I
+	FIELD field_1763 field_31025_c I
+	FIELD field_1764 field_31024_i Z
+	FIELD field_1765 field_31023_j Z
+	FIELD field_1766 field_31022_k F
+	FIELD field_1767 field_31020_l F
+	FIELD field_1768 field_31018_m Ljava/util/List;
+	METHOD method_1518 getStoredBlockID ()I
+	METHOD method_1519 func_31007_a (F)F
+	METHOD method_1520 func_31009_a (FF)V
+	METHOD method_1521 func_31010_c ()Z
+	METHOD method_1522 func_31008_d ()I
+	METHOD method_1523 clearPistonTileEntity ()V

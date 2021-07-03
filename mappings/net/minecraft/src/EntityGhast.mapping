@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_364 net/minecraft/src/EntityGhast
+	FIELD field_1376 courseChangeCooldown I
+	FIELD field_1377 waypointX D
+	FIELD field_1378 waypointY D
+	FIELD field_1379 waypointZ D
+	FIELD field_1380 prevAttackCounter I
+	FIELD field_1381 attackCounter I
+	FIELD field_1382 targetedEntity Lnet/minecraft/class_57;
+	FIELD field_1383 aggroCooldown I
+	METHOD method_1190 isCourseTraversable (DDDD)Z

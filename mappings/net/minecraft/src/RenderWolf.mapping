@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_599 net/minecraft/src/RenderWolf
+	METHOD method_1980 renderWolf (Lnet/minecraft/class_121;DDDFF)V

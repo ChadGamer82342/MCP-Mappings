@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_171 net/minecraft/src/Packet103SetSlot
+	FIELD field_593 windowId I
+	FIELD field_594 itemSlot I
+	FIELD field_595 myItemStack Lnet/minecraft/class_31;

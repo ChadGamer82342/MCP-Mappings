@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_287 net/minecraft/src/ColorizerGrass
+	FIELD field_1141 grassBuffer [I
+	METHOD method_981 getGrassColor (DD)I

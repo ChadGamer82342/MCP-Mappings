@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_467 net/minecraft/src/Teleporter
+	FIELD field_1772 field_4232_a Ljava/util/Random;

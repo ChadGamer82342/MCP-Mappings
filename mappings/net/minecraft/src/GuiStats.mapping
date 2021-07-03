@@ -1,0 +1,23 @@
+CLASS net/minecraft/class_91 net/minecraft/src/GuiStats
+	CLASS class_95 GuiSlotStatsBlock
+		FIELD field_311 field_27274_a Lnet/minecraft/class_91;
+	CLASS class_95$1 SorterStatsBlock
+		FIELD field_312 field_27299_a Lnet/minecraft/class_91;
+	CLASS class_99 GuiSlotStats
+		FIELD field_314 field_27268_b I
+		FIELD field_315 field_27273_c Ljava/util/List;
+		FIELD field_316 field_27272_d Ljava/util/Comparator;
+		FIELD field_317 field_27271_e I
+		FIELD field_318 field_27270_f I
+		FIELD field_319 field_27269_g Lnet/minecraft/class_91;
+	CLASS class_93 GuiSlotStatsGeneral
+		FIELD field_320 field_27276_a Lnet/minecraft/class_91;
+	CLASS class_94 GuiSlotStatsItem
+		FIELD field_321 field_27275_a Lnet/minecraft/class_91;
+	CLASS class_94$1 SorterStatsItem
+		FIELD field_322 field_27373_a Lnet/minecraft/class_91;
+	FIELD field_303 field_27152_a Lnet/minecraft/class_32;
+	FIELD field_304 field_27154_i Ljava/lang/String;
+	FIELD field_305 field_27153_j Lnet/minecraft/class_92;
+	FIELD field_309 field_27156_o Lnet/minecraft/class_96;
+	FIELD field_310 field_27155_p Lnet/minecraft/class_97;

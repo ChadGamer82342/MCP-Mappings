@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_288 net/minecraft/src/SpawnListEntry
+	FIELD field_1142 entityClass Ljava/lang/Class;
+	FIELD field_1143 spawnRarityRate I

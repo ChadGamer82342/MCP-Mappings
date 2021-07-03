@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_442 net/minecraft/src/RenderPig
+	METHOD method_1475 renderSaddledPig (Lnet/minecraft/class_443;IF)Z

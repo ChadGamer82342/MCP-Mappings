@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_114 net/minecraft/src/EntityCreeper
+	FIELD field_350 timeSinceIgnited I
+	FIELD field_351 lastActiveTime I
+	METHOD method_410 setCreeperFlashTime (F)F
+	METHOD method_411 setCreeperState (I)V
+	METHOD method_412 getPowered ()Z
+	METHOD method_413 getCreeperState ()I

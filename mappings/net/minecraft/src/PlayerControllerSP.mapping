@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_520 net/minecraft/src/PlayerControllerSP
+	FIELD field_2181 field_1074_c I
+	FIELD field_2182 field_1073_d I
+	FIELD field_2183 field_1072_e I
+	FIELD field_2184 curBlockDamage F
+	FIELD field_2185 prevBlockDamage F
+	FIELD field_2186 field_1069_h F
+	FIELD field_2187 blockHitWait I

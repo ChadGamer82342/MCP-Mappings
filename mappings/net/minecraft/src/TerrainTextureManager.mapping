@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_586 net/minecraft/src/TerrainTextureManager
+	FIELD field_2525 field_1181_a [F
+	FIELD field_2526 field_1180_b [I
+	FIELD field_2527 field_1186_c [I
+	FIELD field_2528 field_1185_d [I
+	FIELD field_2529 field_1184_e [I
+	FIELD field_2530 field_1183_f [I
+	FIELD field_2531 field_1182_g [I

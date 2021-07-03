@@ -1,0 +1,21 @@
+CLASS net/minecraft/class_617 net/minecraft/src/SoundManager
+	FIELD field_2667 sndSystem Lpaulscode/sound/SoundSystem;
+	FIELD field_2668 soundPoolSounds Lnet/minecraft/class_266;
+	FIELD field_2669 soundPoolStreaming Lnet/minecraft/class_266;
+	FIELD field_2670 soundPoolMusic Lnet/minecraft/class_266;
+	FIELD field_2671 field_587_e I
+	FIELD field_2672 options Lnet/minecraft/class_322;
+	FIELD field_2673 loaded Z
+	FIELD field_2674 rand Ljava/util/Random;
+	FIELD field_2675 ticksBeforeMusic I
+	METHOD method_2008 onSoundOptionsChanged ()V
+	METHOD method_2009 playSoundFX (Ljava/lang/String;FF)V
+	METHOD method_2010 playStreaming (Ljava/lang/String;FFFFF)V
+	METHOD method_2011 addSound (Ljava/lang/String;Ljava/io/File;)V
+	METHOD method_2012 loadSoundSettings (Lnet/minecraft/class_322;)V
+	METHOD method_2014 closeMinecraft ()V
+	METHOD method_2015 playSound (Ljava/lang/String;FFFFF)V
+	METHOD method_2016 addStreaming (Ljava/lang/String;Ljava/io/File;)V
+	METHOD method_2017 playRandomMusicIfReady ()V
+	METHOD method_2018 addMusic (Ljava/lang/String;Ljava/io/File;)V
+	METHOD method_2019 tryToSetLibraryAndCodecs ()V

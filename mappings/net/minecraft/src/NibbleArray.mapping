@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_257 net/minecraft/src/NibbleArray
+	FIELD field_2103 data [B
+	METHOD method_1702 isValid ()Z
+	METHOD method_1703 getNibble (III)I
+	METHOD method_1704 setNibble (IIII)V

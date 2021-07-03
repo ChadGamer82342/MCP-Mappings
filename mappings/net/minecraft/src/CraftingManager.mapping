@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_148 net/minecraft/src/CraftingManager
+	CLASS 1 RecipeSorter
+		FIELD field_563 craftingManager Lnet/minecraft/class_148;
+	FIELD field_561 instance Lnet/minecraft/class_148;
+	FIELD field_562 recipes Ljava/util/List;
+	METHOD method_541 getRecipeList ()Ljava/util/List;

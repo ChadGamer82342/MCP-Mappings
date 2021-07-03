@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_82 net/minecraft/src/WorldGenMinable
+	FIELD field_283 minableBlockId I
+	FIELD field_284 numberOfBlocks I

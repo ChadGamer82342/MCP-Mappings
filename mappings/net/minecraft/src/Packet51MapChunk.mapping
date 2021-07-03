@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_6 net/minecraft/src/Packet51MapChunk
+	FIELD field_5 xPosition I
+	FIELD field_6 yPosition I
+	FIELD field_7 zPosition I
+	FIELD field_8 xSize I
+	FIELD field_9 ySize I
+	FIELD field_10 zSize I
+	FIELD field_11 chunk [B
+	FIELD field_12 chunkSize I

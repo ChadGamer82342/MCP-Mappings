@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_284 net/minecraft/src/PlayerListBox
+	FIELD field_1135 mcServer Lnet/minecraft/server/MinecraftServer;
+	FIELD field_1136 updateCounter I

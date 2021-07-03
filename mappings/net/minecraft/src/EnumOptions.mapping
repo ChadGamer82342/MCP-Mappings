@@ -1,0 +1,22 @@
+CLASS net/minecraft/class_271 net/minecraft/src/EnumOptions
+	FIELD field_1097 MUSIC Lnet/minecraft/class_271;
+	FIELD field_1098 SOUND Lnet/minecraft/class_271;
+	FIELD field_1099 INVERT_MOUSE Lnet/minecraft/class_271;
+	FIELD field_1100 SENSITIVITY Lnet/minecraft/class_271;
+	FIELD field_1101 RENDER_DISTANCE Lnet/minecraft/class_271;
+	FIELD field_1102 VIEW_BOBBING Lnet/minecraft/class_271;
+	FIELD field_1103 ANAGLYPH Lnet/minecraft/class_271;
+	FIELD field_1104 ADVANCED_OPENGL Lnet/minecraft/class_271;
+	FIELD field_1105 FRAMERATE_LIMIT Lnet/minecraft/class_271;
+	FIELD field_1106 DIFFICULTY Lnet/minecraft/class_271;
+	FIELD field_1107 GRAPHICS Lnet/minecraft/class_271;
+	FIELD field_1108 AMBIENT_OCCLUSION Lnet/minecraft/class_271;
+	FIELD field_1109 GUI_SCALE Lnet/minecraft/class_271;
+	FIELD field_1110 enumFloat Z
+	FIELD field_1111 enumBoolean Z
+	FIELD field_1112 enumString Ljava/lang/String;
+	FIELD field_1113 field_20141_n [Lnet/minecraft/class_271;
+	METHOD method_966 getEnumFloat ()Z
+	METHOD method_968 getEnumBoolean ()Z
+	METHOD method_969 returnEnumOrdinal ()I
+	METHOD method_970 getEnumString ()Ljava/lang/String;

@@ -1,0 +1,2 @@
+CLASS argo/jdom/JsonNodeDoesNotMatchPathElementsException net/minecraft/src/J_JsonNodeDoesNotMatchPathElementsException
+	FIELD JSON_FORMATTER field_27320_a Largo/format/JsonFormatter;

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_212 net/minecraft/src/EnumMovingObjectType
+	FIELD field_789 TILE Lnet/minecraft/class_212;
+	FIELD field_790 ENTITY Lnet/minecraft/class_212;
+	FIELD field_791 field_21178_c [Lnet/minecraft/class_212;

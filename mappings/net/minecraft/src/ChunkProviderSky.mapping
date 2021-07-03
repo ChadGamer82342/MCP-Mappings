@@ -1,0 +1,27 @@
+CLASS net/minecraft/class_208 net/minecraft/src/ChunkProviderSky
+	FIELD field_761 field_28096_a Lnet/minecraft/class_209;
+	FIELD field_762 field_28095_b Lnet/minecraft/class_209;
+	FIELD field_763 field_28094_c Lnet/minecraft/class_209;
+	FIELD field_764 field_28093_d [D
+	FIELD field_765 field_28092_e [D
+	FIELD field_766 field_28091_f [D
+	FIELD field_767 field_28090_g [D
+	FIELD field_768 field_28089_h [D
+	FIELD field_769 field_28088_i [[I
+	FIELD field_770 field_28087_j Ljava/util/Random;
+	FIELD field_771 field_28086_k Lnet/minecraft/class_209;
+	FIELD field_772 field_28085_l Lnet/minecraft/class_209;
+	FIELD field_773 field_28084_m Lnet/minecraft/class_209;
+	FIELD field_774 field_28083_n Lnet/minecraft/class_209;
+	FIELD field_775 field_28082_o Lnet/minecraft/class_209;
+	FIELD field_776 field_28081_p Lnet/minecraft/class_18;
+	FIELD field_777 field_28080_q [D
+	FIELD field_778 field_28079_r [D
+	FIELD field_779 field_28078_s [D
+	FIELD field_780 field_28077_t [D
+	FIELD field_781 field_28076_u Lnet/minecraft/class_105;
+	FIELD field_782 field_28075_v [Lnet/minecraft/class_153;
+	FIELD field_783 field_28074_w [D
+	METHOD method_737 func_28069_a (II[B[Lnet/minecraft/class_153;)V
+	METHOD method_738 func_28070_a (II[B[Lnet/minecraft/class_153;[D)V
+	METHOD method_739 func_28071_a ([DIIIIII)[D

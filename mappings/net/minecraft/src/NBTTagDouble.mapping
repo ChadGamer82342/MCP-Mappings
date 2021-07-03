@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_419 net/minecraft/src/NBTTagDouble
+	FIELD field_1680 doubleValue D

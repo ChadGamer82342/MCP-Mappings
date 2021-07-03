@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_116 net/minecraft/src/ItemPickaxe
+	FIELD field_352 blocksEffectiveAgainst [Lnet/minecraft/class_17;

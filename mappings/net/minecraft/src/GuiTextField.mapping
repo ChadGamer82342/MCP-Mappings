@@ -1,0 +1,20 @@
+CLASS net/minecraft/class_181 net/minecraft/src/GuiTextField
+	FIELD field_2420 isFocused Z
+	FIELD field_2421 isEnabled Z
+	FIELD field_2422 fontRenderer Lnet/minecraft/class_34;
+	FIELD field_2423 xPos I
+	FIELD field_2424 yPos I
+	FIELD field_2425 width I
+	FIELD field_2426 height I
+	FIELD field_2427 text Ljava/lang/String;
+	FIELD field_2428 maxStringLength I
+	FIELD field_2429 cursorCounter I
+	FIELD field_2430 parentGuiScreen Lnet/minecraft/class_32;
+	METHOD method_1876 getText ()Ljava/lang/String;
+	METHOD method_1877 textboxKeyTyped (CI)V
+	METHOD method_1878 setMaxStringLength (I)V
+	METHOD method_1879 mouseClicked (III)V
+	METHOD method_1880 setText (Ljava/lang/String;)V
+	METHOD method_1881 setFocused (Z)V
+	METHOD method_1882 updateCursorCounter ()V
+	METHOD method_1883 drawTextBox ()V

@@ -1,0 +1,2 @@
+CLASS argo/jdom/JsonObject net/minecraft/src/J_JsonObject
+	FIELD fields field_27222_a Ljava/util/Map;

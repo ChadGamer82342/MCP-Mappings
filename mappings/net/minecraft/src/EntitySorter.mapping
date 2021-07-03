@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_345 net/minecraft/src/EntitySorter
+	FIELD field_1309 field_30008_a D
+	FIELD field_1310 field_30007_b D
+	FIELD field_1311 field_30009_c D

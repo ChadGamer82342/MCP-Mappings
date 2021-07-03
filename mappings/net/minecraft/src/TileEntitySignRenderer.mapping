@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_545 net/minecraft/src/TileEntitySignRenderer
+	FIELD field_2268 signModel Lnet/minecraft/class_546;
+	METHOD method_1809 renderTileEntitySignAt (Lnet/minecraft/class_140;DDDF)V

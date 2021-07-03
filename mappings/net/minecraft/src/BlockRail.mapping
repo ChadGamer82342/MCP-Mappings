@@ -1,0 +1,24 @@
+CLASS net/minecraft/class_16 net/minecraft/src/BlockRail
+	CLASS class_338 RailLogic
+		FIELD field_1263 rail Lnet/minecraft/class_16;
+		FIELD field_1264 worldObj Lnet/minecraft/class_18;
+		FIELD field_1265 trackX I
+		FIELD field_1266 trackY I
+		FIELD field_1267 trackZ I
+		FIELD field_1268 isPoweredRail Z
+		FIELD field_1269 connectedTracks Ljava/util/List;
+		METHOD method_1110 func_591_b ()V
+		METHOD method_1111 setConnections (I)V
+		METHOD method_1112 isMinecartTrack (III)Z
+		METHOD method_1115 func_596_a (ZZ)V
+		METHOD method_1116 getAdjacentTracks ()I
+		METHOD method_1117 isInTrack (III)Z
+		METHOD method_1119 func_592_c (III)Z
+	FIELD field_1262 isPowered Z
+	METHOD method_1103 func_27032_a (Lnet/minecraft/class_18;IIIIZI)Z
+	METHOD method_1104 func_4038_g (Lnet/minecraft/class_18;IIIZ)V
+	METHOD method_1105 func_27031_a (Lnet/minecraft/class_18;IIIZII)Z
+	METHOD method_1106 isPoweredBlockRail (Lnet/minecraft/class_16;)Z
+	METHOD method_1107 isRailBlock (I)Z
+	METHOD method_1108 getIsPowered ()Z
+	METHOD method_1109 isRailBlockAt (Lnet/minecraft/class_18;III)Z

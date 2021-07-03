@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_472 net/minecraft/src/RenderList
+	FIELD field_2480 field_1242_a I
+	FIELD field_2481 field_1241_b I
+	FIELD field_2482 field_1240_c I
+	FIELD field_2483 field_1239_d F
+	FIELD field_2484 field_1238_e F
+	FIELD field_2485 field_1237_f F
+	FIELD field_2486 field_1236_g Ljava/nio/IntBuffer;
+	FIELD field_2487 field_1235_h Z
+	FIELD field_2488 field_1234_i Z

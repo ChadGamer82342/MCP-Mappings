@@ -1,0 +1,27 @@
+CLASS net/minecraft/class_31 net/minecraft/src/ItemStack
+	FIELD field_751 stackSize I
+	FIELD field_752 animationsToGo I
+	FIELD field_753 itemID I
+	FIELD field_754 itemDamage I
+	METHOD method_696 onDestroyBlock (IIIILnet/minecraft/class_54;)V
+	METHOD method_697 damageItem (ILnet/minecraft/class_57;)V
+	METHOD method_700 func_577_a (Lnet/minecraft/class_54;)V
+	METHOD method_702 isItemEqual (Lnet/minecraft/class_31;)Z
+	METHOD method_704 useItemOnEntity (Lnet/minecraft/class_127;)V
+	METHOD method_707 getDamageVsEntity (Lnet/minecraft/class_57;)I
+	METHOD method_708 getStrVsBlock (Lnet/minecraft/class_17;)F
+	METHOD method_709 getMaxStackSize ()I
+	METHOD method_710 setItemDamage (I)V
+	METHOD method_713 readFromNBT (Lnet/minecraft/class_8;)V
+	METHOD method_714 canHarvestBlock (Lnet/minecraft/class_17;)Z
+	METHOD method_715 isStackable ()Z
+	METHOD method_716 isStackEqual (Lnet/minecraft/class_31;)Z
+	METHOD method_717 isItemStackDamageable ()Z
+	METHOD method_718 isItemStackEqual (Lnet/minecraft/class_31;)Z
+	METHOD method_719 getHasSubtypes ()Z
+	METHOD method_720 isItemDamaged ()Z
+	METHOD method_721 getItemDamageForDisplay ()I
+	METHOD method_722 getItemDamage ()I
+	METHOD method_723 getMaxDamage ()I
+	METHOD method_725 getIconIndex ()I
+	METHOD method_726 getItemName ()Ljava/lang/String;

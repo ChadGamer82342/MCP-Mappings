@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_238 net/minecraft/src/EnumCreatureType
+	FIELD field_942 monster Lnet/minecraft/class_238;
+	FIELD field_943 creature Lnet/minecraft/class_238;
+	FIELD field_944 waterCreature Lnet/minecraft/class_238;
+	FIELD field_945 creatureClass Ljava/lang/Class;
+	FIELD field_946 maxNumberOfCreature I
+	FIELD field_947 creatureMaterial Lnet/minecraft/class_15;
+	FIELD field_948 isPeacefulCreature Z
+	FIELD field_949 field_6518_e [Lnet/minecraft/class_238;
+	METHOD method_853 getCreatureClass ()Ljava/lang/Class;
+	METHOD method_854 getMaxNumberOfCreature ()I
+	METHOD method_856 getPeacefulCreature ()Z

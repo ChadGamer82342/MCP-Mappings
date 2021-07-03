@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_365 net/minecraft/src/EntityTNTPrimed
+	FIELD field_1390 fuse I
+	METHOD method_1194 explode ()V

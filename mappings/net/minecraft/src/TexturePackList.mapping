@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_303 net/minecraft/src/TexturePackList
+	FIELD field_1175 selectedTexturePack Lnet/minecraft/class_285;
+	FIELD field_1176 availableTexturePacks Ljava/util/List;
+	FIELD field_1177 defaultTexturePack Lnet/minecraft/class_285;
+	FIELD field_1178 field_6538_d Ljava/util/Map;
+	FIELD field_1179 mc Lnet/minecraft/client/Minecraft;
+	FIELD field_1180 texturePackDir Ljava/io/File;
+	FIELD field_1181 currentTexturePack Ljava/lang/String;
+	METHOD method_998 updateAvaliableTexturePacks ()V
+	METHOD method_999 setTexturePack (Lnet/minecraft/class_285;)Z
+	METHOD method_1000 availableTexturePacks ()Ljava/util/List;

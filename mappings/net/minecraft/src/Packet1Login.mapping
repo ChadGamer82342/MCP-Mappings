@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_118 net/minecraft/src/Packet1Login
+	FIELD field_1209 protocolVersion I
+	FIELD field_1210 username Ljava/lang/String;
+	FIELD field_1211 mapSeed J
+	FIELD field_1212 dimension B

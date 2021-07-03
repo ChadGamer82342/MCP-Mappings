@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_139 net/minecraft/src/StatBase
+	FIELD field_2022 field_26902_a Lnet/minecraft/class_498;
+	FIELD field_2023 field_26903_b Ljava/text/NumberFormat;
+	FIELD field_2024 field_26904_c Ljava/text/DecimalFormat;
+	FIELD field_2025 statId I
+	FIELD field_2026 statName Ljava/lang/String;
+	FIELD field_2027 field_27088_g Z
+	FIELD field_2028 statGuid Ljava/lang/String;
+	FIELD field_2029 field_27087_i Lnet/minecraft/class_498;
+	FIELD field_2030 field_27086_j Lnet/minecraft/class_498;
+	FIELD field_2031 field_27085_k Lnet/minecraft/class_498;

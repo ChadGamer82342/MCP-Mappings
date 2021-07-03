@@ -1,0 +1,13 @@
+CLASS net/minecraft/class_26 net/minecraft/src/Vec3D
+	FIELD field_1585 xCoord D
+	FIELD field_1586 yCoord D
+	FIELD field_1587 zCoord D
+	FIELD field_1588 vectorList Ljava/util/List;
+	FIELD field_1589 nextVector I
+	METHOD method_1292 initialize ()V
+	METHOD method_1294 distanceTo (Lnet/minecraft/class_26;)D
+	METHOD method_1298 squareDistanceTo (Lnet/minecraft/class_26;)D
+	METHOD method_1300 lengthVector ()D
+	METHOD method_1303 squareDistanceTo (DDD)D
+	METHOD method_1306 rotateAroundX (F)V
+	METHOD method_1308 rotateAroundY (F)V

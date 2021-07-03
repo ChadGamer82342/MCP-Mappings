@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_293 net/minecraft/src/GuiContainer
+	FIELD field_1152 xSize I
+	FIELD field_1153 ySize I
+	FIELD field_1154 inventorySlots Lnet/minecraft/class_71;
+	FIELD field_1155 itemRenderer Lnet/minecraft/class_92;
+	METHOD method_984 drawGuiContainerBackgroundLayer (F)V
+	METHOD method_985 drawGuiContainerForegroundLayer ()V
+	METHOD method_987 drawSlotInventory (Lnet/minecraft/class_133;)V
+	METHOD method_988 getIsMouseOverSlot (Lnet/minecraft/class_133;II)Z

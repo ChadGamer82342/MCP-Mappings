@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_455 net/minecraft/src/ChunkProviderClient
+	FIELD field_2552 blankChunk Lnet/minecraft/class_43;
+	FIELD field_2553 chunkMapping Ljava/util/Map;
+	FIELD field_2554 field_889_c Ljava/util/List;
+	FIELD field_2555 worldObj Lnet/minecraft/class_18;

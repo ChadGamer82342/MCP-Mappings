@@ -1,0 +1,15 @@
+CLASS net/minecraft/class_428 net/minecraft/src/EnumToolMaterial
+	FIELD field_1688 WOOD Lnet/minecraft/class_428;
+	FIELD field_1689 STONE Lnet/minecraft/class_428;
+	FIELD field_1690 IRON Lnet/minecraft/class_428;
+	FIELD field_1691 EMERALD Lnet/minecraft/class_428;
+	FIELD field_1692 GOLD Lnet/minecraft/class_428;
+	FIELD field_1693 harvestLevel I
+	FIELD field_1694 maxUses I
+	FIELD field_1695 efficiencyOnProperMaterial F
+	FIELD field_1696 damageVsEntity I
+	FIELD field_1697 field_21209_j [Lnet/minecraft/class_428;
+	METHOD method_1417 getMaxUses ()I
+	METHOD method_1418 getEfficiencyOnProperMaterial ()F
+	METHOD method_1419 getDamageVsEntity ()I
+	METHOD method_1420 getHarvestLevel ()I

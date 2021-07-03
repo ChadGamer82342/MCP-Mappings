@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_88 net/minecraft/src/BlockJukeBox
+	METHOD method_348 func_28035_b_ (Lnet/minecraft/class_18;III)V
+	METHOD method_349 ejectRecord (Lnet/minecraft/class_18;IIII)V

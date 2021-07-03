@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_509 net/minecraft/src/TextureWaterFlowFX
+	FIELD field_2118 field_1138_g [F
+	FIELD field_2119 field_1137_h [F
+	FIELD field_2120 field_1136_i [F
+	FIELD field_2121 field_1135_j [F
+	FIELD field_2122 field_1134_k I

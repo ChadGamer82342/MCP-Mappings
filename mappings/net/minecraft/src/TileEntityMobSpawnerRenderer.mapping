@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_103 net/minecraft/src/TileEntityMobSpawnerRenderer
+	FIELD field_329 entityHashMap Ljava/util/Map;
+	METHOD method_394 renderTileEntityMobSpawner (Lnet/minecraft/class_104;DDDF)V

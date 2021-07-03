@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_417 net/minecraft/src/MetadataChunkBlock
+	FIELD field_1673 field_1299_a Lnet/minecraft/class_56;
+	FIELD field_1674 field_1298_b I
+	FIELD field_1675 field_1304_c I
+	FIELD field_1676 field_1303_d I
+	FIELD field_1677 field_1302_e I
+	FIELD field_1678 field_1301_f I
+	FIELD field_1679 field_1300_g I
+	METHOD method_1401 func_692_a (IIIIII)Z
+	METHOD method_1402 func_4107_a (Lnet/minecraft/class_18;)V

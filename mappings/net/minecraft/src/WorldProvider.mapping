@@ -1,0 +1,17 @@
+CLASS net/minecraft/class_50 net/minecraft/src/WorldProvider
+	FIELD field_2173 worldObj Lnet/minecraft/class_18;
+	FIELD field_2174 worldChunkMgr Lnet/minecraft/class_519;
+	FIELD field_2175 isNether Z
+	FIELD field_2176 isHellWorld Z
+	FIELD field_2177 hasNoSky Z
+	FIELD field_2178 lightBrightnessTable [F
+	FIELD field_2179 worldType I
+	FIELD field_2180 colorsSunriseSunset [F
+	METHOD method_1761 calcSunriseSunsetColors (FF)[F
+	METHOD method_1764 getCloudHeight ()F
+	METHOD method_1765 generateLightBrightnessTable ()V
+	METHOD method_1766 canRespawnHere ()Z
+	METHOD method_1768 registerWorld (Lnet/minecraft/class_18;)V
+	METHOD method_1769 registerWorldChunkManager ()V
+	METHOD method_1770 canCoordinateBeSpawn (II)Z
+	METHOD method_1771 calculateCelestialAngle (JF)F

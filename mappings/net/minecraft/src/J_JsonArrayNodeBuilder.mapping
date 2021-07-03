@@ -1,0 +1,2 @@
+CLASS argo/jdom/JsonArrayNodeBuilder net/minecraft/src/J_JsonArrayNodeBuilder
+	FIELD elementBuilders field_27242_a Ljava/util/List;

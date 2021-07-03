@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_215 net/minecraft/src/Packet24MobSpawn
+	FIELD field_797 pitch B
+	FIELD field_798 metaData Lnet/minecraft/class_216;
+	FIELD field_799 receivedMetadata Ljava/util/List;
+	FIELD field_800 entityId I
+	FIELD field_801 type B
+	FIELD field_802 xPosition I
+	FIELD field_803 yPosition I
+	FIELD field_804 zPosition I
+	FIELD field_805 yaw B
+	METHOD method_747 getMetadata ()Ljava/util/List;

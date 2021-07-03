@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_107 net/minecraft/src/EntityPainting
+	FIELD field_1384 direction I
+	FIELD field_1385 xPosition I
+	FIELD field_1386 yPosition I
+	FIELD field_1387 zPosition I
+	FIELD field_1388 art Lnet/minecraft/class_191;
+	FIELD field_1389 field_695_c I
+	METHOD method_1191 func_179_a (I)V
+	METHOD method_1192 func_180_c (I)F
+	METHOD method_1193 onValidSurface ()Z

@@ -1,0 +1,17 @@
+CLASS net/minecraft/class_169 net/minecraft/src/Packet
+	FIELD field_899 packetIdToClassMap Ljava/util/Map;
+	FIELD field_900 packetClassToIdMap Ljava/util/Map;
+	FIELD field_901 clientPacketIdList Ljava/util/Set;
+	FIELD field_902 serverPacketIdList Ljava/util/Set;
+	FIELD field_903 packetStats Ljava/util/HashMap;
+	FIELD field_904 totalPacketsCount I
+	FIELD field_905 creationTimeMillis J
+	FIELD field_906 isChunkDataPacket Z
+	METHOD method_798 getPacketSize ()I
+	METHOD method_800 addIdClassMapping (IZZLjava/lang/Class;)V
+	METHOD method_802 readString (Ljava/io/DataInputStream;I)Ljava/lang/String;
+	METHOD method_804 writeString (Ljava/lang/String;Ljava/io/DataOutputStream;)V
+	METHOD method_805 getPacketId ()I
+	METHOD method_806 readPacketData (Ljava/io/DataInputStream;)V
+	METHOD method_807 writePacketData (Ljava/io/DataOutputStream;)V
+	METHOD method_808 processPacket (Lnet/minecraft/class_240;)V

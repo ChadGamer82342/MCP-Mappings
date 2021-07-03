@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_623 net/minecraft/src/WorldGenTallGrass
+	FIELD field_2693 field_28060_a I
+	FIELD field_2694 field_28059_b I

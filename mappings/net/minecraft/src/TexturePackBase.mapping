@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_285 net/minecraft/src/TexturePackBase
+	FIELD field_1137 texturePackFileName Ljava/lang/String;
+	FIELD field_1138 firstDescriptionLine Ljava/lang/String;
+	FIELD field_1139 secondDescriptionLine Ljava/lang/String;
+	FIELD field_1140 field_6488_d Ljava/lang/String;
+	METHOD method_976 getResourceAsStream (Ljava/lang/String;)Ljava/io/InputStream;
+	METHOD method_978 closeTexturePackFile ()V
+	METHOD method_980 bindThumbnailTexture (Lnet/minecraft/client/Minecraft;)V

@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_486 net/minecraft/src/GuiVideoSettings
+	FIELD field_2000 field_22107_a Ljava/lang/String;
+	FIELD field_2001 field_22110_h Lnet/minecraft/class_32;
+	FIELD field_2002 guiGameSettings Lnet/minecraft/class_322;
+	FIELD field_2003 field_22108_k [Lnet/minecraft/class_271;

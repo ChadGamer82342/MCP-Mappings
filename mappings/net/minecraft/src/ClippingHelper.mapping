@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_84 net/minecraft/src/ClippingHelper
+	FIELD field_285 frustum [[F
+	FIELD field_286 projectionMatrix [F
+	FIELD field_287 modelviewMatrix [F
+	FIELD field_288 clippingMatrix [F
+	METHOD method_339 isBoxInFrustum (DDDDDD)Z

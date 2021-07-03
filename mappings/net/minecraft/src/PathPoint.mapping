@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_29 net/minecraft/src/PathPoint
+	FIELD field_140 xCoord I
+	FIELD field_141 yCoord I
+	FIELD field_142 zCoord I
+	FIELD field_143 index I
+	FIELD field_144 totalPathDistance F
+	FIELD field_145 distanceToNext F
+	FIELD field_146 distanceToTarget F
+	FIELD field_147 previous Lnet/minecraft/class_29;
+	FIELD field_148 isFirst Z
+	FIELD field_149 hash I
+	METHOD method_112 isAssigned ()Z
+	METHOD method_113 func_22203_a (III)I
+	METHOD method_114 distanceTo (Lnet/minecraft/class_29;)F

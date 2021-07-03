@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_598 net/minecraft/src/ClippingHelperImpl
+	FIELD field_2594 instance Lnet/minecraft/class_598;
+	FIELD field_2595 projectionMatrixBuffer Ljava/nio/FloatBuffer;
+	FIELD field_2596 modelviewMatrixBuffer Ljava/nio/FloatBuffer;
+	FIELD field_2597 field_1691_h Ljava/nio/FloatBuffer;
+	METHOD method_1974 normalize ([[FI)V
+	METHOD method_1975 init ()V

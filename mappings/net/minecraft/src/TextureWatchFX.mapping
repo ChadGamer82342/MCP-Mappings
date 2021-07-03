@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_384 net/minecraft/src/TextureWatchFX
+	FIELD field_1437 mc Lnet/minecraft/client/Minecraft;
+	FIELD field_1438 watchIconImageData [I
+	FIELD field_1439 dialImageData [I
+	FIELD field_1440 field_4222_j D
+	FIELD field_1441 field_4221_k D

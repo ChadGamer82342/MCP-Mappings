@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_314 net/minecraft/src/PacketCounter
+	FIELD field_1200 totalPackets I
+	FIELD field_1201 totalBytes J
+	METHOD method_1036 addPacket (I)V

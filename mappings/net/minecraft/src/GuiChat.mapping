@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_211 net/minecraft/src/GuiChat
+	FIELD field_786 message Ljava/lang/String;
+	FIELD field_787 updateCounter I
+	FIELD field_788 field_20082_i Ljava/lang/String;

@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_85 net/minecraft/src/Packet61DoorChange
+	FIELD field_289 field_28050_a I
+	FIELD field_290 field_28049_b I
+	FIELD field_291 field_28053_c I
+	FIELD field_292 field_28052_d I
+	FIELD field_293 field_28051_e I

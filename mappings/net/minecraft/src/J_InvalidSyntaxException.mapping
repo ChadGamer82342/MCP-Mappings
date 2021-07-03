@@ -1,0 +1,3 @@
+CLASS argo/saj/InvalidSyntaxException net/minecraft/src/J_InvalidSyntaxException
+	FIELD column field_27191_a I
+	FIELD row field_27190_b I

@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_593 net/minecraft/src/TextureWaterFX
+	FIELD field_2566 field_1158_g [F
+	FIELD field_2567 field_1157_h [F
+	FIELD field_2568 field_1156_i [F
+	FIELD field_2569 field_1155_j [F
+	FIELD field_2570 tickCounter I

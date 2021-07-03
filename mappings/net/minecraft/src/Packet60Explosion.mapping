@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_382 net/minecraft/src/Packet60Explosion
+	FIELD field_1432 explosionX D
+	FIELD field_1433 explosionY D
+	FIELD field_1434 explosionZ D
+	FIELD field_1435 explosionSize F
+	FIELD field_1436 destroyedBlockPositions Ljava/util/Set;

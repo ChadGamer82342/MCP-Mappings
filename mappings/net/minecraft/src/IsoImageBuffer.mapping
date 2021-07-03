@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_478 net/minecraft/src/IsoImageBuffer
+	FIELD field_2410 field_1348_a Ljava/awt/image/BufferedImage;
+	FIELD field_2411 worldObj Lnet/minecraft/class_18;
+	FIELD field_2412 field_1354_c I
+	FIELD field_2413 field_1353_d I
+	FIELD field_2414 field_1352_e Z
+	FIELD field_2415 field_1351_f Z
+	FIELD field_2416 field_1350_g I
+	FIELD field_2417 field_1349_h Z

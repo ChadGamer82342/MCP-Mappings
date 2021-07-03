@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_488 net/minecraft/src/EntityTracker
+	FIELD field_2004 trackedEntitySet Ljava/util/Set;
+	FIELD field_2005 trackedEntityHashTable Lnet/minecraft/class_80;
+	FIELD field_2006 mcServer Lnet/minecraft/server/MinecraftServer;
+	FIELD field_2007 maxTrackingDistanceThreshold I
+	FIELD field_2008 field_28113_e I
+	METHOD method_1663 updateTrackedEntities ()V
+	METHOD method_1664 removeTrackedPlayerSymmetric (Lnet/minecraft/class_69;)V
+	METHOD method_1665 trackEntity (Lnet/minecraft/class_57;)V
+	METHOD method_1666 trackEntity (Lnet/minecraft/class_57;II)V
+	METHOD method_1667 trackEntity (Lnet/minecraft/class_57;IIZ)V
+	METHOD method_1669 untrackEntity (Lnet/minecraft/class_57;)V

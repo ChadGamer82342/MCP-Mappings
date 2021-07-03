@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_554 net/minecraft/src/ItemFood
+	FIELD field_2325 healAmount I
+	FIELD field_2326 isWolfsFavoriteMeat Z
+	METHOD method_1835 getHealAmount ()I
+	METHOD method_1836 getIsWolfsFavoriteMeat ()Z

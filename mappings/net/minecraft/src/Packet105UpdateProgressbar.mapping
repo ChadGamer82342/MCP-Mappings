@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_292 net/minecraft/src/Packet105UpdateProgressbar
+	FIELD field_1149 windowId I
+	FIELD field_1150 progressBar I
+	FIELD field_1151 progressBarValue I

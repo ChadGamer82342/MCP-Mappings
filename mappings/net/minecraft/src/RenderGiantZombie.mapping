@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_616 net/minecraft/src/RenderGiantZombie
+	FIELD field_2666 scale F
+	METHOD method_2005 preRenderScale (Lnet/minecraft/class_311;F)V

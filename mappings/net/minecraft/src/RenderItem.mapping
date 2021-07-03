@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_92 net/minecraft/src/RenderItem
+	FIELD field_1707 field_27004_a Z
+	FIELD field_1708 renderBlocks Lnet/minecraft/class_13;
+	FIELD field_1709 random Ljava/util/Random;
+	METHOD method_1483 renderTexturedQuad (IIIIII)V
+	METHOD method_1484 doRenderItem (Lnet/minecraft/class_142;DDDFF)V
+	METHOD method_1485 renderQuad (Lnet/minecraft/class_67;IIIII)V

@@ -1,0 +1,27 @@
+CLASS net/minecraft/class_538 net/minecraft/src/ChunkProviderGenerate
+	FIELD field_2245 field_922_a Lnet/minecraft/class_209;
+	FIELD field_2246 field_921_b Lnet/minecraft/class_209;
+	FIELD field_2247 mobSpawnerNoise Lnet/minecraft/class_209;
+	FIELD field_2248 field_4185_d [D
+	FIELD field_2249 field_4184_e [D
+	FIELD field_2250 field_4183_f [D
+	FIELD field_2251 field_4182_g [D
+	FIELD field_2252 field_4181_h [D
+	FIELD field_2253 field_914_i [[I
+	FIELD field_2254 rand Ljava/util/Random;
+	FIELD field_2255 field_912_k Lnet/minecraft/class_209;
+	FIELD field_2256 field_911_l Lnet/minecraft/class_209;
+	FIELD field_2257 field_910_m Lnet/minecraft/class_209;
+	FIELD field_2258 field_909_n Lnet/minecraft/class_209;
+	FIELD field_2259 field_908_o Lnet/minecraft/class_209;
+	FIELD field_2260 worldObj Lnet/minecraft/class_18;
+	FIELD field_2261 field_4180_q [D
+	FIELD field_2262 sandNoise [D
+	FIELD field_2263 gravelNoise [D
+	FIELD field_2264 stoneNoise [D
+	FIELD field_2265 field_902_u Lnet/minecraft/class_105;
+	FIELD field_2266 biomesForGeneration [Lnet/minecraft/class_153;
+	FIELD field_2267 generatedTemperatures [D
+	METHOD method_1797 replaceBlocksForBiome (II[B[Lnet/minecraft/class_153;)V
+	METHOD method_1798 generateTerrain (II[B[Lnet/minecraft/class_153;[D)V
+	METHOD method_1799 func_4058_a ([DIIIIII)[D

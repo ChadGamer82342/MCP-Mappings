@@ -1,0 +1,26 @@
+CLASS net/minecraft/class_198 net/minecraft/src/MapData
+	CLASS class_199 MapCoord
+		FIELD field_729 field_28217_a B
+		FIELD field_730 field_28216_b B
+		FIELD field_731 field_28220_c B
+		FIELD field_732 field_28219_d B
+		FIELD field_733 field_28218_e Lnet/minecraft/class_198;
+	CLASS class_200 MapInfo
+		FIELD field_734 entityplayerObj Lnet/minecraft/class_54;
+		FIELD field_735 field_28119_b [I
+		FIELD field_736 field_28124_c [I
+		FIELD field_737 mapDataObj Lnet/minecraft/class_198;
+		FIELD field_738 field_28122_e I
+		FIELD field_739 field_28121_f I
+		FIELD field_740 field_28121_g [B
+		METHOD method_670 func_28118_a (Lnet/minecraft/class_31;)[B
+	FIELD field_720 field_28180_b I
+	FIELD field_721 field_28179_c I
+	FIELD field_722 field_28178_d B
+	FIELD field_723 field_28177_e B
+	FIELD field_724 field_28176_f [B
+	FIELD field_725 field_28175_g I
+	FIELD field_726 field_28174_h Ljava/util/List;
+	FIELD field_727 field_28173_i Ljava/util/List;
+	FIELD field_728 field_28172_j Ljava/util/Map;
+	METHOD method_666 func_28153_a (III)V

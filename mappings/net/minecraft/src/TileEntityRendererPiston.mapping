@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_282 net/minecraft/src/TileEntityRendererPiston
+	FIELD field_1131 field_31071_b Lnet/minecraft/class_13;

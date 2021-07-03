@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_315 net/minecraft/src/BlockStationary
+	METHOD method_1037 func_30005_i (Lnet/minecraft/class_18;III)V
+	METHOD method_1038 func_4033_j (Lnet/minecraft/class_18;III)Z

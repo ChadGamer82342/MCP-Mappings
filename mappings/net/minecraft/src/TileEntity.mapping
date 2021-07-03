@@ -1,0 +1,17 @@
+CLASS net/minecraft/class_55 net/minecraft/src/TileEntity
+	FIELD field_1236 nameToClassMap Ljava/util/Map;
+	FIELD field_1237 classToNameMap Ljava/util/Map;
+	FIELD field_1238 worldObj Lnet/minecraft/class_18;
+	FIELD field_1239 xCoord I
+	FIELD field_1240 yCoord I
+	FIELD field_1241 zCoord I
+	FIELD field_1242 field_31007_h Z
+	METHOD method_1067 addMapping (Ljava/lang/Class;Ljava/lang/String;)V
+	METHOD method_1069 getBlockMetadata ()I
+	METHOD method_1071 isInvalid ()Z
+	METHOD method_1072 invalidate ()V
+	METHOD method_1073 validate ()V
+	METHOD method_1074 getDistanceFrom (DDD)D
+	METHOD method_1076 updateEntity ()V
+	METHOD method_1077 readFromNBT (Lnet/minecraft/class_8;)V
+	METHOD method_1078 writeToNBT (Lnet/minecraft/class_8;)V

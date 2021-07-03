@@ -1,0 +1,3 @@
+CLASS argo/format/CompactJsonFormatter net/minecraft/src/J_CompactJsonFormatter
+	CLASS 1 EnumJsonNodeTypeMappingHelper
+		FIELD $SwitchMap$argo$jdom$JsonNodeType field_27341_a [I

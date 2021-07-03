@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_41 net/minecraft/src/MovementInput
+	FIELD field_2532 moveStrafe F
+	FIELD field_2533 moveForward F
+	FIELD field_2534 field_1177_c Z
+	FIELD field_2535 jump Z
+	FIELD field_2536 sneak Z
+	METHOD method_1940 resetKeyState ()V
+	METHOD method_1941 checkKeyForMovementInput (IZ)V
+	METHOD method_1942 updatePlayerMoveState (Lnet/minecraft/class_54;)V

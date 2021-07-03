@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_110 net/minecraft/src/BlockChest
+	FIELD field_337 random Ljava/util/Random;
+	METHOD method_409 isThereANeighborChest (Lnet/minecraft/class_18;III)Z

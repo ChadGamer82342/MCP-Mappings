@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_228 net/minecraft/src/Packet14BlockDig
+	FIELD field_852 xPosition I
+	FIELD field_853 yPosition I
+	FIELD field_854 zPosition I
+	FIELD field_855 face I
+	FIELD field_856 status I

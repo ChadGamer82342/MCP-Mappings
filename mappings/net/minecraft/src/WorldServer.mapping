@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_73 net/minecraft/src/WorldServer
+	FIELD field_273 chunkProviderServer Lnet/minecraft/class_79;
+	FIELD field_274 field_819_z Z
+	FIELD field_275 levelSaving Z
+	FIELD field_276 mcServer Lnet/minecraft/server/MinecraftServer;
+	FIELD field_277 field_20912_E Lnet/minecraft/class_80;
+	METHOD method_329 func_12017_b (Lnet/minecraft/class_57;Z)V
+	METHOD method_330 getTileEntityList (IIIIII)Ljava/util/List;
+	METHOD method_331 func_30006_w ()V

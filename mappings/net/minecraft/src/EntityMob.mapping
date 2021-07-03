@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_146 net/minecraft/src/EntityMob
+	FIELD field_547 attackStrength I

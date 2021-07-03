@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_336 net/minecraft/src/TextureFX
+	FIELD field_1411 imageData [B
+	FIELD field_1412 iconIndex I
+	FIELD field_1413 anaglyphEnabled Z
+	FIELD field_1414 textureId I
+	FIELD field_1415 tileSize I
+	FIELD field_1416 tileImage I
+	METHOD method_1205 onTick ()V
+	METHOD method_1206 bindImage (Lnet/minecraft/class_76;)V

@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_557 net/minecraft/src/SlotCrafting
+	FIELD field_2366 craftMatrix Lnet/minecraft/class_134;
+	FIELD field_2367 thePlayer Lnet/minecraft/class_54;

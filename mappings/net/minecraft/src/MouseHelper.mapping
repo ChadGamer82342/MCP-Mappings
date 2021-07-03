@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_596 net/minecraft/src/MouseHelper
+	FIELD field_2586 deltaX I
+	FIELD field_2587 deltaY I
+	FIELD field_2588 field_1117_c Ljava/awt/Component;
+	FIELD field_2589 cursor Lorg/lwjgl/input/Cursor;
+	FIELD field_2590 field_1115_e I
+	METHOD method_1970 grabMouseCursor ()V
+	METHOD method_1971 ungrabMouseCursor ()V
+	METHOD method_1972 mouseXYChange ()V

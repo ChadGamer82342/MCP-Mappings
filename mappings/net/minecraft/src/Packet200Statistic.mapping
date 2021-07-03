@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_319 net/minecraft/src/Packet200Statistic
+	FIELD field_1213 field_27052_a I
+	FIELD field_1214 field_27051_b I

@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_197 net/minecraft/src/GuiMainMenu
+	FIELD field_716 rand Ljava/util/Random;
+	FIELD field_717 updateCounter F
+	FIELD field_718 splashText Ljava/lang/String;
+	FIELD field_719 multiplayerButton Lnet/minecraft/class_33;

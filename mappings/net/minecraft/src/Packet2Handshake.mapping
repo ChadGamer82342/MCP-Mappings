@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_281 net/minecraft/src/Packet2Handshake
+	FIELD field_1130 username Ljava/lang/String;

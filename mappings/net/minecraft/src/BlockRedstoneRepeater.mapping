@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_510 net/minecraft/src/BlockRedstoneRepeater
+	FIELD field_2123 field_22024_a [D
+	FIELD field_2124 field_22023_b [I
+	FIELD field_2125 isRepeaterPowered Z
+	METHOD method_1728 func_22012_g (Lnet/minecraft/class_18;IIII)Z

@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_304 net/minecraft/src/ModelCreeper
+	FIELD field_1182 head Lnet/minecraft/class_163;
+	FIELD field_1183 field_1270_b Lnet/minecraft/class_163;
+	FIELD field_1184 body Lnet/minecraft/class_163;
+	FIELD field_1185 leg1 Lnet/minecraft/class_163;
+	FIELD field_1186 leg2 Lnet/minecraft/class_163;
+	FIELD field_1187 leg3 Lnet/minecraft/class_163;
+	FIELD field_1188 leg4 Lnet/minecraft/class_163;
