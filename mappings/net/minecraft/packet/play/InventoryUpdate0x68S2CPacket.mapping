@@ -1,6 +1,0 @@
-CLASS net/minecraft/class_236 net/minecraft/packet/play/InventoryUpdate0x68S2CPacket
-	FIELD field_869 containerId I
-	FIELD field_870 stacks [Lnet/minecraft/class_31;
-	METHOD <init> (ILjava/util/List;)V
-		ARG 1 containerId
-		ARG 2 stacks

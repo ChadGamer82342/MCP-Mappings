@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_572 net/minecraft/client/render/FireTextureBinder
-	FIELD field_2459 currentFireFrame [F
-	FIELD field_2460 lastFireFrame [F

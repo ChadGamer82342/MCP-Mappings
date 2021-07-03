@@ -1,8 +1,0 @@
-CLASS net/minecraft/class_180 net/minecraft/client/gui/screen/menu/CreateLevel
-	FIELD field_631 parent Lnet/minecraft/class_32;
-	FIELD field_632 worldName Lnet/minecraft/class_181;
-	FIELD field_633 worldSeed Lnet/minecraft/class_181;
-	FIELD field_634 worldNameString Ljava/lang/String;
-	FIELD field_635 isGenerating Z
-	METHOD method_607 checkWorldExists (Lnet/minecraft/class_182;Ljava/lang/String;)Ljava/lang/String;
-	METHOD method_608 addButtons ()V

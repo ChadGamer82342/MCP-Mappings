@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_601 net/minecraft/applet/CanvasSquare
-	METHOD <init> (I)V
-		ARG 1 size

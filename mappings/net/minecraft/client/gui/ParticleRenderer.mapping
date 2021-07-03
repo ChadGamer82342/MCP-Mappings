@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_35 net/minecraft/client/gui/ParticleRenderer
-	FIELD field_300 particleList Ljava/util/List;
-	FIELD field_301 minecraft Lnet/minecraft/client/Minecraft;
-	METHOD method_351 render ()V
-	METHOD method_352 render (F)V

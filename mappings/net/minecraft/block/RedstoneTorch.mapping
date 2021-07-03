@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_619 net/minecraft/block/RedstoneTorch
-	METHOD method_2039 (Lnet/minecraft/class_18;III)Z
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z

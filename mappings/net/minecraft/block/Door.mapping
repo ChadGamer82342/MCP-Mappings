@@ -1,7 +1,0 @@
-CLASS net/minecraft/class_252 net/minecraft/block/Door
-	METHOD method_837 (Lnet/minecraft/class_18;IIIZ)V
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z
-	METHOD method_838 rotateDoor (I)V
-		ARG 1 meta

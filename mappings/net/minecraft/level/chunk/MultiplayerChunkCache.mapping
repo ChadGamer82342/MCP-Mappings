@@ -1,6 +1,0 @@
-CLASS net/minecraft/class_455 net/minecraft/level/chunk/MultiplayerChunkCache
-	FIELD field_2553 multiplayerChunkCache Ljava/util/Map;
-	FIELD field_2555 level Lnet/minecraft/class_18;
-	METHOD method_1954 (II)V
-		ARG 1 x
-		ARG 2 z

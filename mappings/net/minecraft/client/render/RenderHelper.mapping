@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_583 net/minecraft/client/render/RenderHelper
-	FIELD field_2521 floatBuffer Ljava/nio/FloatBuffer;
-	METHOD method_1927 disableLighting ()V
-	METHOD method_1930 enableLighting ()V

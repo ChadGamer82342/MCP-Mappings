@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_154 net/minecraft/block/Sapling
-	METHOD method_533 growTree (Lnet/minecraft/class_18;IIILjava/util/Random;)V
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z

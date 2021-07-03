@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_73 net/minecraft/server/level/ServerLevel
-	FIELD field_273 serverLevelSource Lnet/minecraft/class_79;
-	FIELD field_276 minecraftServer Lnet/minecraft/server/MinecraftServer;
-	METHOD <init> (Lnet/minecraft/server/MinecraftServer;Lnet/minecraft/class_52;Ljava/lang/String;IJ)V
-		ARG 4 dimId

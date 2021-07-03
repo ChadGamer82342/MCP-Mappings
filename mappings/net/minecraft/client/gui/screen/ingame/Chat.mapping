@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_211 net/minecraft/client/gui/screen/ingame/Chat
-	FIELD field_786 getText Ljava/lang/String;
-	FIELD field_787 ticksRan I
-	FIELD field_788 validCharacters Ljava/lang/String;

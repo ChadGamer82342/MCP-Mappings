@@ -1,7 +1,0 @@
-CLASS net/minecraft/class_376 net/minecraft/block/SugarCane
-	METHOD <init> (II)V
-		ARG 1 id
-	METHOD method_1208 (Lnet/minecraft/class_18;III)V
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z

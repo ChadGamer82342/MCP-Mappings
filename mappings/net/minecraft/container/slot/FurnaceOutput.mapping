@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_497 net/minecraft/container/slot/FurnaceOutput
-	FIELD field_2021 player Lnet/minecraft/class_54;

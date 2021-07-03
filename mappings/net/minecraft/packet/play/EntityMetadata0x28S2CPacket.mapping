@@ -1,7 +1,0 @@
-CLASS net/minecraft/class_438 net/minecraft/packet/play/EntityMetadata0x28S2CPacket
-	FIELD field_1975 entityId I
-	FIELD field_1976 metadata Ljava/util/List;
-	METHOD <init> (ILnet/minecraft/class_216;)V
-		ARG 1 entityId
-		ARG 2 tracker
-	METHOD method_1649 getMetadata ()Ljava/util/List;

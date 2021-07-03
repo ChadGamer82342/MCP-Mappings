@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_470 net/minecraft/recipe/ArmourRecipes
-	FIELD field_1773 armorCraftingRecipes [[Ljava/lang/String;
-	FIELD field_1774 armorItems [[Ljava/lang/Object;
-	METHOD method_1536 register (Lnet/minecraft/class_148;)V

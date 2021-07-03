@@ -1,7 +1,0 @@
-CLASS net/minecraft/class_264 net/minecraft/client/gui/screen/container/DoubleChest
-	FIELD field_1063 inv1 Lnet/minecraft/class_134;
-	FIELD field_1064 inv2 Lnet/minecraft/class_134;
-	FIELD field_1065 rows I
-	METHOD <init> (Lnet/minecraft/class_134;Lnet/minecraft/class_134;)V
-		ARG 1 chest1
-		ARG 2 chest2

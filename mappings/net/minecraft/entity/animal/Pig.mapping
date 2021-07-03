@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_443 net/minecraft/entity/animal/Pig
-	METHOD method_1723 setSaddled (Z)V
-		ARG 1 newSaddled
-	METHOD method_1724 isSaddled ()Z

@@ -1,9 +1,0 @@
-CLASS net/minecraft/class_510 net/minecraft/block/RedstoneRepeater
-	FIELD field_2125 powered Z
-	METHOD <init> (IZ)V
-		ARG 1 id
-		ARG 2 powered
-	METHOD method_1728 (Lnet/minecraft/class_18;IIII)Z
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z

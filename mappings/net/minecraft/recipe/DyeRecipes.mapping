@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_298 net/minecraft/recipe/DyeRecipes
-	METHOD method_989 register (Lnet/minecraft/class_148;)V

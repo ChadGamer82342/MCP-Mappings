@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_402 net/minecraft/packet/play/EntityLook0x20S2CPacket
-	METHOD <init> (IBB)V
-		ARG 1 entityId
-		ARG 2 yaw
-		ARG 3 pitch

@@ -1,8 +1,0 @@
-CLASS net/minecraft/class_194 net/minecraft/client/gui/screen/menu/TexturePacks
-	CLASS class_195 TexturePackList
-	FIELD field_703 parent Lnet/minecraft/class_32;
-	FIELD field_704 size I
-	FIELD field_705 texturePackDirectory Ljava/lang/String;
-	FIELD field_706 texturePackList Lnet/minecraft/class_194$class_195;
-	METHOD <init> (Lnet/minecraft/class_32;)V
-		ARG 1 parent

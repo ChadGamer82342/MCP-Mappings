@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_141 net/minecraft/util/SleepStatus
-	FIELD field_2661 CANT_SLEEP_HERE Lnet/minecraft/class_141;
-	FIELD field_2662 DAY_TIME Lnet/minecraft/class_141;
-	FIELD field_2664 YOU_SLEEPING_OR_DEAD Lnet/minecraft/class_141;

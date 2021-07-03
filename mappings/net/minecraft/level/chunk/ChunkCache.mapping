@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_390 net/minecraft/level/chunk/ChunkCache
-	FIELD field_1512 levelSource Lnet/minecraft/class_51;
-	FIELD field_1514 chunkCache [Lnet/minecraft/class_43;
-	FIELD field_1515 level Lnet/minecraft/class_18;

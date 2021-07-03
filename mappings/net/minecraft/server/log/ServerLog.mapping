@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_155 net/minecraft/server/log/ServerLog
-	FIELD field_557 logger Ljava/util/logging/Logger;
-	METHOD method_534 initialize ()V

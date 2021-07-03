@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_388 net/minecraft/client/render/particle/ParticleBase
-	FIELD field_1493 isGone Z
-	METHOD method_1237 beforeUpdate ()V
-	METHOD method_1238 update (Lnet/minecraft/class_35;)V

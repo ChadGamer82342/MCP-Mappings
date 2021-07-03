@@ -1,6 +1,0 @@
-CLASS net/minecraft/class_49 net/minecraft/block/Pumpkin
-	FIELD field_178 isLit Z
-	METHOD <init> (IIZ)V
-		ARG 1 id
-		ARG 2 texturePos
-		ARG 3 isLit

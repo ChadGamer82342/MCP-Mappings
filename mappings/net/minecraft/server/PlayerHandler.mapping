@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_168 net/minecraft/server/PlayerHandler
-	METHOD method_609 savePlayer (Lnet/minecraft/class_54;)V
-		ARG 1 playerBase
-	METHOD method_610 loadPlayer (Lnet/minecraft/class_54;)V
-		ARG 1 playerBase

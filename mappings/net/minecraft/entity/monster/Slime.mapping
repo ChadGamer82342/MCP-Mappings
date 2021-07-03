@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_451 net/minecraft/entity/monster/Slime
-	METHOD method_1631 setSize (I)V
-		ARG 1 newSize
-	METHOD method_1632 getSize ()I

@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_525 net/minecraft/client/gui/screen/ingame/Pause
-	FIELD field_2204 framesRendered I
-	FIELD field_2205 ticksRan I

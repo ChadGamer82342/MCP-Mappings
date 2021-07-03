@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_412 net/minecraft/client/gui/screen/menu/Multiplayer
-	FIELD field_1657 parent Lnet/minecraft/class_32;
-	FIELD field_1658 ip Lnet/minecraft/class_181;
-	METHOD method_1395 isIpValid (Ljava/lang/String;I)I
-		ARG 1 ip

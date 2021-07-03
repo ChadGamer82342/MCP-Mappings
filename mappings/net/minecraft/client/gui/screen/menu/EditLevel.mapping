@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_341 net/minecraft/client/gui/screen/menu/EditLevel
-	FIELD field_1271 parent Lnet/minecraft/class_32;
-	FIELD field_1272 worldName Lnet/minecraft/class_181;

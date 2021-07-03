@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_218 net/minecraft/client/gui/screen/DownloadingTerrain
-	FIELD field_840 networkHandler Lnet/minecraft/class_219;
-	FIELD field_841 ticksRan I

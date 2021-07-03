@@ -1,7 +1,0 @@
-CLASS net/minecraft/class_609 net/minecraft/client/gui/screen/menu/Achievements
-	FIELD field_2633 statsFileWriter Lnet/minecraft/class_96;
-	METHOD method_1998 (IIF)V
-		ARG 1 mouseX
-		ARG 2 mouseY
-		ARG 3 delta
-	METHOD method_1999 drawHeader ()V

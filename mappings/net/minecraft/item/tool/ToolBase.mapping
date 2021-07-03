@@ -1,6 +1,0 @@
-CLASS net/minecraft/class_632 net/minecraft/item/tool/ToolBase
-	FIELD field_2711 toolMaterial Lnet/minecraft/class_428;
-	FIELD field_2712 effectiveBlocksBase [Lnet/minecraft/class_17;
-	METHOD <init> (IILnet/minecraft/class_428;[Lnet/minecraft/class_17;)V
-		ARG 1 id
-		ARG 4 effectiveBlocks

@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_3 net/minecraft/block/Wool
-	METHOD method_1 getColour (I)I

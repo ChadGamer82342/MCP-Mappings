@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_290 net/minecraft/client/render/QuadPoint
-	FIELD field_1146 pointVector Lnet/minecraft/class_26;

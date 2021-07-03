@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_269 net/minecraft/client/render/PortalTextureBinder
-	FIELD field_1091 updatesRan I
-	FIELD field_1092 texture [[B

@@ -1,7 +1,0 @@
-CLASS net/minecraft/class_98 net/minecraft/client/StatEntity
-	FIELD field_1721 value I
-	METHOD <init> (ILjava/lang/String;I)V
-		ARG 1 id
-		ARG 2 statName
-		ARG 3 value
-	METHOD method_1493 getValue ()I

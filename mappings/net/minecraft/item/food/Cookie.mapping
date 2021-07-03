@@ -1,6 +1,0 @@
-CLASS net/minecraft/class_355 net/minecraft/item/food/Cookie
-	METHOD <init> (IIZI)V
-		ARG 1 id
-		ARG 2 healAmount
-		ARG 3 isWolfFood
-		ARG 4 maxStackSize

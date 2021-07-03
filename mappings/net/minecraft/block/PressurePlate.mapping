@@ -1,8 +1,0 @@
-CLASS net/minecraft/class_457 net/minecraft/block/PressurePlate
-	METHOD <init> (IILnet/minecraft/class_389;Lnet/minecraft/class_15;)V
-		ARG 1 id
-		ARG 2 texture
-	METHOD method_1512 (Lnet/minecraft/class_18;III)V
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z

@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_446 net/minecraft/recipe/MaterialBlockRecipes
-	FIELD field_1703 recipes [[Ljava/lang/Object;
-	METHOD method_1481 register (Lnet/minecraft/class_148;)V

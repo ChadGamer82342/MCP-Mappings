@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_404 net/minecraft/achievement/AchievementGUID
-	FIELD field_1549 INSTANCE Lnet/minecraft/class_404;
-	FIELD field_1550 GUIDByID Ljava/util/Map;
-	METHOD method_1271 getGUIDByID (I)Ljava/lang/String;
-		ARG 0 ID

@@ -1,8 +1,0 @@
-CLASS net/minecraft/class_615 net/minecraft/client/gui/screen/ingame/EditSign
-	FIELD field_2655 title Ljava/lang/String;
-	FIELD field_2656 entity Lnet/minecraft/class_140;
-	FIELD field_2657 ticksRan I
-	FIELD field_2658 cursorPos I
-	FIELD field_2659 validCharacters Ljava/lang/String;
-	METHOD <init> (Lnet/minecraft/class_140;)V
-		ARG 1 entity

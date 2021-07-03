@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_130 net/minecraft/util/ImageDownloadThread
-	FIELD field_492 image Ljava/awt/image/BufferedImage;
-	FIELD field_494 textureId I
-	METHOD <init> (Ljava/lang/String;Lnet/minecraft/class_131;)V
-		ARG 2 imageProcessor

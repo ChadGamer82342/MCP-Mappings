@@ -1,8 +1,0 @@
-CLASS net/minecraft/class_1 net/minecraft/packet/play/EntityInteract0x7C2SPacket
-	FIELD field_1 userId I
-	FIELD field_2 entityId I
-	FIELD field_3 leftClick I
-	METHOD <init> (III)V
-		ARG 1 userId
-		ARG 2 entityId
-		ARG 3 leftClick

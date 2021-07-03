@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_389 net/minecraft/block/PressurePlateTrigger
-	FIELD field_1505 HEAVY Lnet/minecraft/class_389;
-	FIELD field_1506 LIGHT Lnet/minecraft/class_389;

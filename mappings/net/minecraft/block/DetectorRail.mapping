@@ -1,8 +1,0 @@
-CLASS net/minecraft/class_342 net/minecraft/block/DetectorRail
-	METHOD <init> (II)V
-		ARG 1 id
-		ARG 2 texture
-	METHOD method_1144 (Lnet/minecraft/class_18;IIII)V
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z

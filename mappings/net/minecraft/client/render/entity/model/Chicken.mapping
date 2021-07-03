@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_577 net/minecraft/client/render/entity/model/Chicken
-	FIELD field_2472 head Lnet/minecraft/class_163;

@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_552 net/minecraft/client/render/TexturedQuad
-	FIELD field_2518 quadPoint [Lnet/minecraft/class_290;

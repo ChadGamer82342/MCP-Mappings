@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_203 net/minecraft/applet/CanvasLogo
-	FIELD field_755 logo Ljava/awt/image/BufferedImage;

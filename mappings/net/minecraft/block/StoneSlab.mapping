@@ -1,3 +1,0 @@
-CLASS net/minecraft/class_553 net/minecraft/block/StoneSlab
-	METHOD <init> (IZ)V
-		ARG 1 id

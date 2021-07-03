@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_232 net/minecraft/network/MyLittleRecursion
-	FIELD field_2113 entityId I
-	FIELD field_2114 trackedEntity Ljava/lang/Object;
-	METHOD <init> (IILjava/lang/Object;Lnet/minecraft/class_232;)V

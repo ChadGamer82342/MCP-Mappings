@@ -1,7 +1,0 @@
-CLASS net/minecraft/class_520 net/minecraft/client/SinglePlayerClientInteractionManager
-	FIELD field_2181 blockX I
-	FIELD field_2182 blockY I
-	FIELD field_2183 blockZ I
-	FIELD field_2184 damage F
-	FIELD field_2185 oldDamage F
-	FIELD field_2187 hitDelay I

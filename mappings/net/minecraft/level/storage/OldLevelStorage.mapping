@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_448 net/minecraft/level/storage/OldLevelStorage
-	FIELD field_1706 path Ljava/io/File;
-	METHOD <init> (Ljava/io/File;)V
-		ARG 1 file

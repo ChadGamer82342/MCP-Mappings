@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_284 net/minecraft/server/gui/PlayerList
-	FIELD field_1135 minecraftServer Lnet/minecraft/server/MinecraftServer;

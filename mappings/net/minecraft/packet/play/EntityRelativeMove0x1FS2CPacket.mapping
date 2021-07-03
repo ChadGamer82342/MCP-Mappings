@@ -1,6 +1,0 @@
-CLASS net/minecraft/class_418 net/minecraft/packet/play/EntityRelativeMove0x1FS2CPacket
-	METHOD <init> (IBBB)V
-		ARG 1 entityId
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z

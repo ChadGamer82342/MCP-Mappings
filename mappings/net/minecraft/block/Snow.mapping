@@ -1,8 +1,0 @@
-CLASS net/minecraft/class_224 net/minecraft/block/Snow
-	METHOD <init> (II)V
-		ARG 1 id
-		ARG 2 texUVStart
-	METHOD method_768 (Lnet/minecraft/class_18;III)Z
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z

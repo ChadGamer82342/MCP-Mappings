@@ -1,7 +1,0 @@
-CLASS net/minecraft/class_299 net/minecraft/block/Leaves
-	METHOD method_990 dropAndRemove (Lnet/minecraft/class_18;III)V
-		ARG 2 x
-		ARG 3 y
-		ARG 4 z
-	METHOD method_991 (Z)V
-		ARG 1 isSolid

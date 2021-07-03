@@ -1,6 +1,0 @@
-CLASS net/minecraft/class_288 net/minecraft/entity/EntityEntry
-	FIELD field_1142 entryClass Ljava/lang/Class;
-	FIELD field_1143 rarity I
-	METHOD <init> (Ljava/lang/Class;I)V
-		ARG 1 entryClass
-		ARG 2 rarity

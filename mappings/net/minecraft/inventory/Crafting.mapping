@@ -1,8 +1,0 @@
-CLASS net/minecraft/class_159 net/minecraft/inventory/Crafting
-	FIELD field_1132 contents [Lnet/minecraft/class_31;
-	FIELD field_1133 size I
-	FIELD field_1134 container Lnet/minecraft/class_71;
-	METHOD <init> (Lnet/minecraft/class_71;II)V
-		ARG 1 container
-		ARG 2 width
-		ARG 3 height

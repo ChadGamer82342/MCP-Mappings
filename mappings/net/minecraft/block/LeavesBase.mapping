@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_307 net/minecraft/block/LeavesBase
-	FIELD field_1192 isTransparent Z
-	METHOD <init> (IILnet/minecraft/class_15;Z)V
-		ARG 1 id
-		ARG 2 texture

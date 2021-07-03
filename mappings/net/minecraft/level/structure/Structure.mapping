@@ -1,7 +1,0 @@
-CLASS net/minecraft/class_239 net/minecraft/level/structure/Structure
-	METHOD method_1142 generate (Lnet/minecraft/class_18;Ljava/util/Random;III)Z
-		ARG 1 level
-		ARG 2 rand
-		ARG 3 x
-		ARG 4 y
-		ARG 5 z
