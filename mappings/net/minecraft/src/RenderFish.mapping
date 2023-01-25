@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_540 net/minecraft/src/RenderFish
+	METHOD method_1800 func_4011_a (Lnet/minecraft/class_135;DDDFF)V

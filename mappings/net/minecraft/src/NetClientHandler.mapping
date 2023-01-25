@@ -8,5 +8,7 @@ CLASS net/minecraft/class_219 net/minecraft/src/NetClientHandler
 	FIELD field_1973 worldClient Lnet/minecraft/class_454;
 	FIELD field_1974 field_1210_g Z
 	METHOD method_1644 processReadPackets ()V
+	METHOD method_1645 getEntityByID (I)Lnet/minecraft/class_57;
+	METHOD method_1646 func_28117_a (Lnet/minecraft/class_169;)V
 	METHOD method_1647 disconnect ()V
 	METHOD method_1648 addToSendQueue (Lnet/minecraft/class_169;)V

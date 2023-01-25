@@ -1,2 +1,2 @@
 CLASS net/minecraft/class_224 net/minecraft/src/BlockSnow
-	METHOD method_768 func_275_g (Lnet/minecraft/class_18;III)Z
+	METHOD method_768 func_314_h (Lnet/minecraft/class_18;III)Z

@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_536 net/minecraft/src/RenderLightningBolt
+	METHOD method_1793 func_27002_a (Lnet/minecraft/class_411;DDDFF)V

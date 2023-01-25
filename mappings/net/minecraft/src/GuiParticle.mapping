@@ -1,3 +1,5 @@
 CLASS net/minecraft/class_35 net/minecraft/src/GuiParticle
 	FIELD field_300 field_25090_a Ljava/util/List;
 	FIELD field_301 field_25089_b Lnet/minecraft/client/Minecraft;
+	METHOD method_351 func_25088_a ()V
+	METHOD method_352 func_25087_a (F)V

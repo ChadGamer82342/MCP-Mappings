@@ -5,6 +5,6 @@ CLASS net/minecraft/class_107 net/minecraft/src/EntityPainting
 	FIELD field_1387 zPosition I
 	FIELD field_1388 art Lnet/minecraft/class_191;
 	FIELD field_1389 field_695_c I
-	METHOD method_1191 func_179_a (I)V
-	METHOD method_1192 func_180_c (I)F
-	METHOD method_1193 onValidSurface ()Z
+	METHOD method_1191 func_412_b (I)V
+	METHOD method_1192 func_411_c (I)F
+	METHOD method_1193 func_410_i ()Z

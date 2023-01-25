@@ -3,7 +3,17 @@ CLASS net/minecraft/class_96 net/minecraft/src/StatFileWriter
 	FIELD field_2605 field_25101_b Ljava/util/Map;
 	FIELD field_2606 field_27189_c Z
 	FIELD field_2607 statsSyncher Lnet/minecraft/class_605;
+	METHOD method_1983 func_27176_a ()Ljava/util/Map;
+	METHOD method_1984 func_27177_a (Ljava/lang/String;)Ljava/util/Map;
+	METHOD method_1985 func_27185_a (Ljava/lang/String;Ljava/lang/String;Ljava/util/Map;)Ljava/lang/String;
+	METHOD method_1986 func_27179_a (Ljava/util/Map;)V
+	METHOD method_1987 writeStatToMap (Ljava/util/Map;Lnet/minecraft/class_139;I)V
 	METHOD method_1988 hasAchievementUnlocked (Lnet/minecraft/class_24;)Z
 	METHOD method_1989 writeStat (Lnet/minecraft/class_139;)I
 	METHOD method_1990 readStat (Lnet/minecraft/class_139;I)V
+	METHOD method_1991 func_27175_b ()V
+	METHOD method_1992 func_27180_b (Ljava/util/Map;)V
+	METHOD method_1993 func_27181_b (Lnet/minecraft/class_24;)Z
 	METHOD method_1994 syncStats ()V
+	METHOD method_1995 func_27187_c (Ljava/util/Map;)V
+	METHOD method_1996 func_27178_d ()V

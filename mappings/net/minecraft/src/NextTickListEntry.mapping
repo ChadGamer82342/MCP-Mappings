@@ -6,4 +6,5 @@ CLASS net/minecraft/class_366 net/minecraft/src/NextTickListEntry
 	FIELD field_1404 scheduledTime J
 	FIELD field_1405 nextTickEntryID J
 	FIELD field_1406 tickEntryID J
+	METHOD method_1197 setScheduledTime (J)Lnet/minecraft/class_366;
 	METHOD method_1198 comparer (Lnet/minecraft/class_366;)I

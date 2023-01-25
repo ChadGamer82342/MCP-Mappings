@@ -8,4 +8,4 @@ CLASS net/minecraft/class_499 net/minecraft/src/EntityEgg
 	FIELD field_2044 field_20051_g Lnet/minecraft/class_127;
 	FIELD field_2045 field_20050_h I
 	FIELD field_2046 field_20049_i I
-	METHOD method_1682 setEggHeading (DDDFF)V
+	METHOD method_1682 zTile (DDDFF)V

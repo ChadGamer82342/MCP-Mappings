@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_222 net/minecraft/src/GuiSleepMP
+	METHOD method_758 func_22115_j ()V

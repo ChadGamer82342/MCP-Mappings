@@ -1,15 +1,20 @@
 CLASS net/minecraft/client/Minecraft net/minecraft/client/Minecraft
 	CLASS class_636 ThreadSleepForever
 		FIELD field_2825 mc Lnet/minecraft/client/Minecraft;
+
 	CLASS class_637 StatStringFormatKeyInv
 		FIELD field_2826 mc Lnet/minecraft/client/Minecraft;
+
 	CLASS class_638 GameWindowListener
 		FIELD field_2827 mc Lnet/minecraft/client/Minecraft;
 		FIELD field_2828 mcThread Ljava/lang/Thread;
+
 	CLASS class_639 ThreadCheckHasPaid
 		FIELD field_2829 field_28146_a Lnet/minecraft/client/Minecraft;
+
 	CLASS class_640 MinecraftImpl
 		FIELD field_2830 mcFrame Ljava/awt/Frame;
+
 	FIELD field_2765 mcApplet Lnet/minecraft/client/MinecraftApplet;
 	FIELD field_2766 sndManager Lnet/minecraft/class_617;
 	FIELD field_2767 mouseHelper Lnet/minecraft/class_596;
@@ -72,16 +77,22 @@ CLASS net/minecraft/client/Minecraft net/minecraft/client/Minecraft
 	FIELD field_2824 gameSettings Lnet/minecraft/class_322;
 	METHOD method_2102 displayUnexpectedThrowable (Lnet/minecraft/class_447;)V
 	METHOD method_2103 clickMiddleMouseButton ()V
+	METHOD method_2104 func_28001_B ()V
 	METHOD method_2105 forceReload ()V
 	METHOD method_2106 startGame ()V
 	METHOD method_2107 clickMouse (I)V
 	METHOD method_2108 resize (II)V
+	METHOD method_2109 func_6274_a (IIIIII)V
+	METHOD method_2110 func_6254_a (IZ)V
 	METHOD method_2111 displayDebugInfo (J)V
 	METHOD method_2112 displayGuiScreen (Lnet/minecraft/class_32;)V
 	METHOD method_2113 changeWorld1 (Lnet/minecraft/class_18;)V
+	METHOD method_2114 changeWorld2 (Lnet/minecraft/class_18;Ljava/lang/String;)V
+	METHOD method_2115 changeWorld (Lnet/minecraft/class_18;Ljava/lang/String;Lnet/minecraft/class_54;)V
 	METHOD method_2116 getAppDir (Ljava/lang/String;)Ljava/io/File;
 	METHOD method_2117 setServer (Ljava/lang/String;I)V
 	METHOD method_2118 installResource (Ljava/lang/String;Ljava/io/File;)V
+	METHOD method_2119 func_6269_a (Ljava/lang/String;Ljava/lang/String;)V
 	METHOD method_2120 startWorld (Ljava/lang/String;Ljava/lang/String;J)V
 	METHOD method_2121 startMainThread (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
 	METHOD method_2122 respawn (ZI)V
@@ -89,8 +100,11 @@ CLASS net/minecraft/client/Minecraft net/minecraft/client/Minecraft
 	METHOD method_2124 lineIsCommand (Ljava/lang/String;)Z
 	METHOD method_2125 convertMapFormat (Ljava/lang/String;Ljava/lang/String;)V
 	METHOD method_2126 onMinecraftCrash (Lnet/minecraft/class_447;)V
+	METHOD method_2127 getSaveLoader ()Lnet/minecraft/class_182;
 	METHOD method_2128 checkGLError (Ljava/lang/String;)V
 	METHOD method_2129 shutdownMinecraftApplet ()V
+	METHOD method_2130 func_6255_d (Ljava/lang/String;)V
+	METHOD method_2131 func_28002_e ()V
 	METHOD method_2132 shutdown ()V
 	METHOD method_2133 setIngameFocus ()V
 	METHOD method_2134 setIngameNotInFocus ()V
@@ -99,9 +113,16 @@ CLASS net/minecraft/client/Minecraft net/minecraft/client/Minecraft
 	METHOD method_2137 runTick ()V
 	METHOD method_2138 isMultiplayerWorld ()Z
 	METHOD method_2139 usePortal ()V
+	METHOD method_2140 getOpenGlCapsChecker ()Lnet/minecraft/class_22;
+	METHOD method_2141 func_6241_m ()Ljava/lang/String;
+	METHOD method_2142 func_6262_n ()Ljava/lang/String;
+	METHOD method_2143 func_21002_o ()Ljava/lang/String;
+	METHOD method_2144 func_6245_o ()Ljava/lang/String;
+	METHOD method_2145 getSendQueue ()Lnet/minecraft/class_219;
 	METHOD method_2146 isGuiEnabled ()Z
 	METHOD method_2147 isFancyGraphicsEnabled ()Z
 	METHOD method_2148 isAmbientOcclusionEnabled ()Z
 	METHOD method_2149 isDebugInfoEnabled ()Z
 	METHOD method_2150 loadScreen ()V
+	METHOD method_2151 getOs ()Lnet/minecraft/class_531;
 	METHOD method_2152 screenshotListener ()V

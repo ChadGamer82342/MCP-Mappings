@@ -13,6 +13,7 @@ CLASS net/minecraft/class_617 net/minecraft/src/SoundManager
 	METHOD method_2010 playStreaming (Ljava/lang/String;FFFFF)V
 	METHOD method_2011 addSound (Ljava/lang/String;Ljava/io/File;)V
 	METHOD method_2012 loadSoundSettings (Lnet/minecraft/class_322;)V
+	METHOD method_2013 func_338_a (Lnet/minecraft/class_127;F)V
 	METHOD method_2014 closeMinecraft ()V
 	METHOD method_2015 playSound (Ljava/lang/String;FFFFF)V
 	METHOD method_2016 addStreaming (Ljava/lang/String;Ljava/io/File;)V

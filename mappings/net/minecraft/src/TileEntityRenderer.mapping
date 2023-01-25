@@ -13,6 +13,11 @@ CLASS net/minecraft/class_331 net/minecraft/src/TileEntityRenderer
 	FIELD field_1563 playerZ D
 	FIELD field_1564 specialRendererMap Ljava/util/Map;
 	FIELD field_1565 fontRenderer Lnet/minecraft/class_34;
+	METHOD method_1272 getFontRenderer ()Lnet/minecraft/class_34;
+	METHOD method_1273 func_31072_a (Lnet/minecraft/class_18;)V
+	METHOD method_1274 cacheActiveRenderInfo (Lnet/minecraft/class_18;Lnet/minecraft/class_76;Lnet/minecraft/class_34;Lnet/minecraft/class_127;F)V
+	METHOD method_1275 getSpecialRendererForClass (Ljava/lang/Class;)Lnet/minecraft/class_330;
 	METHOD method_1276 hasSpecialRenderer (Lnet/minecraft/class_55;)Z
 	METHOD method_1277 renderTileEntityAt (Lnet/minecraft/class_55;DDDF)V
 	METHOD method_1278 renderTileEntity (Lnet/minecraft/class_55;F)V
+	METHOD method_1279 getSpecialRendererForEntity (Lnet/minecraft/class_55;)Lnet/minecraft/class_330;

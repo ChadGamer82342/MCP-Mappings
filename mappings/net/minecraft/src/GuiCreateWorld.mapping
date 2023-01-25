@@ -4,3 +4,5 @@ CLASS net/minecraft/class_180 net/minecraft/src/GuiCreateWorld
 	FIELD field_633 textboxSeed Lnet/minecraft/class_181;
 	FIELD field_634 folderName Ljava/lang/String;
 	FIELD field_635 createClicked Z
+	METHOD method_607 generateUnusedFolderName (Lnet/minecraft/class_182;Ljava/lang/String;)Ljava/lang/String;
+	METHOD method_608 func_22129_j ()V

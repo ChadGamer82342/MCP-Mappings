@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_371 net/minecraft/src/RenderFireball
+	METHOD method_1207 func_4012_a (Lnet/minecraft/class_372;DDDFF)V

@@ -35,10 +35,16 @@ CLASS net/minecraft/class_15 net/minecraft/src/Material
 	FIELD field_1004 cakeMaterial Lnet/minecraft/class_15;
 	METHOD method_893 getIsLiquid ()Z
 	METHOD method_894 getBurning ()Z
+	METHOD method_895 setIsGroundCover ()Lnet/minecraft/class_15;
 	METHOD method_896 getIsGroundCover ()Z
 	METHOD method_897 getIsTranslucent ()Z
 	METHOD method_898 getIsHarvestable ()Z
 	METHOD method_899 getMaterialMobility ()I
+	METHOD method_900 setNoPushMobility ()Lnet/minecraft/class_15;
+	METHOD method_901 setImmovableMobility ()Lnet/minecraft/class_15;
+	METHOD method_902 setIsTranslucent ()Lnet/minecraft/class_15;
+	METHOD method_903 setNoHarvest ()Lnet/minecraft/class_15;
+	METHOD method_904 setBurning ()Lnet/minecraft/class_15;
 	METHOD method_905 isSolid ()Z
 	METHOD method_906 getCanBlockGrass ()Z
-	METHOD method_907 getIsSolid ()Z
+	METHOD method_907 web ()Z

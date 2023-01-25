@@ -1,4 +1,4 @@
 CLASS net/minecraft/class_396 net/minecraft/src/BlockRedstoneOre
 	FIELD field_1527 field_468_a Z
-	METHOD method_1252 func_321_g (Lnet/minecraft/class_18;III)V
-	METHOD method_1253 func_320_h (Lnet/minecraft/class_18;III)V
+	METHOD method_1252 func_320_h (Lnet/minecraft/class_18;III)V
+	METHOD method_1253 func_319_i (Lnet/minecraft/class_18;III)V

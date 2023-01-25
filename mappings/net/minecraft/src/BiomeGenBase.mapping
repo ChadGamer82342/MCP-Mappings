@@ -24,6 +24,15 @@ CLASS net/minecraft/class_153 net/minecraft/src/BiomeGenBase
 	FIELD field_897 enableRain Z
 	FIELD field_898 biomeLookupTable [Lnet/minecraft/class_153;
 	METHOD method_785 generateBiomeLookup ()V
+	METHOD method_786 getBiomeFromLookup (DD)Lnet/minecraft/class_153;
+	METHOD method_787 getBiome (FF)Lnet/minecraft/class_153;
+	METHOD method_788 func_4124_a (I)Lnet/minecraft/class_153;
+	METHOD method_789 getSpawnableList (Lnet/minecraft/class_238;)Ljava/util/List;
+	METHOD method_790 setBiomeName (Ljava/lang/String;)Lnet/minecraft/class_153;
+	METHOD method_791 setEnableSnow ()Lnet/minecraft/class_153;
+	METHOD method_792 setColor (I)Lnet/minecraft/class_153;
 	METHOD method_793 getEnableSnow ()Z
 	METHOD method_794 canSpawnLightningBolt ()Z
+	METHOD method_795 setDisableRain ()Lnet/minecraft/class_153;
 	METHOD method_796 getSkyColorByTemp (F)I
+	METHOD method_797 getRandomWorldGenForTrees (Ljava/util/Random;)Lnet/minecraft/class_239;

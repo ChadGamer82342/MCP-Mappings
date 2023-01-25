@@ -5,3 +5,6 @@ CLASS net/minecraft/class_92 net/minecraft/src/RenderItem
 	METHOD method_1483 renderTexturedQuad (IIIIII)V
 	METHOD method_1484 doRenderItem (Lnet/minecraft/class_142;DDDFF)V
 	METHOD method_1485 renderQuad (Lnet/minecraft/class_67;IIIII)V
+	METHOD method_1486 drawItemIntoGui (Lnet/minecraft/class_34;Lnet/minecraft/class_76;IIIII)V
+	METHOD method_1487 renderItemIntoGUI (Lnet/minecraft/class_34;Lnet/minecraft/class_76;Lnet/minecraft/class_31;II)V
+	METHOD method_1488 renderItemOverlayIntoGUI (Lnet/minecraft/class_34;Lnet/minecraft/class_76;Lnet/minecraft/class_31;II)V

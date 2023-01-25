@@ -6,5 +6,9 @@ CLASS net/minecraft/class_24 net/minecraft/src/Achievement
 	FIELD field_1206 achievementDescription Ljava/lang/String;
 	FIELD field_1207 isSpecial Z
 	FIELD field_1208 statStringFormatter Lnet/minecraft/class_241;
+	METHOD method_1039 func_27089_a ()Lnet/minecraft/class_24;
+	METHOD method_1040 setSpecial ()Lnet/minecraft/class_24;
+	METHOD method_1041 registerAchievement ()Lnet/minecraft/class_24;
+	METHOD method_1042 setStatStringFormatter (Lnet/minecraft/class_241;)Lnet/minecraft/class_24;
 	METHOD method_1043 getDescription ()Ljava/lang/String;
 	METHOD method_1044 getSpecial ()Z

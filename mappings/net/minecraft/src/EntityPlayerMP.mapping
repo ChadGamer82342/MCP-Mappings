@@ -11,15 +11,3 @@ CLASS net/minecraft/class_69 net/minecraft/src/EntityPlayerMP
 	FIELD field_264 loadedChunks Ljava/util/List;
 	FIELD field_265 field_420_ah Ljava/util/Set;
 	FIELD field_266 isChangingQuantityOnly Z
-	METHOD method_307 closeCraftingGui ()V
-	METHOD method_308 func_30002_A ()V
-	METHOD method_309 func_30001_B ()V
-	METHOD method_310 setMovementType (FFZZFF)V
-	METHOD method_311 func_28017_a (Lnet/minecraft/class_71;)V
-	METHOD method_312 getTileEntityInfo (Lnet/minecraft/class_55;)V
-	METHOD method_313 onUpdateEntity (Z)V
-	METHOD method_314 getNextWidowId ()V
-	METHOD method_315 handleFalling (DZ)V
-	METHOD method_317 func_20057_k ()V
-	METHOD method_318 func_22068_s ()V
-	METHOD method_319 updateHeldItem ()V

@@ -9,6 +9,9 @@ CLASS net/minecraft/class_556 net/minecraft/src/ItemRenderer
 	METHOD method_1859 updateEquippedItem ()V
 	METHOD method_1860 renderItemInFirstPerson (F)V
 	METHOD method_1861 renderInsideOfBlock (FI)V
+	METHOD method_1862 renderItem (Lnet/minecraft/class_127;Lnet/minecraft/class_31;)V
+	METHOD method_1863 func_9449_b ()V
 	METHOD method_1864 renderOverlays (F)V
+	METHOD method_1865 func_9450_c ()V
 	METHOD method_1866 renderWarpedTextureOverlay (F)V
 	METHOD method_1867 renderFireInFirstPerson (F)V

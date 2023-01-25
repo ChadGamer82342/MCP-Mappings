@@ -17,12 +17,18 @@ CLASS net/minecraft/class_97 net/minecraft/src/GuiSlot
 	FIELD field_1543 field_25123_p Z
 	FIELD field_1544 field_27262_q Z
 	FIELD field_1545 field_27261_r I
+	METHOD method_1254 func_27255_a (II)V
+	METHOD method_1255 func_27257_b (II)V
 	METHOD method_1256 drawScreen (IIF)V
 	METHOD method_1257 overlayBackground (IIII)V
 	METHOD method_1258 registerScrollButtons (Ljava/util/List;II)V
 	METHOD method_1259 actionPerformed (Lnet/minecraft/class_33;)V
+	METHOD method_1260 func_27258_a (Z)V
+	METHOD method_1261 func_27259_a (ZI)V
+	METHOD method_1262 func_27256_c (II)I
 	METHOD method_1263 bindAmountScrolled ()V
 	METHOD method_1264 drawSlot (IIIILnet/minecraft/class_67;)V
+	METHOD method_1265 func_27260_a (IILnet/minecraft/class_67;)V
 	METHOD method_1266 getSize ()I
 	METHOD method_1267 elementClicked (IZ)V
 	METHOD method_1268 getContentHeight ()I

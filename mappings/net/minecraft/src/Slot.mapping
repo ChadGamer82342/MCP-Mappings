@@ -5,8 +5,9 @@ CLASS net/minecraft/class_133 net/minecraft/src/Slot
 	FIELD field_502 slotIndex I
 	FIELD field_503 inventory Lnet/minecraft/class_134;
 	METHOD method_471 getBackgroundIconIndex ()I
+	METHOD method_472 getStack ()Lnet/minecraft/class_31;
+	METHOD method_473 decrStackSize (I)Lnet/minecraft/class_31;
 	METHOD method_474 onPickupFromSlot (Lnet/minecraft/class_31;)V
-	METHOD method_475 isHere (Lnet/minecraft/class_134;I)Z
 	METHOD method_476 getHasStack ()Z
 	METHOD method_477 isItemValid (Lnet/minecraft/class_31;)Z
 	METHOD method_478 onSlotChanged ()V

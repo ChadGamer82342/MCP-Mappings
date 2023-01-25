@@ -8,4 +8,3 @@ CLASS net/minecraft/class_270 net/minecraft/src/WatchableObject
 	METHOD method_962 setWatching (Z)V
 	METHOD method_963 getObject ()Ljava/lang/Object;
 	METHOD method_964 getObjectType ()I
-	METHOD method_965 getWatching ()Z

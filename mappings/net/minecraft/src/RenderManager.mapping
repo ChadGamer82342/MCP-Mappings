@@ -15,5 +15,11 @@ CLASS net/minecraft/class_578 net/minecraft/src/RenderManager
 	FIELD field_2502 field_1220_n D
 	FIELD field_2503 entityRenderMap Ljava/util/Map;
 	FIELD field_2504 fontRenderer Lnet/minecraft/class_34;
+	METHOD method_1914 getFontRenderer ()Lnet/minecraft/class_34;
+	METHOD method_1915 func_851_a (DDD)D
+	METHOD method_1916 func_852_a (Lnet/minecraft/class_18;)V
+	METHOD method_1917 cacheActiveRenderInfo (Lnet/minecraft/class_18;Lnet/minecraft/class_76;Lnet/minecraft/class_34;Lnet/minecraft/class_127;Lnet/minecraft/class_322;F)V
+	METHOD method_1918 getEntityClassRenderObject (Ljava/lang/Class;)Lnet/minecraft/class_579;
+	METHOD method_1919 getEntityRenderObject (Lnet/minecraft/class_57;)Lnet/minecraft/class_579;
 	METHOD method_1920 renderEntityWithPosYaw (Lnet/minecraft/class_57;DDDFF)V
 	METHOD method_1921 renderEntity (Lnet/minecraft/class_57;F)V

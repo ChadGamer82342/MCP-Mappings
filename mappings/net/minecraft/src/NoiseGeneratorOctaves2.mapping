@@ -1,5 +1,5 @@
 CLASS net/minecraft/class_458 net/minecraft/src/NoiseGeneratorOctaves2
 	FIELD field_1746 field_4234_a [Lnet/minecraft/class_459;
 	FIELD field_1747 field_4233_b I
-	METHOD method_1516 func_4101_a ([DDDIIDDD)[D
-	METHOD method_1517 func_4100_a ([DDDIIDDDD)[D
+	METHOD method_1516 func_4112_a ([DDDIIDDD)[D
+	METHOD method_1517 func_4111_a ([DDDIIDDDD)[D

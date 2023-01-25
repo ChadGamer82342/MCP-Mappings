@@ -1,5 +1,7 @@
 CLASS net/minecraft/class_330 net/minecraft/src/TileEntitySpecialRenderer
 	FIELD field_1235 tileEntityRenderer Lnet/minecraft/class_331;
+	METHOD method_1062 func_31069_a (Lnet/minecraft/class_18;)V
+	METHOD method_1063 getFontRenderer ()Lnet/minecraft/class_34;
 	METHOD method_1064 bindTextureByName (Ljava/lang/String;)V
 	METHOD method_1065 setTileEntityRenderer (Lnet/minecraft/class_331;)V
 	METHOD method_1066 renderTileEntityAt (Lnet/minecraft/class_55;DDDF)V

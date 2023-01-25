@@ -5,6 +5,7 @@ CLASS net/minecraft/class_579 net/minecraft/src/Render
 	FIELD field_2679 field_194_c F
 	FIELD field_2680 renderBlocks Lnet/minecraft/class_13;
 	METHOD method_2022 doRender (Lnet/minecraft/class_57;DDDFF)V
+	METHOD method_2023 getFontRendererFromRenderManager ()Lnet/minecraft/class_34;
 	METHOD method_2024 renderAABB (Lnet/minecraft/class_25;)V
 	METHOD method_2025 renderOffsetAABB (Lnet/minecraft/class_25;DDD)V
 	METHOD method_2026 loadTexture (Ljava/lang/String;)V
@@ -12,5 +13,6 @@ CLASS net/minecraft/class_579 net/minecraft/src/Render
 	METHOD method_2028 renderEntityOnFire (Lnet/minecraft/class_57;DDDF)V
 	METHOD method_2029 setRenderManager (Lnet/minecraft/class_578;)V
 	METHOD method_2030 renderShadowOnBlock (Lnet/minecraft/class_17;DDDIIIFFDDD)V
+	METHOD method_2031 getWorldFromRenderManager ()Lnet/minecraft/class_18;
 	METHOD method_2032 doRenderShadowAndFire (Lnet/minecraft/class_57;DDDFF)V
 	METHOD method_2033 renderShadow (Lnet/minecraft/class_57;DDDFF)V

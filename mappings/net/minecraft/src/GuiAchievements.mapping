@@ -15,3 +15,5 @@ CLASS net/minecraft/class_609 net/minecraft/src/GuiAchievements
 	FIELD field_2631 field_27123_v I
 	FIELD field_2632 field_27122_w I
 	FIELD field_2633 field_27120_x Lnet/minecraft/class_96;
+	METHOD method_1998 func_27109_b (IIF)V
+	METHOD method_1999 func_27110_k ()V

@@ -1,5 +1,7 @@
 CLASS net/minecraft/class_52 net/minecraft/src/ISaveHandler
 	METHOD method_1732 saveWorldInfo (Lnet/minecraft/class_7;)V
-	METHOD method_1735 func_22091_b ()V
-	METHOD method_1736 func_28111_b (Ljava/lang/String;)Ljava/io/File;
-	METHOD method_1739 func_22093_e ()V
+	METHOD method_1733 saveWorldInfoAndPlayer (Lnet/minecraft/class_7;Ljava/util/List;)V
+	METHOD method_1734 getChunkLoader (Lnet/minecraft/class_50;)Lnet/minecraft/class_243;
+	METHOD method_1735 func_22150_b ()V
+	METHOD method_1736 func_28113_a (Ljava/lang/String;)Ljava/io/File;
+	METHOD method_1737 loadWorldInfo ()Lnet/minecraft/class_7;

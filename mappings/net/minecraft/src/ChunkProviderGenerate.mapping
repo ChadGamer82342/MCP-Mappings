@@ -24,4 +24,4 @@ CLASS net/minecraft/class_538 net/minecraft/src/ChunkProviderGenerate
 	FIELD field_2267 generatedTemperatures [D
 	METHOD method_1797 replaceBlocksForBiome (II[B[Lnet/minecraft/class_153;)V
 	METHOD method_1798 generateTerrain (II[B[Lnet/minecraft/class_153;[D)V
-	METHOD method_1799 func_4058_a ([DIIIIII)[D
+	METHOD method_1799 isEditAble ([DIIIIII)[D

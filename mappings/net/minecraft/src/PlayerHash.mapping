@@ -4,13 +4,3 @@ CLASS net/minecraft/class_101 net/minecraft/src/PlayerHash
 	FIELD field_326 capacity I
 	FIELD field_327 percentUsable F
 	FIELD field_328 field_950_e I
-	METHOD method_383 hash (I)I
-	METHOD method_384 getHashIndex (II)I
-	METHOD method_385 createKey (IJLjava/lang/Object;I)V
-	METHOD method_386 getValueByKey (J)Ljava/lang/Object;
-	METHOD method_387 add (JLjava/lang/Object;)V
-	METHOD method_388 copyHashTableTo ([Lnet/minecraft/class_102;)V
-	METHOD method_389 resizeTable (I)V
-	METHOD method_390 remove (J)Ljava/lang/Object;
-	METHOD method_392 getHashCode (J)I
-	METHOD method_393 getHashedKey (J)I

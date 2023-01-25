@@ -8,3 +8,8 @@ CLASS net/minecraft/class_472 net/minecraft/src/RenderList
 	FIELD field_2486 field_1236_g Ljava/nio/IntBuffer;
 	FIELD field_2487 field_1235_h Z
 	FIELD field_2488 field_1234_i Z
+	METHOD method_1909 func_860_a ()V
+	METHOD method_1910 func_858_a (I)V
+	METHOD method_1911 func_862_a (III)Z
+	METHOD method_1912 func_861_a (IIIDDD)V
+	METHOD method_1913 func_859_b ()V

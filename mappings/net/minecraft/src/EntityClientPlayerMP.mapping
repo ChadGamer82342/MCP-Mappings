@@ -11,4 +11,6 @@ CLASS net/minecraft/class_580 net/minecraft/src/EntityClientPlayerMP
 	FIELD field_2514 field_9382_bF Z
 	FIELD field_2515 wasSneaking Z
 	FIELD field_2516 field_12242_bI I
+	METHOD method_1922 func_4056_N ()V
 	METHOD method_1923 sendInventoryChanged ()V
+	METHOD method_1924 func_27027_b (Lnet/minecraft/class_139;I)V

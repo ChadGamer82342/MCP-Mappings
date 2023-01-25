@@ -129,8 +129,11 @@ CLASS net/minecraft/class_17 net/minecraft/src/Block
 	FIELD field_1948 cobblestone Lnet/minecraft/class_17;
 	FIELD field_1949 planks Lnet/minecraft/class_17;
 	FIELD field_1950 sapling Lnet/minecraft/class_17;
+	METHOD method_1560 onEntityWalking (Lnet/minecraft/class_18;IIILnet/minecraft/class_57;)V
 	METHOD method_1561 canPlaceBlockOnSide (Lnet/minecraft/class_18;IIII)Z
+	METHOD method_1562 getCollidingBoundingBoxes (Lnet/minecraft/class_18;IIILnet/minecraft/class_25;Ljava/util/ArrayList;)V
 	METHOD method_1563 playBlock (Lnet/minecraft/class_18;IIIII)V
+	METHOD method_1564 collisionRayTrace (Lnet/minecraft/class_18;IIILnet/minecraft/class_26;Lnet/minecraft/class_26;)Lnet/minecraft/class_27;
 	METHOD method_1565 tickRate ()I
 	METHOD method_1566 canBlockStay (Lnet/minecraft/class_18;III)Z
 	METHOD method_1567 canPlaceBlockAt (Lnet/minecraft/class_18;III)Z
@@ -138,41 +141,62 @@ CLASS net/minecraft/class_17 net/minecraft/src/Block
 	METHOD method_1569 canProvidePower ()Z
 	METHOD method_1570 isIndirectlyPoweringTo (Lnet/minecraft/class_18;IIII)Z
 	METHOD method_1571 canCollideCheck (IZ)Z
+	METHOD method_1572 velocityToAddToEntity (Lnet/minecraft/class_18;IIILnet/minecraft/class_57;Lnet/minecraft/class_26;)V
 	METHOD method_1573 getIsBlockSolid (Lnet/minecraft/class_14;IIII)Z
 	METHOD method_1574 getMobilityFlag ()I
 	METHOD method_1575 getExplosionResistance (Lnet/minecraft/class_57;)F
 	METHOD method_1576 isCollidable ()Z
+	METHOD method_1577 setLightValue (F)Lnet/minecraft/class_17;
 	METHOD method_1578 setBlockBounds (FFFFFF)V
 	METHOD method_1579 isVecInsideYZBounds (Lnet/minecraft/class_26;)Z
+	METHOD method_1580 setStepSound (Lnet/minecraft/class_475;)Lnet/minecraft/class_17;
+	METHOD method_1581 dropBlockAsItem_do (Lnet/minecraft/class_18;IIILnet/minecraft/class_31;)V
 	METHOD method_1582 blockStrength (Lnet/minecraft/class_54;)F
+	METHOD method_1583 setBlockName (Ljava/lang/String;)Lnet/minecraft/class_17;
+	METHOD method_1584 setTickOnLoad (Z)Lnet/minecraft/class_17;
+	METHOD method_1585 setResistance (F)Lnet/minecraft/class_17;
 	METHOD method_1586 isVecInsideXZBounds (Lnet/minecraft/class_26;)Z
+	METHOD method_1587 setHardness (F)Lnet/minecraft/class_17;
 	METHOD method_1588 isVecInsideXYBounds (Lnet/minecraft/class_26;)Z
 	METHOD method_1589 getRenderColor (I)I
+	METHOD method_1590 setLightOpacity (I)Lnet/minecraft/class_17;
+	METHOD method_1591 disableNeighborNotifyOnMetadataChange ()Lnet/minecraft/class_17;
 	METHOD method_1592 dropBlockAsItem (Lnet/minecraft/class_18;IIII)V
 	METHOD method_1593 initializeBlock ()V
+	METHOD method_1594 setBlockUnbreakable ()Lnet/minecraft/class_17;
 	METHOD method_1595 getHardness ()F
 	METHOD method_1596 translateBlockName ()Ljava/lang/String;
 	METHOD method_1597 getBlockName ()Ljava/lang/String;
 	METHOD method_1598 getEnableStats ()Z
+	METHOD method_1599 disableStats ()Lnet/minecraft/class_17;
 	METHOD method_1600 colorMultiplier (Lnet/minecraft/class_14;III)I
 	METHOD method_1601 idDropped (ILjava/util/Random;)I
+	METHOD method_1602 updateTick (Lnet/minecraft/class_18;IIILjava/util/Random;)V
 	METHOD method_1603 quantityDropped (Ljava/util/Random;)I
 	METHOD method_1604 getBlockBrightness (Lnet/minecraft/class_14;III)F
 	METHOD method_1605 setBlockBoundsForItemRender ()V
 	METHOD method_1606 onBlockPlaced (Lnet/minecraft/class_18;IIII)V
 	METHOD method_1607 getBlockTextureFromSide (I)I
+	METHOD method_1608 blockActivated (Lnet/minecraft/class_18;IIILnet/minecraft/class_54;)Z
 	METHOD method_1609 onNeighborBlockChange (Lnet/minecraft/class_18;IIII)V
+	METHOD method_1610 onBlockClicked (Lnet/minecraft/class_18;IIILnet/minecraft/class_54;)V
 	METHOD method_1611 onBlockAdded (Lnet/minecraft/class_18;III)V
 	METHOD method_1612 onBlockDestroyedByPlayer (Lnet/minecraft/class_18;IIII)V
 	METHOD method_1613 onBlockDestroyedByExplosion (Lnet/minecraft/class_18;III)V
+	METHOD method_1614 onBlockPlacedBy (Lnet/minecraft/class_18;IIILnet/minecraft/class_127;)V
+	METHOD method_1615 onEntityCollidedWithBlock (Lnet/minecraft/class_18;IIILnet/minecraft/class_57;)V
 	METHOD method_1616 setBlockBoundsBasedOnState (Lnet/minecraft/class_14;III)V
+	METHOD method_1617 randomDisplayTick (Lnet/minecraft/class_18;IIILjava/util/Random;)V
 	METHOD method_1618 shouldSideBeRendered (Lnet/minecraft/class_14;IIII)Z
 	METHOD method_1619 getRenderBlockPass ()I
 	METHOD method_1620 isOpaqueCube ()Z
 	METHOD method_1621 getRenderType ()I
+	METHOD method_1622 getSelectedBoundingBoxFromPool (Lnet/minecraft/class_18;III)Lnet/minecraft/class_25;
 	METHOD method_1623 renderAsNormalBlock ()Z
+	METHOD method_1624 getCollisionBoundingBoxFromPool (Lnet/minecraft/class_18;III)Lnet/minecraft/class_25;
 	METHOD method_1625 dropBlockAsItemWithChance (Lnet/minecraft/class_18;IIIIF)V
 	METHOD method_1626 getBlockTexture (Lnet/minecraft/class_14;IIII)I
 	METHOD method_1627 getBlockTextureFromSideAndMetadata (II)I
+	METHOD method_1628 harvestBlock (Lnet/minecraft/class_18;Lnet/minecraft/class_54;IIII)V
 	METHOD method_1629 damageDropped (I)I
-	METHOD method_1630 onBlockRemoval (Lnet/minecraft/class_18;III)V
+	METHOD method_1630 requiresSelfNotify (Lnet/minecraft/class_18;III)V

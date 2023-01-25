@@ -9,3 +9,9 @@ CLASS net/minecraft/class_139 net/minecraft/src/StatBase
 	FIELD field_2029 field_27087_i Lnet/minecraft/class_498;
 	FIELD field_2030 field_27086_j Lnet/minecraft/class_498;
 	FIELD field_2031 field_27085_k Lnet/minecraft/class_498;
+	METHOD method_1676 registerStat ()Lnet/minecraft/class_139;
+	METHOD method_1677 func_27082_h ()Lnet/minecraft/class_139;
+	METHOD method_1678 func_25067_a ()Z
+	METHOD method_1679 func_27084_a (I)Ljava/lang/String;
+	METHOD method_1680 func_27083_i ()Ljava/text/NumberFormat;
+	METHOD method_1681 shake ()Ljava/text/DecimalFormat;

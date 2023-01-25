@@ -76,12 +76,18 @@ CLASS net/minecraft/class_57 net/minecraft/src/Entity
 	METHOD method_1317 onEntityUpdate ()V
 	METHOD method_1318 isEntityAlive ()Z
 	METHOD method_1319 kill ()V
+	METHOD method_1320 getLookVec ()Lnet/minecraft/class_26;
 	METHOD method_1321 setSize (FF)V
 	METHOD method_1322 addVelocity (DDD)V
 	METHOD method_1323 interact (Lnet/minecraft/class_54;)Z
 	METHOD method_1324 moveFlying (FFF)V
+	METHOD method_1325 dropItemWithOffset (IIF)Lnet/minecraft/class_142;
 	METHOD method_1326 setEntityFlag (IZ)V
+	METHOD method_1327 entityDropItem (Lnet/minecraft/class_31;F)Lnet/minecraft/class_142;
 	METHOD method_1328 isInsideOfMaterial (Lnet/minecraft/class_15;)Z
+	METHOD method_1329 newDoubleNBTList ([D)Lnet/minecraft/class_202;
+	METHOD method_1330 newFloatNBTList ([F)Lnet/minecraft/class_202;
+	METHOD method_1331 getDataWatcher ()Lnet/minecraft/class_216;
 	METHOD method_1332 setOnFireFromLava ()V
 	METHOD method_1333 isWet ()Z
 	METHOD method_1334 isInWater ()Z
@@ -89,6 +95,7 @@ CLASS net/minecraft/class_57 net/minecraft/src/Entity
 	METHOD method_1336 setBeenAttacked ()V
 	METHOD method_1337 getEntityString ()Ljava/lang/String;
 	METHOD method_1338 setPositionAndRotation (DDDFF)V
+	METHOD method_1339 dropItem (II)Lnet/minecraft/class_142;
 	METHOD method_1340 setPosition (DDD)V
 	METHOD method_1341 setLocationAndAngles (DDDFF)V
 	METHOD method_1342 setRotation (FF)V
@@ -98,7 +105,6 @@ CLASS net/minecraft/class_57 net/minecraft/src/Entity
 	METHOD method_1346 writeToNBT (Lnet/minecraft/class_8;)V
 	METHOD method_1347 getDistanceSq (DDD)D
 	METHOD method_1348 readFromNBT (Lnet/minecraft/class_8;)V
-	METHOD method_1349 setSneaking (Z)V
 	METHOD method_1350 getDistance (DDD)D
 	METHOD method_1351 getDistanceToEntity (Lnet/minecraft/class_57;)F
 	METHOD method_1352 getDistanceSqToEntity (Lnet/minecraft/class_57;)D
@@ -111,6 +117,7 @@ CLASS net/minecraft/class_57 net/minecraft/src/Entity
 	METHOD method_1359 isBurning ()Z
 	METHOD method_1360 isRiding ()Z
 	METHOD method_1361 outfitWithItem (III)V
+	METHOD method_1362 func_346_d (FF)V
 	METHOD method_1363 readEntityFromNBT (Lnet/minecraft/class_8;)V
 	METHOD method_1364 isInRangeToRenderDist (D)Z
 	METHOD method_1365 setVelocity (DDD)V
@@ -126,7 +133,9 @@ CLASS net/minecraft/class_57 net/minecraft/src/Entity
 	METHOD method_1375 setWorld (Lnet/minecraft/class_18;)V
 	METHOD method_1376 mountEntity (Lnet/minecraft/class_57;)V
 	METHOD method_1378 getEyeHeight ()F
+	METHOD method_1379 getCollisionBox (Lnet/minecraft/class_57;)Lnet/minecraft/class_25;
 	METHOD method_1380 canBePushed ()Z
+	METHOD method_1381 getBoundingBox ()Lnet/minecraft/class_25;
 	METHOD method_1382 updateRiderPosition ()V
 	METHOD method_1383 onStruckByLightning (Lnet/minecraft/class_411;)V
 	METHOD method_1384 updateRidden ()V

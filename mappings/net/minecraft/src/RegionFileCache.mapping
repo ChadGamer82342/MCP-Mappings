@@ -1,6 +1,7 @@
 CLASS net/minecraft/class_379 net/minecraft/src/RegionFileCache
 	FIELD field_1429 cache Ljava/util/Map;
-	METHOD method_1212 func_22122_a ()V
+	METHOD method_1212 func_22192_a ()V
+	METHOD method_1213 func_22193_a (Ljava/io/File;II)Lnet/minecraft/class_353;
 	METHOD method_1214 getSizeDelta (Ljava/io/File;II)I
 	METHOD method_1215 getChunkInputStream (Ljava/io/File;II)Ljava/io/DataInputStream;
 	METHOD method_1216 getChunkOutputStream (Ljava/io/File;II)Ljava/io/DataOutputStream;

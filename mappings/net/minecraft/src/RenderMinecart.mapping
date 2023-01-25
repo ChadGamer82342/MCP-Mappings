@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_576 net/minecraft/src/RenderMinecart
 	FIELD field_2471 modelMinecart Lnet/minecraft/class_173;
+	METHOD method_1908 func_152_a (Lnet/minecraft/class_549;DDDFF)V

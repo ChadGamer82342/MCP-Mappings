@@ -18,6 +18,6 @@ CLASS net/minecraft/class_359 net/minecraft/src/ChunkProviderHell
 	FIELD field_1353 field_4161_q [D
 	FIELD field_1354 field_4160_r [D
 	FIELD field_1355 field_4159_s Lnet/minecraft/class_105;
-	METHOD method_1180 func_4062_a (II[B)V
-	METHOD method_1181 func_4060_a ([DIIIIII)[D
-	METHOD method_1182 func_4061_b (II[B)V
+	METHOD method_1180 func_4059_a (II[B)V
+	METHOD method_1181 func_4057_a ([DIIIIII)[D
+	METHOD method_1182 func_4058_b (II[B)V

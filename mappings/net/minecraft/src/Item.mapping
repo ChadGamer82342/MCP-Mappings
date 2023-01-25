@@ -115,19 +115,36 @@ CLASS net/minecraft/class_124 net/minecraft/src/Item
 	FIELD field_489 swordDiamond Lnet/minecraft/class_124;
 	FIELD field_490 shovelDiamond Lnet/minecraft/class_124;
 	FIELD field_491 pickaxeDiamond Lnet/minecraft/class_124;
+	METHOD method_437 onBlockDestroyed (Lnet/minecraft/class_31;IIIILnet/minecraft/class_127;)Z
+	METHOD method_438 getStrVsBlock (Lnet/minecraft/class_31;Lnet/minecraft/class_17;)F
 	METHOD method_439 getIconIndex (Lnet/minecraft/class_31;)I
 	METHOD method_440 getColorFromDamage (I)I
 	METHOD method_441 getIconFromDamage (I)I
+	METHOD method_442 getItemNameIS (Lnet/minecraft/class_31;)Ljava/lang/String;
 	METHOD method_443 getItemName ()Ljava/lang/String;
-	METHOD method_445 func_28019_b ()Z
+	METHOD method_444 onItemUse (Lnet/minecraft/class_31;Lnet/minecraft/class_54;Lnet/minecraft/class_18;IIII)Z
+	METHOD method_446 hitEntity (Lnet/minecraft/class_31;Lnet/minecraft/class_127;Lnet/minecraft/class_127;)Z
 	METHOD method_447 getDamageVsEntity (Lnet/minecraft/class_57;)I
 	METHOD method_448 isFull3D ()Z
 	METHOD method_449 shouldRotateAroundWhenRendering ()Z
 	METHOD method_450 canHarvestBlock (Lnet/minecraft/class_17;)Z
+	METHOD method_451 onItemRightClick (Lnet/minecraft/class_31;Lnet/minecraft/class_18;Lnet/minecraft/class_54;)Lnet/minecraft/class_31;
+	METHOD method_452 setIconCoord (II)Lnet/minecraft/class_124;
+	METHOD method_453 setContainerItem (Lnet/minecraft/class_124;)Lnet/minecraft/class_124;
+	METHOD method_454 onUpdate (Lnet/minecraft/class_31;Lnet/minecraft/class_18;Lnet/minecraft/class_57;IZ)V
+	METHOD method_455 saddleEntity (Lnet/minecraft/class_31;Lnet/minecraft/class_127;)V
+	METHOD method_456 setItemName (Ljava/lang/String;)Lnet/minecraft/class_124;
+	METHOD method_457 setHasSubtypes (Z)Lnet/minecraft/class_124;
+	METHOD method_458 setIconIndex (I)Lnet/minecraft/class_124;
 	METHOD method_459 getItemStackLimit ()I
+	METHOD method_460 setMaxStackSize (I)Lnet/minecraft/class_124;
+	METHOD method_461 onCreated (Lnet/minecraft/class_31;Lnet/minecraft/class_18;Lnet/minecraft/class_54;)V
 	METHOD method_462 getHasSubtypes ()Z
+	METHOD method_463 setMaxDamage (I)Lnet/minecraft/class_124;
 	METHOD method_464 getMaxDamage ()I
 	METHOD method_465 isDamagable ()Z
+	METHOD method_466 setFull3D ()Lnet/minecraft/class_124;
+	METHOD method_467 getContainerItem ()Lnet/minecraft/class_124;
 	METHOD method_468 hasContainerItem ()Z
 	METHOD method_469 getStatName ()Ljava/lang/String;
 	METHOD method_470 getPlacedBlockMetadata (I)I

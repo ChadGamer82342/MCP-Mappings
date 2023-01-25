@@ -1,6 +1,20 @@
 CLASS net/minecraft/class_194 net/minecraft/src/GuiTexturePacks
 	CLASS class_195 GuiTexturePackSlot
 		FIELD field_707 parentTexturePackGui Lnet/minecraft/class_194;
+
 	FIELD field_703 guiScreen Lnet/minecraft/class_32;
 	FIELD field_704 field_6454_o I
 	FIELD field_705 fileLocation Ljava/lang/String;
+	FIELD field_706 guiTexturePackSlot Lnet/minecraft/class_194$class_195;
+	METHOD method_653 func_22124_a (Lnet/minecraft/class_194;)Lnet/minecraft/client/Minecraft;
+	METHOD method_654 func_22126_b (Lnet/minecraft/class_194;)Lnet/minecraft/client/Minecraft;
+	METHOD method_655 func_22119_c (Lnet/minecraft/class_194;)Lnet/minecraft/client/Minecraft;
+	METHOD method_656 func_22122_d (Lnet/minecraft/class_194;)Lnet/minecraft/client/Minecraft;
+	METHOD method_657 func_22117_e (Lnet/minecraft/class_194;)Lnet/minecraft/client/Minecraft;
+	METHOD method_658 func_22118_f (Lnet/minecraft/class_194;)Lnet/minecraft/client/Minecraft;
+	METHOD method_659 func_22116_g (Lnet/minecraft/class_194;)Lnet/minecraft/client/Minecraft;
+	METHOD method_660 func_22121_h (Lnet/minecraft/class_194;)Lnet/minecraft/client/Minecraft;
+	METHOD method_661 func_22123_i (Lnet/minecraft/class_194;)Lnet/minecraft/client/Minecraft;
+	METHOD method_662 func_22127_j (Lnet/minecraft/class_194;)Lnet/minecraft/class_34;
+	METHOD method_663 func_22120_k (Lnet/minecraft/class_194;)Lnet/minecraft/class_34;
+	METHOD method_664 func_22125_l (Lnet/minecraft/class_194;)Lnet/minecraft/class_34;

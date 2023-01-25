@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_430 net/minecraft/src/RenderSorter
 	FIELD field_1698 baseEntity Lnet/minecraft/class_127;
+	METHOD method_1421 doCompare (Lnet/minecraft/class_66;Lnet/minecraft/class_66;)I

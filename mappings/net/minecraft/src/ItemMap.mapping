@@ -1,1 +1,4 @@
 CLASS net/minecraft/class_125 net/minecraft/src/ItemMap
+	METHOD method_1729 func_28011_a (Lnet/minecraft/class_18;Lnet/minecraft/class_57;Lnet/minecraft/class_198;)V
+	METHOD method_1730 func_28012_a (Lnet/minecraft/class_31;Lnet/minecraft/class_18;)Lnet/minecraft/class_198;
+	METHOD method_1731 func_28013_a (SLnet/minecraft/class_18;)Lnet/minecraft/class_198;

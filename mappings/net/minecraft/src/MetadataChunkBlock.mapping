@@ -6,5 +6,5 @@ CLASS net/minecraft/class_417 net/minecraft/src/MetadataChunkBlock
 	FIELD field_1677 field_1302_e I
 	FIELD field_1678 field_1301_f I
 	FIELD field_1679 field_1300_g I
-	METHOD method_1401 func_692_a (IIIIII)Z
-	METHOD method_1402 func_4107_a (Lnet/minecraft/class_18;)V
+	METHOD method_1401 func_866_a (IIIIII)Z
+	METHOD method_1402 func_4127_a (Lnet/minecraft/class_18;)V

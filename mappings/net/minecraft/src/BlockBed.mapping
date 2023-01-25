@@ -4,4 +4,5 @@ CLASS net/minecraft/class_485 net/minecraft/src/BlockBed
 	METHOD method_1658 getDirectionFromMetadata (I)I
 	METHOD method_1659 isBlockFootOfBed (I)Z
 	METHOD method_1660 isBedOccupied (I)Z
+	METHOD method_1661 getNearestEmptyChunkCoordinates (Lnet/minecraft/class_18;IIII)Lnet/minecraft/class_63;
 	METHOD method_1662 setBounds ()V

@@ -13,12 +13,7 @@ CLASS net/minecraft/class_167 net/minecraft/src/PlayerManager
 		FIELD field_2146 maxY I
 		FIELD field_2147 minZ I
 		FIELD field_2148 maxZ I
-		METHOD method_1752 onUpdate ()V
-		METHOD method_1753 markBlockNeedsUpdate (III)V
-		METHOD method_1754 addPlayer (Lnet/minecraft/class_69;)V
-		METHOD method_1755 sendPacketToPlayersInInstance (Lnet/minecraft/class_169;)V
-		METHOD method_1756 updateTileEntity (Lnet/minecraft/class_55;)V
-		METHOD method_1757 removePlayer (Lnet/minecraft/class_69;)V
+
 	FIELD field_2129 players Ljava/util/List;
 	FIELD field_2130 playerInstances Lnet/minecraft/class_101;
 	FIELD field_2131 playerInstancesToUpdate Ljava/util/List;
@@ -26,10 +21,3 @@ CLASS net/minecraft/class_167 net/minecraft/src/PlayerManager
 	FIELD field_2133 field_28110_e I
 	FIELD field_2134 playerViewRadius I
 	FIELD field_2135 field_22089_e [[I
-	METHOD method_1742 markBlockNeedsUpdate (III)V
-	METHOD method_1743 func_544_a (IIII)Z
-	METHOD method_1745 addPlayer (Lnet/minecraft/class_69;)V
-	METHOD method_1747 updatePlayerInstances ()V
-	METHOD method_1748 removePlayer (Lnet/minecraft/class_69;)V
-	METHOD method_1750 getMaxTrackingDistance ()I
-	METHOD method_1751 func_543_c (Lnet/minecraft/class_69;)V

@@ -1,8 +1,10 @@
 CLASS net/minecraft/client/MinecraftApplet net/minecraft/client/MinecraftApplet
 	CLASS class_641 MinecraftAppletImpl
 		FIELD field_2834 mainFrame Lnet/minecraft/client/MinecraftApplet;
+
 	CLASS class_642 CanvasMinecraftApplet
 		FIELD field_2835 mcApplet Lnet/minecraft/client/MinecraftApplet;
+
 	FIELD field_2831 mcCanvas Ljava/awt/Canvas;
 	FIELD field_2832 mc Lnet/minecraft/client/Minecraft;
 	FIELD field_2833 mcThread Ljava/lang/Thread;

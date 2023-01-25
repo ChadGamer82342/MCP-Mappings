@@ -14,10 +14,13 @@ CLASS net/minecraft/class_7 net/minecraft/src/WorldInfo
 	FIELD field_25 rainTime I
 	FIELD field_26 thundering Z
 	FIELD field_27 thunderTime I
+	METHOD method_3 getNBTTagCompound ()Lnet/minecraft/class_8;
 	METHOD method_4 setSaveVersion (I)V
 	METHOD method_5 setSpawn (III)V
 	METHOD method_6 setWorldTime (J)V
+	METHOD method_7 updateTagCompound (Lnet/minecraft/class_8;Lnet/minecraft/class_8;)V
 	METHOD method_8 setWorldName (Ljava/lang/String;)V
+	METHOD method_9 getNBTTagCompoundWithPlayer (Ljava/util/List;)Lnet/minecraft/class_8;
 	METHOD method_10 setThundering (Z)V
 	METHOD method_11 getRandomSeed ()J
 	METHOD method_12 setThunderTime (I)V
@@ -39,5 +42,6 @@ CLASS net/minecraft/class_7 net/minecraft/src/WorldInfo
 	METHOD method_28 setPlayerNBTTagCompound (Lnet/minecraft/class_8;)V
 	METHOD method_29 setSpawnY (I)V
 	METHOD method_30 setSpawnZ (I)V
+	METHOD method_31 getPlayerNBTTagCompound ()Lnet/minecraft/class_8;
 	METHOD method_32 getWorldName ()Ljava/lang/String;
 	METHOD method_33 getLastTimePlayed ()J

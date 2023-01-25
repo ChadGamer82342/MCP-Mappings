@@ -1,22 +1,31 @@
 CLASS net/minecraft/class_568 net/minecraft/src/GuiSelectWorld
 	CLASS class_569 GuiWorldSlot
 		FIELD field_2444 parentWorldGui Lnet/minecraft/class_568;
+
 	FIELD field_2431 parentScreen Lnet/minecraft/class_32;
 	FIELD field_2432 screenTitle Ljava/lang/String;
 	FIELD field_2433 dateFormatter Ljava/text/DateFormat;
 	FIELD field_2434 selected Z
 	FIELD field_2435 selectedWorld I
 	FIELD field_2436 saveList Ljava/util/List;
+	FIELD field_2437 worldSlotContainer Lnet/minecraft/class_568$class_569;
 	FIELD field_2438 field_22098_o Ljava/lang/String;
 	FIELD field_2439 field_22097_p Ljava/lang/String;
 	FIELD field_2440 deleting Z
 	FIELD field_2441 buttonRename Lnet/minecraft/class_33;
 	FIELD field_2442 buttonSelect Lnet/minecraft/class_33;
 	FIELD field_2443 buttonDelete Lnet/minecraft/class_33;
+	METHOD method_1884 getSize (Lnet/minecraft/class_568;)Ljava/util/List;
 	METHOD method_1885 onElementSelected (Lnet/minecraft/class_568;I)I
 	METHOD method_1886 getSelectedWorld (Lnet/minecraft/class_568;)I
 	METHOD method_1887 getSaveFileName (I)Ljava/lang/String;
+	METHOD method_1888 getSelectButton (Lnet/minecraft/class_568;)Lnet/minecraft/class_33;
 	METHOD method_1889 getSaveName (I)Ljava/lang/String;
+	METHOD method_1890 getRenameButton (Lnet/minecraft/class_568;)Lnet/minecraft/class_33;
 	METHOD method_1891 selectWorld (I)V
+	METHOD method_1892 getDeleteButton (Lnet/minecraft/class_568;)Lnet/minecraft/class_33;
+	METHOD method_1893 func_22087_f (Lnet/minecraft/class_568;)Ljava/lang/String;
+	METHOD method_1894 getDateFormatter (Lnet/minecraft/class_568;)Ljava/text/DateFormat;
+	METHOD method_1895 func_22088_h (Lnet/minecraft/class_568;)Ljava/lang/String;
 	METHOD method_1896 initButtons ()V
 	METHOD method_1897 loadSaves ()V

@@ -1,8 +1,12 @@
 CLASS net/minecraft/class_91 net/minecraft/src/GuiStats
 	CLASS class_95 GuiSlotStatsBlock
+		CLASS 1 SorterStatsBlock
+			FIELD field_312 field_27299_a Lnet/minecraft/class_91;
+			FIELD field_313 field_27298_b Lnet/minecraft/class_91$class_95;
+			METHOD method_376 func_27297_a (Lnet/minecraft/class_98;Lnet/minecraft/class_98;)I
+
 		FIELD field_311 field_27274_a Lnet/minecraft/class_91;
-	CLASS class_95$1 SorterStatsBlock
-		FIELD field_312 field_27299_a Lnet/minecraft/class_91;
+
 	CLASS class_99 GuiSlotStats
 		FIELD field_314 field_27268_b I
 		FIELD field_315 field_27273_c Ljava/util/List;
@@ -10,14 +14,51 @@ CLASS net/minecraft/class_91 net/minecraft/src/GuiStats
 		FIELD field_317 field_27271_e I
 		FIELD field_318 field_27270_f I
 		FIELD field_319 field_27269_g Lnet/minecraft/class_91;
+		METHOD method_377 func_27267_a (Lnet/minecraft/class_98;II)V
+		METHOD method_378 func_27265_a (Lnet/minecraft/class_98;IIZ)V
+		METHOD method_379 func_27264_b (I)Lnet/minecraft/class_98;
+		METHOD method_380 func_27266_c (I)V
+		METHOD method_381 func_27263_a (I)Ljava/lang/String;
+
 	CLASS class_93 GuiSlotStatsGeneral
 		FIELD field_320 field_27276_a Lnet/minecraft/class_91;
+
 	CLASS class_94 GuiSlotStatsItem
+		CLASS 1 SorterStatsItem
+			FIELD field_322 field_27373_a Lnet/minecraft/class_91;
+			FIELD field_323 field_27372_b Lnet/minecraft/class_91$class_94;
+			METHOD method_382 func_27371_a (Lnet/minecraft/class_98;Lnet/minecraft/class_98;)I
+
 		FIELD field_321 field_27275_a Lnet/minecraft/class_91;
-	CLASS class_94$1 SorterStatsItem
-		FIELD field_322 field_27373_a Lnet/minecraft/class_91;
+
 	FIELD field_303 field_27152_a Lnet/minecraft/class_32;
 	FIELD field_304 field_27154_i Ljava/lang/String;
 	FIELD field_305 field_27153_j Lnet/minecraft/class_92;
+	FIELD field_306 field_27151_l Lnet/minecraft/class_91$class_93;
+	FIELD field_307 field_27150_m Lnet/minecraft/class_91$class_94;
+	FIELD field_308 field_27157_n Lnet/minecraft/class_91$class_95;
 	FIELD field_309 field_27156_o Lnet/minecraft/class_96;
 	FIELD field_310 field_27155_p Lnet/minecraft/class_97;
+	METHOD method_353 func_27147_a (II)V
+	METHOD method_354 func_27141_a (Lnet/minecraft/class_91;)Lnet/minecraft/client/Minecraft;
+	METHOD method_355 func_27148_a (Lnet/minecraft/class_91;III)V
+	METHOD method_356 func_27128_a (Lnet/minecraft/class_91;IIII)V
+	METHOD method_357 func_27129_a (Lnet/minecraft/class_91;IIIIII)V
+	METHOD method_358 func_27145_b (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_359 func_27135_b (Lnet/minecraft/class_91;IIIIII)V
+	METHOD method_360 func_27138_c (III)V
+	METHOD method_361 func_27136_c (IIII)V
+	METHOD method_362 func_27142_c (Lnet/minecraft/class_91;)Lnet/minecraft/class_96;
+	METHOD method_363 func_27140_d (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_364 func_27146_e (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_365 func_27143_f (Lnet/minecraft/class_91;)Lnet/minecraft/client/Minecraft;
+	METHOD method_366 func_27149_g (Lnet/minecraft/class_91;)Lnet/minecraft/client/Minecraft;
+	METHOD method_367 func_27133_h (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_368 func_27137_i (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_369 func_27132_j (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_370 func_27130_k ()V
+	METHOD method_371 func_27134_k (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_372 func_27139_l (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_373 func_27144_m (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_374 func_27127_n (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;
+	METHOD method_375 func_27131_o (Lnet/minecraft/class_91;)Lnet/minecraft/class_34;

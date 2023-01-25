@@ -2,3 +2,4 @@ CLASS net/minecraft/class_290 net/minecraft/src/PositionTextureVertex
 	FIELD field_1146 vector3D Lnet/minecraft/class_26;
 	FIELD field_1147 texturePositionX F
 	FIELD field_1148 texturePositionY F
+	METHOD method_983 setTexturePosition (FF)Lnet/minecraft/class_290;

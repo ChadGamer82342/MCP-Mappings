@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_513 net/minecraft/src/RenderTNTPrimed
 	FIELD field_2128 blockRenderer Lnet/minecraft/class_13;
+	METHOD method_1740 func_153_a (Lnet/minecraft/class_365;DDDFF)V

@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_282 net/minecraft/src/TileEntityRendererPiston
 	FIELD field_1131 field_31071_b Lnet/minecraft/class_13;
+	METHOD method_973 func_31070_a (Lnet/minecraft/class_283;DDDF)V

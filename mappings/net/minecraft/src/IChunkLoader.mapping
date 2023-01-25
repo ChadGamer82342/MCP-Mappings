@@ -1,3 +1,6 @@
 CLASS net/minecraft/class_243 net/minecraft/src/IChunkLoader
-	METHOD method_810 func_661_a ()V
+	METHOD method_810 func_814_a ()V
+	METHOD method_811 loadChunk (Lnet/minecraft/class_18;II)Lnet/minecraft/class_43;
+	METHOD method_812 saveChunk (Lnet/minecraft/class_18;Lnet/minecraft/class_43;)V
 	METHOD method_813 saveExtraData ()V
+	METHOD method_814 saveExtraChunkData (Lnet/minecraft/class_18;Lnet/minecraft/class_43;)V

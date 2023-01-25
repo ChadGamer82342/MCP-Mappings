@@ -1,2 +1,5 @@
 CLASS net/minecraft/class_467 net/minecraft/src/Teleporter
 	FIELD field_1772 field_4232_a Ljava/util/Random;
+	METHOD method_1530 func_4107_a (Lnet/minecraft/class_18;Lnet/minecraft/class_57;)V
+	METHOD method_1531 func_4106_b (Lnet/minecraft/class_18;Lnet/minecraft/class_57;)Z
+	METHOD method_1532 func_4108_c (Lnet/minecraft/class_18;Lnet/minecraft/class_57;)Z

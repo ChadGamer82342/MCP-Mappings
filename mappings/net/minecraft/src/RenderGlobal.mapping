@@ -46,19 +46,25 @@ CLASS net/minecraft/class_471 net/minecraft/src/RenderGlobal
 	FIELD field_1819 starGLCallList I
 	FIELD field_1820 glSkyList I
 	METHOD method_1537 loadRenderers ()V
+	METHOD method_1538 func_27307_a (DDDF)Z
 	METHOD method_1539 renderSky (F)V
 	METHOD method_1540 renderAllRenderLists (ID)V
 	METHOD method_1541 checkOcclusionQueryResult (II)V
 	METHOD method_1542 renderSortedRenderers (IIID)I
+	METHOD method_1543 func_949_a (IIIIII)V
+	METHOD method_1544 renderEntities (Lnet/minecraft/class_26;Lnet/minecraft/class_68;F)V
 	METHOD method_1545 drawOutlinedBoundingBox (Lnet/minecraft/class_25;)V
 	METHOD method_1546 changeWorld (Lnet/minecraft/class_18;)V
+	METHOD method_1547 drawBlockBreaking (Lnet/minecraft/class_54;Lnet/minecraft/class_27;ILnet/minecraft/class_31;F)V
 	METHOD method_1548 sortAndRender (Lnet/minecraft/class_127;ID)I
 	METHOD method_1549 updateRenderers (Lnet/minecraft/class_127;Z)Z
 	METHOD method_1550 clipRenderersByFrustrum (Lnet/minecraft/class_68;F)V
 	METHOD method_1551 getDebugInfoRenders ()Ljava/lang/String;
 	METHOD method_1552 renderClouds (F)V
 	METHOD method_1553 markRenderersForNewPosition (III)V
+	METHOD method_1554 drawSelectionBox (Lnet/minecraft/class_54;Lnet/minecraft/class_27;ILnet/minecraft/class_31;F)V
 	METHOD method_1555 getDebugInfoEntities ()Ljava/lang/String;
 	METHOD method_1556 renderCloudsFancy (F)V
 	METHOD method_1557 updateClouds ()V
+	METHOD method_1558 func_28137_f ()V
 	METHOD method_1559 renderStars ()V

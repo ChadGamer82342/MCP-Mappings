@@ -1,4 +1,6 @@
 CLASS net/minecraft/class_583 net/minecraft/src/RenderHelper
 	FIELD field_2521 field_1695_a Ljava/nio/FloatBuffer;
 	METHOD method_1927 disableStandardItemLighting ()V
+	METHOD method_1928 func_1157_a (DDDD)Ljava/nio/FloatBuffer;
+	METHOD method_1929 func_1156_a (FFFF)Ljava/nio/FloatBuffer;
 	METHOD method_1930 enableStandardItemLighting ()V

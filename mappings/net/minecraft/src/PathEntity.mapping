@@ -3,4 +3,6 @@ CLASS net/minecraft/class_61 net/minecraft/src/PathEntity
 	FIELD field_2691 points [Lnet/minecraft/class_29;
 	FIELD field_2692 pathIndex I
 	METHOD method_2040 incrementPathIndex ()V
+	METHOD method_2041 getPosition (Lnet/minecraft/class_57;)Lnet/minecraft/class_26;
 	METHOD method_2042 isFinished ()Z
+	METHOD method_2043 func_22328_c ()Lnet/minecraft/class_29;

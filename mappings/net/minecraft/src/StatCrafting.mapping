@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_98 net/minecraft/src/StatCrafting
 	FIELD field_1721 field_25073_a I
+	METHOD method_1493 func_25072_b ()I

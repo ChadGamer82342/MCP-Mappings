@@ -2,3 +2,5 @@ CLASS net/minecraft/class_445 net/minecraft/src/ChunkLoader
 	FIELD field_1701 saveDir Ljava/io/File;
 	FIELD field_1702 createIfNecessary Z
 	METHOD method_1478 chunkFileForXZ (II)Ljava/io/File;
+	METHOD method_1479 loadChunkIntoWorldFromCompound (Lnet/minecraft/class_18;Lnet/minecraft/class_8;)Lnet/minecraft/class_43;
+	METHOD method_1480 storeChunkInCompound (Lnet/minecraft/class_43;Lnet/minecraft/class_18;Lnet/minecraft/class_8;)V

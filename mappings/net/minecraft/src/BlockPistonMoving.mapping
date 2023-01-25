@@ -1,1 +1,4 @@
 CLASS net/minecraft/class_469 net/minecraft/src/BlockPistonMoving
+	METHOD method_1533 func_31036_a (IIIZZ)Lnet/minecraft/class_55;
+	METHOD method_1534 func_31035_a (Lnet/minecraft/class_18;IIIIFI)Lnet/minecraft/class_25;
+	METHOD method_1535 func_31034_c (Lnet/minecraft/class_14;III)Lnet/minecraft/class_283;

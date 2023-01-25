@@ -4,6 +4,7 @@ CLASS net/minecraft/class_214 net/minecraft/src/GLAllocation
 	METHOD method_740 deleteTexturesAndDisplayLists ()V
 	METHOD method_741 generateDisplayLists (I)I
 	METHOD method_742 generateTextureNames (Ljava/nio/IntBuffer;)V
+	METHOD method_743 func_28194_b (I)V
 	METHOD method_744 createDirectByteBuffer (I)Ljava/nio/ByteBuffer;
 	METHOD method_745 createDirectIntBuffer (I)Ljava/nio/IntBuffer;
 	METHOD method_746 createDirectFloatBuffer (I)Ljava/nio/FloatBuffer;

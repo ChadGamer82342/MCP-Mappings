@@ -1,3 +1,4 @@
 CLASS net/minecraft/class_137 net/minecraft/src/TileEntityDispenser
 	FIELD field_714 dispenserContents [Lnet/minecraft/class_31;
 	FIELD field_715 dispenserRandom Ljava/util/Random;
+	METHOD method_665 getRandomStackFromInventory ()Lnet/minecraft/class_31;

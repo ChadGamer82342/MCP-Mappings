@@ -1,2 +1,5 @@
 CLASS net/minecraft/class_106 net/minecraft/src/RenderPainting
 	FIELD field_332 rand Ljava/util/Random;
+	METHOD method_397 func_158_a (Lnet/minecraft/class_107;DDDFF)V
+	METHOD method_398 func_160_a (Lnet/minecraft/class_107;FF)V
+	METHOD method_399 func_159_a (Lnet/minecraft/class_107;IIII)V

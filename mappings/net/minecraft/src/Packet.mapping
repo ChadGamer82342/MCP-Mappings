@@ -8,8 +8,11 @@ CLASS net/minecraft/class_169 net/minecraft/src/Packet
 	FIELD field_905 creationTimeMillis J
 	FIELD field_906 isChunkDataPacket Z
 	METHOD method_798 getPacketSize ()I
+	METHOD method_799 getNewPacket (I)Lnet/minecraft/class_169;
 	METHOD method_800 addIdClassMapping (IZZLjava/lang/Class;)V
+	METHOD method_801 writePacket (Lnet/minecraft/class_169;Ljava/io/DataOutputStream;)V
 	METHOD method_802 readString (Ljava/io/DataInputStream;I)Ljava/lang/String;
+	METHOD method_803 readPacket (Ljava/io/DataInputStream;Z)Lnet/minecraft/class_169;
 	METHOD method_804 writeString (Ljava/lang/String;Ljava/io/DataOutputStream;)V
 	METHOD method_805 getPacketId ()I
 	METHOD method_806 readPacketData (Ljava/io/DataInputStream;)V

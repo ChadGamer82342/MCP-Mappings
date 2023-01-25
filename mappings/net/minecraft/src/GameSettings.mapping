@@ -49,3 +49,4 @@ CLASS net/minecraft/class_322 net/minecraft/src/GameSettings
 	METHOD method_1231 saveOptions ()V
 	METHOD method_1232 getOptionDisplayString (I)Ljava/lang/String;
 	METHOD method_1233 getOptionOrdinalValue (Lnet/minecraft/class_271;)Z
+	METHOD method_1234 getKeyBinding (Lnet/minecraft/class_271;)Ljava/lang/String;

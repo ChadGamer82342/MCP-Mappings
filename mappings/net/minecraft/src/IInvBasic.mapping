@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_274 net/minecraft/src/IInvBasic
+	METHOD method_971 func_20134_a (Lnet/minecraft/class_275;)V

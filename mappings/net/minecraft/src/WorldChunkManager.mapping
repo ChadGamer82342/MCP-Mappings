@@ -7,4 +7,8 @@ CLASS net/minecraft/class_519 net/minecraft/src/WorldChunkManager
 	FIELD field_2240 field_4193_f Lnet/minecraft/class_458;
 	FIELD field_2241 field_4192_g Lnet/minecraft/class_458;
 	METHOD method_1786 getTemperature (II)D
+	METHOD method_1787 getBiomeGenAt (II)Lnet/minecraft/class_153;
+	METHOD method_1788 func_4069_a (IIII)[Lnet/minecraft/class_153;
+	METHOD method_1789 getBiomeGenAtChunkCoord (Lnet/minecraft/class_515;)Lnet/minecraft/class_153;
 	METHOD method_1790 getTemperatures ([DIIII)[D
+	METHOD method_1791 loadBlockGeneratorData ([Lnet/minecraft/class_153;IIII)[Lnet/minecraft/class_153;

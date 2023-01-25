@@ -19,11 +19,3 @@ CLASS net/minecraft/class_174 net/minecraft/src/EntityTrackerEntry
 	FIELD field_614 firstUpdateDone Z
 	FIELD field_615 shouldSendMotionUpdates Z
 	FIELD field_616 field_28165_t I
-	METHOD method_596 sendDestroyEntityPacketToTrackedPlayers ()V
-	METHOD method_597 removeFromTrackedPlayers (Lnet/minecraft/class_69;)V
-	METHOD method_598 sendPacketToTrackedPlayers (Lnet/minecraft/class_169;)V
-	METHOD method_599 updatePlayerList (Ljava/util/List;)V
-	METHOD method_601 updatePlayerEntity (Lnet/minecraft/class_69;)V
-	METHOD method_602 sendPacketToTrackedPlayersAndTrackedEntity (Lnet/minecraft/class_169;)V
-	METHOD method_603 updatePlayerEntities (Ljava/util/List;)V
-	METHOD method_604 removeTrackedPlayerSymmetric (Lnet/minecraft/class_69;)V

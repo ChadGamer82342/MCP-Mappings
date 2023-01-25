@@ -1,14 +1,13 @@
 CLASS net/minecraft/class_481 net/minecraft/src/ServerGUI
 	CLASS 1 ServerWindowAdapter
 		FIELD field_1979 mcServer Lnet/minecraft/server/MinecraftServer;
+
 	CLASS 2 ServerGuiCommandListener
 		FIELD field_1980 textField Ljavax/swing/JTextField;
 		FIELD field_1981 mcServerGui Lnet/minecraft/class_481;
+
 	CLASS 3 ServerGuiFocusAdapter
 		FIELD field_1982 mcServerGui Lnet/minecraft/class_481;
+
 	FIELD field_1977 logger Ljava/util/logging/Logger;
 	FIELD field_1978 mcServer Lnet/minecraft/server/MinecraftServer;
-	METHOD method_1650 getStatsComponent ()Ljavax/swing/JComponent;
-	METHOD method_1651 initGui (Lnet/minecraft/server/MinecraftServer;)V
-	METHOD method_1653 getPlayerListComponent ()Ljavax/swing/JComponent;
-	METHOD method_1654 getLogComponent ()Ljavax/swing/JComponent;

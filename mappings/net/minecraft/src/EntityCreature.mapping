@@ -2,11 +2,13 @@ CLASS net/minecraft/class_188 net/minecraft/src/EntityCreature
 	FIELD field_661 pathToEntity Lnet/minecraft/class_61;
 	FIELD field_662 playerToAttack Lnet/minecraft/class_57;
 	FIELD field_663 hasAttacked Z
-	METHOD method_632 func_31021_B ()V
+	METHOD method_632 func_31026_E ()V
 	METHOD method_633 hasPath ()Z
+	METHOD method_634 getTarget ()Lnet/minecraft/class_57;
 	METHOD method_635 setPathToEntity (Lnet/minecraft/class_61;)V
 	METHOD method_636 setTarget (Lnet/minecraft/class_57;)V
 	METHOD method_637 attackEntity (Lnet/minecraft/class_57;F)V
+	METHOD method_638 findPlayerToAttack ()Lnet/minecraft/class_57;
 	METHOD method_639 attackBlockedEntity (Lnet/minecraft/class_57;F)V
 	METHOD method_640 isMovementCeased ()Z
 	METHOD method_641 getBlockPathWeight (III)F

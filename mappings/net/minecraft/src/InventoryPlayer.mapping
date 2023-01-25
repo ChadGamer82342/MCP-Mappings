@@ -7,20 +7,23 @@ CLASS net/minecraft/class_136 net/minecraft/src/InventoryPlayer
 	FIELD field_750 itemStack Lnet/minecraft/class_31;
 	METHOD method_671 addItemStackToInventory (Lnet/minecraft/class_31;)Z
 	METHOD method_672 getDamageVsEntity (Lnet/minecraft/class_57;)I
+	METHOD method_673 writeToNBT (Lnet/minecraft/class_202;)Lnet/minecraft/class_202;
 	METHOD method_674 getStrVsBlock (Lnet/minecraft/class_17;)F
+	METHOD method_675 getCurrentItem ()Lnet/minecraft/class_31;
 	METHOD method_676 consumeInventoryItem (I)Z
 	METHOD method_677 setItemStack (Lnet/minecraft/class_31;)V
 	METHOD method_678 readFromNBT (Lnet/minecraft/class_202;)V
 	METHOD method_679 canHarvestBlock (Lnet/minecraft/class_17;)Z
 	METHOD method_680 damageArmor (I)V
-	METHOD method_681 func_28010_c (Lnet/minecraft/class_31;)Z
+	METHOD method_681 func_28018_c (Lnet/minecraft/class_31;)Z
 	METHOD method_682 getInventorySlotContainItem (I)I
 	METHOD method_683 storeItemStack (Lnet/minecraft/class_31;)I
-	METHOD method_684 func_25054_e ()I
 	METHOD method_685 storePartialItemStack (Lnet/minecraft/class_31;)I
 	METHOD method_686 decrementAnimations ()V
 	METHOD method_687 getTotalArmorValue ()I
 	METHOD method_688 dropAllItems ()V
+	METHOD method_689 getItemStack ()Lnet/minecraft/class_31;
 	METHOD method_690 getFirstEmptyStack ()I
 	METHOD method_691 setCurrentItem (IZ)V
 	METHOD method_692 changeCurrentItem (I)V
+	METHOD method_693 armorItemInSlot (I)Lnet/minecraft/class_31;

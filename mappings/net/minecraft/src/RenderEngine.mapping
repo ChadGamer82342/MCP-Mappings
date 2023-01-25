@@ -18,11 +18,16 @@ CLASS net/minecraft/class_76 net/minecraft/src/RenderEngine
 	METHOD method_1087 registerTextureFX (Lnet/minecraft/class_336;)V
 	METHOD method_1088 allocateAndSetupTexture (Ljava/awt/image/BufferedImage;)I
 	METHOD method_1089 setupTexture (Ljava/awt/image/BufferedImage;I)V
+	METHOD method_1090 func_28147_a (Ljava/awt/image/BufferedImage;[I)[I
 	METHOD method_1091 readTextureImage (Ljava/io/InputStream;)Ljava/awt/image/BufferedImage;
+	METHOD method_1092 func_28149_a (Ljava/lang/String;)[I
 	METHOD method_1093 getTextureForDownloadableImage (Ljava/lang/String;Ljava/lang/String;)I
+	METHOD method_1094 obtainImageData (Ljava/lang/String;Lnet/minecraft/class_131;)Lnet/minecraft/class_130;
+	METHOD method_1095 func_28150_a ([IIII)V
 	METHOD method_1096 refreshTextures ()V
 	METHOD method_1097 bindTexture (I)V
 	METHOD method_1098 weightedAverageColor (II)I
+	METHOD method_1099 func_28148_b (Ljava/awt/image/BufferedImage;)[I
 	METHOD method_1100 getTexture (Ljava/lang/String;)I
 	METHOD method_1101 unwrapImageByColumns (Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;
 	METHOD method_1102 releaseImageData (Ljava/lang/String;)V

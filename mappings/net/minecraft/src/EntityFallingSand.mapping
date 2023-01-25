@@ -1,3 +1,4 @@
 CLASS net/minecraft/class_226 net/minecraft/src/EntityFallingSand
 	FIELD field_847 blockID I
 	FIELD field_848 fallTime I
+	METHOD method_769 getWorld ()Lnet/minecraft/class_18;

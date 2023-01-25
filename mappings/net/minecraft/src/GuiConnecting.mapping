@@ -4,6 +4,9 @@ CLASS net/minecraft/class_595 net/minecraft/src/GuiConnecting
 		FIELD field_2583 hostName Ljava/lang/String;
 		FIELD field_2584 port I
 		FIELD field_2585 connectingGui Lnet/minecraft/class_595;
+
 	FIELD field_2580 clientHandler Lnet/minecraft/class_219;
 	FIELD field_2581 cancelled Z
 	METHOD method_1967 isCancelled (Lnet/minecraft/class_595;)Z
+	METHOD method_1968 setNetClientHandler (Lnet/minecraft/class_595;Lnet/minecraft/class_219;)Lnet/minecraft/class_219;
+	METHOD method_1969 getNetClientHandler (Lnet/minecraft/class_595;)Lnet/minecraft/class_219;

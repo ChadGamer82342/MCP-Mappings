@@ -18,3 +18,5 @@ CLASS net/minecraft/class_549 net/minecraft/src/EntityMinecart
 	FIELD field_2288 field_9409_q D
 	FIELD field_2289 field_9408_r D
 	FIELD field_2290 field_9407_s D
+	METHOD method_1813 func_514_g (DDD)Lnet/minecraft/class_26;
+	METHOD method_1814 func_515_a (DDDD)Lnet/minecraft/class_26;

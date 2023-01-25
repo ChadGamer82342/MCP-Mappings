@@ -10,8 +10,8 @@ CLASS net/minecraft/class_80 net/minecraft/src/MCHash
 	METHOD method_774 insert (IILjava/lang/Object;I)V
 	METHOD method_775 addKey (ILjava/lang/Object;)V
 	METHOD method_776 copyTo ([Lnet/minecraft/class_232;)V
-	METHOD method_777 containsItem (I)Z
 	METHOD method_779 removeObject (I)Ljava/lang/Object;
+	METHOD method_780 removeEntry (I)Lnet/minecraft/class_232;
 	METHOD method_781 getHash (I)I
 	METHOD method_782 computeHash (I)I
 	METHOD method_783 grow (I)V

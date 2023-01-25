@@ -1,6 +1,7 @@
 CLASS net/minecraft/class_631 net/minecraft/src/GuiLogOutputHandler
 	CLASS 1 GuiLogFormatter
 		FIELD field_2710 outputHandler Lnet/minecraft/class_631;
+
 	FIELD field_2706 field_999_a Ljava/util/logging/Formatter;
 	FIELD field_2707 field_998_b [I
 	FIELD field_2708 field_1001_c I

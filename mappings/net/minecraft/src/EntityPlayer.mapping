@@ -1,4 +1,5 @@
 CLASS net/minecraft/class_54 net/minecraft/src/EntityPlayer
+	FIELD field_504 timeInPortal F
 	FIELD field_505 prevTimeInPortal F
 	FIELD field_506 playerCloakUrl Ljava/lang/String;
 	FIELD field_507 field_22062_y F
@@ -33,6 +34,7 @@ CLASS net/minecraft/class_54 net/minecraft/src/EntityPlayer
 	FIELD field_536 sleeping Z
 	METHOD method_481 getScore ()I
 	METHOD method_482 getBedOrientationInDegrees ()F
+	METHOD method_483 func_22060_M ()I
 	METHOD method_484 displayWorkbenchGUI (III)V
 	METHOD method_485 displayGUIDispenser (Lnet/minecraft/class_137;)V
 	METHOD method_486 displayGUIChest (Lnet/minecraft/class_134;)V
@@ -43,15 +45,20 @@ CLASS net/minecraft/class_54 net/minecraft/src/EntityPlayer
 	METHOD method_491 onItemPickup (Lnet/minecraft/class_57;I)V
 	METHOD method_492 respawnPlayer ()V
 	METHOD method_493 closeScreen ()V
+	METHOD method_494 func_6420_o ()V
+	METHOD method_495 sleepInBedAt (III)Lnet/minecraft/class_141;
 	METHOD method_496 onItemStackChanged (Lnet/minecraft/class_31;)V
 	METHOD method_497 wakeUpPlayer (ZZZ)V
-	METHOD method_498 isPVPEnabled ()Z
+	METHOD method_498 func_27025_G ()Z
 	METHOD method_499 resetHeight ()V
 	METHOD method_500 swingItem ()V
 	METHOD method_501 dropCurrentItem ()V
+	METHOD method_502 getCurrentEquippedItem ()Lnet/minecraft/class_31;
 	METHOD method_503 destroyCurrentEquippedItem ()V
 	METHOD method_504 isPlayerFullyAsleep ()Z
+	METHOD method_505 getPlayerSpawnCoordinate ()Lnet/minecraft/class_63;
 	METHOD method_506 setPlayerSpawnCoordinate (Lnet/minecraft/class_63;)V
+	METHOD method_507 func_25060_a (Lnet/minecraft/class_18;Lnet/minecraft/class_63;)Lnet/minecraft/class_63;
 	METHOD method_508 joinEntityItemWithWorld (Lnet/minecraft/class_142;)V
 	METHOD method_509 dropPlayerItemWithRandomChoice (Lnet/minecraft/class_31;Z)V
 	METHOD method_510 alertWolves (Lnet/minecraft/class_127;Z)V
@@ -61,7 +68,7 @@ CLASS net/minecraft/class_54 net/minecraft/src/EntityPlayer
 	METHOD method_514 canHarvestBlock (Lnet/minecraft/class_17;)Z
 	METHOD method_515 useCurrentItemOnEntity (Lnet/minecraft/class_57;)V
 	METHOD method_516 attackTargetEntityWithCurrentItem (Lnet/minecraft/class_57;)V
-	METHOD method_517 func_22059_e (I)V
+	METHOD method_517 func_22052_e (I)V
 	METHOD method_518 addMovementStat (DDD)V
 	METHOD method_519 addMountedMovementStat (DDD)V
 	METHOD method_520 collideWithPlayer (Lnet/minecraft/class_57;)V

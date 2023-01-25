@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_548 net/minecraft/src/RenderGhast
+	METHOD method_1812 func_4014_a (Lnet/minecraft/class_364;F)V

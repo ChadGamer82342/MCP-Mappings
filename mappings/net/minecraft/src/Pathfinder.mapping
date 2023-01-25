@@ -3,3 +3,12 @@ CLASS net/minecraft/class_108 net/minecraft/src/Pathfinder
 	FIELD field_334 path Lnet/minecraft/class_109;
 	FIELD field_335 pointMap Lnet/minecraft/class_80;
 	FIELD field_336 pathOptions [Lnet/minecraft/class_29;
+	METHOD method_400 openPoint (III)Lnet/minecraft/class_29;
+	METHOD method_401 createEntityPath (Lnet/minecraft/class_29;Lnet/minecraft/class_29;)Lnet/minecraft/class_61;
+	METHOD method_402 createEntityPathTo (Lnet/minecraft/class_57;DDDF)Lnet/minecraft/class_61;
+	METHOD method_403 createEntityPathTo (Lnet/minecraft/class_57;IIIF)Lnet/minecraft/class_61;
+	METHOD method_404 getVerticalOffset (Lnet/minecraft/class_57;IIILnet/minecraft/class_29;)I
+	METHOD method_405 getSafePoint (Lnet/minecraft/class_57;IIILnet/minecraft/class_29;I)Lnet/minecraft/class_29;
+	METHOD method_406 addToPath (Lnet/minecraft/class_57;Lnet/minecraft/class_29;Lnet/minecraft/class_29;Lnet/minecraft/class_29;F)Lnet/minecraft/class_61;
+	METHOD method_407 createEntityPathTo (Lnet/minecraft/class_57;Lnet/minecraft/class_57;F)Lnet/minecraft/class_61;
+	METHOD method_408 findPathOptions (Lnet/minecraft/class_57;Lnet/minecraft/class_29;Lnet/minecraft/class_29;Lnet/minecraft/class_29;F)I

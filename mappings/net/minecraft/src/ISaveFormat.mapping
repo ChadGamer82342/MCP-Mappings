@@ -1,3 +1,10 @@
 CLASS net/minecraft/class_182 net/minecraft/src/ISaveFormat
+	METHOD method_1001 func_22178_a ()Ljava/lang/String;
+	METHOD method_1002 func_22176_b ()Ljava/util/List;
 	METHOD method_1003 flushCache ()V
+	METHOD method_1004 func_22173_b (Ljava/lang/String;)Lnet/minecraft/class_7;
+	METHOD method_1005 func_22170_a (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD method_1006 func_22172_c (Ljava/lang/String;)V
 	METHOD method_1007 isOldMapFormat (Ljava/lang/String;)Z
+	METHOD method_1008 convertMapFormat (Ljava/lang/String;Lnet/minecraft/class_62;)Z
+	METHOD method_1009 getSaveLoader (Ljava/lang/String;Z)Lnet/minecraft/class_52;

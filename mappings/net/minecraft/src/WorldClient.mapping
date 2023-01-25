@@ -7,6 +7,7 @@ CLASS net/minecraft/class_454 net/minecraft/src/WorldClient
 		FIELD field_1732 field_1205_e I
 		FIELD field_1733 field_1204_f I
 		FIELD field_1734 field_1203_g Lnet/minecraft/class_454;
+
 	FIELD field_1722 field_1057_z Ljava/util/LinkedList;
 	FIELD field_1723 sendQueue Lnet/minecraft/class_219;
 	FIELD field_1724 field_20915_C Lnet/minecraft/class_455;
@@ -14,3 +15,8 @@ CLASS net/minecraft/class_454 net/minecraft/src/WorldClient
 	FIELD field_1726 field_20914_E Ljava/util/Set;
 	FIELD field_1727 field_1053_F Ljava/util/Set;
 	METHOD method_1494 doPreChunk (IIZ)V
+	METHOD method_1495 func_712_a (ILnet/minecraft/class_57;)V
+	METHOD method_1496 func_709_b (I)Lnet/minecraft/class_57;
+	METHOD method_1497 removeEntityFromWorld (I)Lnet/minecraft/class_57;
+	METHOD method_1498 func_711_c (IIIIII)V
+	METHOD method_1499 func_714_c (IIIII)Z

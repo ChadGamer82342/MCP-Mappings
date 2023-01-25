@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_465 net/minecraft/src/GuiSmallButton
 	FIELD field_1771 enumOptions Lnet/minecraft/class_271;
+	METHOD method_1529 returnEnumOptions ()Lnet/minecraft/class_271;

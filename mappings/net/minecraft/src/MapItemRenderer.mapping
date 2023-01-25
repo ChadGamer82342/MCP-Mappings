@@ -3,3 +3,4 @@ CLASS net/minecraft/class_321 net/minecraft/src/MapItemRenderer
 	FIELD field_1219 field_28158_b I
 	FIELD field_1220 field_28161_c Lnet/minecraft/class_322;
 	FIELD field_1221 field_28160_d Lnet/minecraft/class_34;
+	METHOD method_1046 func_28157_a (Lnet/minecraft/class_54;Lnet/minecraft/class_76;Lnet/minecraft/class_198;)V

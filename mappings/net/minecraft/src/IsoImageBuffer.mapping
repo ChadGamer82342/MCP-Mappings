@@ -7,3 +7,5 @@ CLASS net/minecraft/class_478 net/minecraft/src/IsoImageBuffer
 	FIELD field_2415 field_1351_f Z
 	FIELD field_2416 field_1350_g I
 	FIELD field_2417 field_1349_h Z
+	METHOD method_1873 func_889_a (II)V
+	METHOD method_1874 func_888_a (Lnet/minecraft/class_18;II)V

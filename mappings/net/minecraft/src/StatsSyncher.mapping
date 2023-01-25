@@ -2,8 +2,10 @@ CLASS net/minecraft/class_605 net/minecraft/src/StatsSyncher
 	CLASS 1 ThreadStatSyncherSend
 		FIELD field_2728 field_27233_a Ljava/util/Map;
 		FIELD field_2729 field_27232_b Lnet/minecraft/class_605;
+
 	CLASS 2 ThreadStatSyncherReceive
 		FIELD field_2730 field_27231_a Lnet/minecraft/class_605;
+
 	FIELD field_2715 field_27438_a Z
 	FIELD field_2716 field_27437_b Ljava/util/Map;
 	FIELD field_2717 field_27436_c Ljava/util/Map;
@@ -17,4 +19,23 @@ CLASS net/minecraft/class_605 net/minecraft/src/StatsSyncher
 	FIELD field_2725 field_27428_k Lnet/minecraft/class_237;
 	FIELD field_2726 field_27427_l I
 	FIELD field_2727 field_27426_m I
+	METHOD method_2051 func_27418_a ()V
+	METHOD method_2052 func_27422_a (Lnet/minecraft/class_605;)Ljava/util/Map;
+	METHOD method_2053 func_27409_a (Lnet/minecraft/class_605;Ljava/io/File;Ljava/io/File;Ljava/io/File;)Ljava/util/Map;
+	METHOD method_2054 func_27421_a (Lnet/minecraft/class_605;Ljava/util/Map;)Ljava/util/Map;
+	METHOD method_2055 func_27412_a (Lnet/minecraft/class_605;Ljava/util/Map;Ljava/io/File;Ljava/io/File;Ljava/io/File;)V
+	METHOD method_2056 func_27416_a (Lnet/minecraft/class_605;Z)Z
+	METHOD method_2057 func_27408_a (Ljava/io/File;)Ljava/util/Map;
+	METHOD method_2058 func_27415_a (Ljava/io/File;Ljava/io/File;Ljava/io/File;)Ljava/util/Map;
+	METHOD method_2059 func_28214_a (Ljava/io/File;Ljava/lang/String;Ljava/io/File;)V
+	METHOD method_2060 func_27424_a (Ljava/util/Map;)V
+	METHOD method_2061 func_27410_a (Ljava/util/Map;Ljava/io/File;Ljava/io/File;Ljava/io/File;)V
+	METHOD method_2062 func_27420_b ()Z
+	METHOD method_2063 func_27423_b (Lnet/minecraft/class_605;)Ljava/io/File;
 	METHOD method_2064 syncStatsFileWithMap (Ljava/util/Map;)V
+	METHOD method_2065 func_27425_c ()V
+	METHOD method_2066 func_27411_c (Lnet/minecraft/class_605;)Ljava/io/File;
+	METHOD method_2067 func_27413_d (Lnet/minecraft/class_605;)Ljava/io/File;
+	METHOD method_2068 func_27414_e (Lnet/minecraft/class_605;)Ljava/io/File;
+	METHOD method_2069 func_27417_f (Lnet/minecraft/class_605;)Ljava/io/File;
+	METHOD method_2070 func_27419_g (Lnet/minecraft/class_605;)Ljava/io/File;

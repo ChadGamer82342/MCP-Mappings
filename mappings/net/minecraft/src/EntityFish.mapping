@@ -19,5 +19,5 @@ CLASS net/minecraft/class_135 net/minecraft/src/EntityFish
 	FIELD field_1083 velocityX D
 	FIELD field_1084 velocityY D
 	FIELD field_1085 velocityZ D
-	METHOD method_955 func_6142_a (DDDFF)V
+	METHOD method_955 func_4042_a (DDDFF)V
 	METHOD method_956 catchFish ()I

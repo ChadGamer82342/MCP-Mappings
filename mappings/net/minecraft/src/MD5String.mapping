@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_254 net/minecraft/src/MD5String
 	FIELD field_941 field_27370_a Ljava/lang/String;
+	METHOD method_852 func_27369_a (Ljava/lang/String;)Ljava/lang/String;

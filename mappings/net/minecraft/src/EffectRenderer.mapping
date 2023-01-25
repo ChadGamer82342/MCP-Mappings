@@ -10,3 +10,4 @@ CLASS net/minecraft/class_75 net/minecraft/src/EffectRenderer
 	METHOD method_324 renderParticles (Lnet/minecraft/class_57;F)V
 	METHOD method_325 addEffect (Lnet/minecraft/class_77;)V
 	METHOD method_326 getStatistics ()Ljava/lang/String;
+	METHOD method_327 func_1187_b (Lnet/minecraft/class_57;F)V

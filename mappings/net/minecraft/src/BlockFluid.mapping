@@ -1,6 +1,8 @@
 CLASS net/minecraft/class_385 net/minecraft/src/BlockFluid
 	METHOD method_1217 getEffectiveFlowDecay (Lnet/minecraft/class_14;III)I
 	METHOD method_1218 getPercentAir (I)F
+	METHOD method_1219 getFlowVector (Lnet/minecraft/class_14;III)Lnet/minecraft/class_26;
 	METHOD method_1220 getFlowDecay (Lnet/minecraft/class_18;III)I
 	METHOD method_1221 triggerLavaMixEffects (Lnet/minecraft/class_18;III)V
 	METHOD method_1222 checkForHarden (Lnet/minecraft/class_18;III)V
+	METHOD method_1223 func_293_a (Lnet/minecraft/class_14;IIILnet/minecraft/class_15;)D

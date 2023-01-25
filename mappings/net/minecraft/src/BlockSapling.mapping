@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_154 net/minecraft/src/BlockSapling
+	METHOD method_533 growTree (Lnet/minecraft/class_18;IIILjava/util/Random;)V

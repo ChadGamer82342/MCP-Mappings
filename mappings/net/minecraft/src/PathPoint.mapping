@@ -10,5 +10,5 @@ CLASS net/minecraft/class_29 net/minecraft/src/PathPoint
 	FIELD field_148 isFirst Z
 	FIELD field_149 hash I
 	METHOD method_112 isAssigned ()Z
-	METHOD method_113 func_22203_a (III)I
+	METHOD method_113 func_22329_a (III)I
 	METHOD method_114 distanceTo (Lnet/minecraft/class_29;)F

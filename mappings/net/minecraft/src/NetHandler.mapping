@@ -4,49 +4,49 @@ CLASS net/minecraft/class_240 net/minecraft/src/NetHandler
 	METHOD method_1424 handleBlockItemSwitch (Lnet/minecraft/class_170;)V
 	METHOD method_1425 handleFlying (Lnet/minecraft/class_184;)V
 	METHOD method_1426 handleBlockDig (Lnet/minecraft/class_228;)V
-	METHOD method_1427 handleCraftingGuiClosedPacked (Lnet/minecraft/class_276;)V
+	METHOD method_1427 func_20092_a (Lnet/minecraft/class_276;)V
 	METHOD method_1428 handleArmAnimation (Lnet/minecraft/class_305;)V
-	METHOD method_1429 func_20008_a (Lnet/minecraft/class_325;)V
-	METHOD method_1430 handleRespawnPacket (Lnet/minecraft/class_335;)V
+	METHOD method_1429 func_20089_a (Lnet/minecraft/class_325;)V
+	METHOD method_1430 func_9448_a (Lnet/minecraft/class_335;)V
 	METHOD method_1431 handleChat (Lnet/minecraft/class_340;)V
-	METHOD method_1432 handleMovementTypePacket (Lnet/minecraft/class_357;)V
-	METHOD method_1433 func_20007_a (Lnet/minecraft/class_363;)V
-	METHOD method_1434 func_21001_a (Lnet/minecraft/class_431;)V
+	METHOD method_1432 func_22185_a (Lnet/minecraft/class_357;)V
+	METHOD method_1433 func_20091_a (Lnet/minecraft/class_363;)V
+	METHOD method_1434 func_21147_a (Lnet/minecraft/class_431;)V
 	METHOD method_1435 handleSignUpdate (Lnet/minecraft/class_432;)V
 	METHOD method_1436 handleKickDisconnect (Lnet/minecraft/class_433;)V
-	METHOD method_1437 func_25001_a (Lnet/minecraft/class_434;)V
+	METHOD method_1437 func_25118_a (Lnet/minecraft/class_434;)V
 	METHOD method_1438 handleCollect (Lnet/minecraft/class_435;)V
 	METHOD method_1439 handleMapChunk (Lnet/minecraft/class_6;)V
 	METHOD method_1440 handleHealth (Lnet/minecraft/class_36;)V
 	METHOD method_1441 handleWeather (Lnet/minecraft/class_45;)V
-	METHOD method_1442 func_28002_a (Lnet/minecraft/class_85;)V
-	METHOD method_1443 func_6002_a (Lnet/minecraft/class_119;)V
+	METHOD method_1442 func_28115_a (Lnet/minecraft/class_85;)V
+	METHOD method_1443 func_6498_a (Lnet/minecraft/class_119;)V
 	METHOD method_1444 handleUpdateTime (Lnet/minecraft/class_156;)V
-	METHOD method_1445 func_20003_a (Lnet/minecraft/class_171;)V
-	METHOD method_1446 func_20004_a (Lnet/minecraft/class_201;)V
-	METHOD method_1447 func_9001_a (Lnet/minecraft/class_210;)V
+	METHOD method_1445 func_20088_a (Lnet/minecraft/class_171;)V
+	METHOD method_1446 func_20087_a (Lnet/minecraft/class_201;)V
+	METHOD method_1447 func_9447_a (Lnet/minecraft/class_210;)V
 	METHOD method_1448 handleMobSpawn (Lnet/minecraft/class_215;)V
-	METHOD method_1449 func_22002_a (Lnet/minecraft/class_234;)V
-	METHOD method_1450 func_20001_a (Lnet/minecraft/class_236;)V
+	METHOD method_1449 func_22186_a (Lnet/minecraft/class_234;)V
+	METHOD method_1450 func_20094_a (Lnet/minecraft/class_236;)V
 	METHOD method_1451 handleNamedEntitySpawn (Lnet/minecraft/class_272;)V
-	METHOD method_1452 func_20002_a (Lnet/minecraft/class_292;)V
+	METHOD method_1452 func_20090_a (Lnet/minecraft/class_292;)V
 	METHOD method_1453 handlePickupSpawn (Lnet/minecraft/class_295;)V
-	METHOD method_1454 func_6003_a (Lnet/minecraft/class_308;)V
-	METHOD method_1455 func_27001_a (Lnet/minecraft/class_319;)V
+	METHOD method_1454 func_6497_a (Lnet/minecraft/class_308;)V
+	METHOD method_1455 func_27245_a (Lnet/minecraft/class_319;)V
 	METHOD method_1456 handleSpawnPosition (Lnet/minecraft/class_373;)V
 	METHOD method_1457 handleEntityTeleport (Lnet/minecraft/class_374;)V
-	METHOD method_1458 func_12001_a (Lnet/minecraft/class_382;)V
+	METHOD method_1458 func_12245_a (Lnet/minecraft/class_382;)V
 	METHOD method_1459 handlePlayerInventory (Lnet/minecraft/class_393;)V
 	METHOD method_1460 handleDestroyEntity (Lnet/minecraft/class_394;)V
 	METHOD method_1461 handlePreChunk (Lnet/minecraft/class_403;)V
 	METHOD method_1462 handleVehicleSpawn (Lnet/minecraft/class_414;)V
 	METHOD method_1463 handleBlockChange (Lnet/minecraft/class_436;)V
 	METHOD method_1464 handleEntity (Lnet/minecraft/class_437;)V
-	METHOD method_1465 func_21002_a (Lnet/minecraft/class_438;)V
-	METHOD method_1466 func_21003_a (Lnet/minecraft/class_439;)V
+	METHOD method_1465 func_21148_a (Lnet/minecraft/class_438;)V
+	METHOD method_1466 func_21146_a (Lnet/minecraft/class_439;)V
 	METHOD method_1467 handleNotePlay (Lnet/minecraft/class_440;)V
 	METHOD method_1468 handleMultiBlockChange (Lnet/minecraft/class_441;)V
-	METHOD method_1469 func_28001_a (Lnet/minecraft/class_161;)V
+	METHOD method_1469 func_28116_a (Lnet/minecraft/class_161;)V
 	METHOD method_1470 registerPacket (Lnet/minecraft/class_169;)V
 	METHOD method_1471 handleHandshake (Lnet/minecraft/class_281;)V
 	METHOD method_1472 handleLogin (Lnet/minecraft/class_118;)V

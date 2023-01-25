@@ -18,3 +18,6 @@ CLASS net/minecraft/class_388 net/minecraft/src/Particle
 	FIELD field_1502 field_25130_q D
 	FIELD field_1503 field_25129_r D
 	FIELD field_1504 field_25128_s Ljava/util/Random;
+	METHOD method_1237 func_25127_a ()V
+	METHOD method_1238 func_25125_a (Lnet/minecraft/class_35;)V
+	METHOD method_1239 func_25126_b ()V

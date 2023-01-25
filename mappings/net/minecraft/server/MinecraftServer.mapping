@@ -1,13 +1,17 @@
 CLASS net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
 	CLASS class_643 ThreadServerApplication
 		FIELD field_2856 mcServer Lnet/minecraft/server/MinecraftServer;
+
 	CLASS class_644 ConvertProgressUpdater
 		FIELD field_2857 mcServer Lnet/minecraft/server/MinecraftServer;
 		FIELD field_2858 lastTimeMillis J
+
 	CLASS class_645 ThreadCommandReader
 		FIELD field_2859 mcServer Lnet/minecraft/server/MinecraftServer;
+
 	CLASS class_646 ThreadSleepForever
 		FIELD field_2860 mc Lnet/minecraft/server/MinecraftServer;
+
 	FIELD field_2837 logger Ljava/util/logging/Logger;
 	FIELD field_2838 field_6037_b Ljava/util/HashMap;
 	FIELD field_2839 networkServer Lnet/minecraft/class_9;
@@ -27,15 +31,3 @@ CLASS net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
 	FIELD field_2853 serverRunning Z
 	FIELD field_2854 field_9010_p Ljava/util/List;
 	FIELD field_2855 commands Ljava/util/List;
-	METHOD method_2156 initiateShutdown ()V
-	METHOD method_2158 func_6022_a (Lnet/minecraft/class_46;)V
-	METHOD method_2160 getFile (Ljava/lang/String;)Ljava/io/File;
-	METHOD method_2161 outputPercentRemaining (Ljava/lang/String;I)V
-	METHOD method_2163 isServerRunning (Lnet/minecraft/server/MinecraftServer;)Z
-	METHOD method_2164 commandLineParser ()V
-	METHOD method_2166 startServer ()Z
-	METHOD method_2167 logWarning (Ljava/lang/String;)V
-	METHOD method_2168 clearCurrentTask ()V
-	METHOD method_2169 saveServerWorld ()V
-	METHOD method_2170 stopServer ()V
-	METHOD method_2171 doTick ()V

@@ -1,1 +1,5 @@
 CLASS net/minecraft/class_83 net/minecraft/src/CompressedStreamTools
+	METHOD method_335 func_1139_a (Lnet/minecraft/class_8;Ljava/io/DataOutput;)V
+	METHOD method_336 writeGzippedCompoundToOutputStream (Lnet/minecraft/class_8;Ljava/io/OutputStream;)V
+	METHOD method_337 func_1141_a (Ljava/io/DataInput;)Lnet/minecraft/class_8;
+	METHOD method_338 func_1138_a (Ljava/io/InputStream;)Lnet/minecraft/class_8;

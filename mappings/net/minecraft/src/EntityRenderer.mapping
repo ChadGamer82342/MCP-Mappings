@@ -40,10 +40,13 @@ CLASS net/minecraft/class_555 net/minecraft/src/EntityRenderer
 	FIELD field_2365 field_22222_x F
 	METHOD method_1837 updateRenderer ()V
 	METHOD method_1838 getMouseOver (F)V
+	METHOD method_1839 func_908_a (FFFF)Ljava/nio/FloatBuffer;
 	METHOD method_1840 setupCameraTransform (FI)V
 	METHOD method_1841 renderWorld (FJ)V
 	METHOD method_1842 setupFog (IF)V
+	METHOD method_1843 func_905_b ()V
 	METHOD method_1844 updateCameraAndRender (F)V
+	METHOD method_1845 func_4135_b (FI)V
 	METHOD method_1846 addRainParticles ()V
 	METHOD method_1847 renderRainSnow (F)V
 	METHOD method_1848 getFOVModifier (F)F

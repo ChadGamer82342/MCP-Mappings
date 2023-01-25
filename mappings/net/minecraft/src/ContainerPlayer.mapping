@@ -2,6 +2,7 @@ CLASS net/minecraft/class_277 net/minecraft/src/ContainerPlayer
 	CLASS 1 SlotArmor
 		FIELD field_1127 armorType I
 		FIELD field_1128 inventory Lnet/minecraft/class_277;
+
 	FIELD field_1124 craftMatrix Lnet/minecraft/class_159;
 	FIELD field_1125 craftResult Lnet/minecraft/class_134;
 	FIELD field_1126 isSinglePlayer Z

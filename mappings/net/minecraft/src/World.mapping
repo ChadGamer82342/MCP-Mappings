@@ -43,6 +43,7 @@ CLASS net/minecraft/class_18 net/minecraft/src/World
 	FIELD field_220 worldInfo Lnet/minecraft/class_7;
 	FIELD field_221 findingSpawnPoint Z
 	FIELD field_222 field_28108_z Lnet/minecraft/class_53;
+	METHOD method_149 getClosestPlayer (DDDD)Lnet/minecraft/class_54;
 	METHOD method_150 playSoundEffect (DDDLjava/lang/String;FF)V
 	METHOD method_151 calculateSkylightSubtracted (F)I
 	METHOD method_152 getFirstUncoveredBlock (II)I
@@ -53,60 +54,78 @@ CLASS net/minecraft/class_18 net/minecraft/src/World
 	METHOD method_157 setBlockTileEntity (IIILnet/minecraft/class_55;)V
 	METHOD method_158 getBlockLightValue_do (IIIZ)I
 	METHOD method_159 setWorldTime (J)V
+	METHOD method_160 rayTraceBlocks (Lnet/minecraft/class_26;Lnet/minecraft/class_26;)Lnet/minecraft/class_27;
+	METHOD method_161 rayTraceBlocks_do (Lnet/minecraft/class_26;Lnet/minecraft/class_26;Z)Lnet/minecraft/class_27;
+	METHOD method_162 func_28105_a (Lnet/minecraft/class_26;Lnet/minecraft/class_26;ZZ)Lnet/minecraft/class_27;
+	METHOD method_163 func_675_a (Lnet/minecraft/class_26;Lnet/minecraft/class_25;)F
 	METHOD method_164 getSavedLightValue (Lnet/minecraft/class_56;III)I
 	METHOD method_165 neighborLightPropagationChanged (Lnet/minecraft/class_56;IIII)V
 	METHOD method_166 scheduleLightingUpdate (Lnet/minecraft/class_56;IIIIII)V
 	METHOD method_167 scheduleLightingUpdate_do (Lnet/minecraft/class_56;IIIIIIZ)V
 	METHOD method_168 checkIfAABBIsClear (Lnet/minecraft/class_25;)Z
-	METHOD method_171 canMineBlock (Lnet/minecraft/class_54;III)Z
+	METHOD method_169 isMaterialInBB (Lnet/minecraft/class_25;Lnet/minecraft/class_15;)Z
+	METHOD method_170 handleMaterialAcceleration (Lnet/minecraft/class_25;Lnet/minecraft/class_15;Lnet/minecraft/class_57;)Z
+	METHOD method_171 func_6466_a (Lnet/minecraft/class_54;III)Z
 	METHOD method_172 onBlockHit (Lnet/minecraft/class_54;IIII)V
-	METHOD method_173 func_28101_a (Lnet/minecraft/class_54;IIIII)V
+	METHOD method_173 func_28107_a (Lnet/minecraft/class_54;IIIII)V
 	METHOD method_174 countEntities (Ljava/lang/Class;)I
+	METHOD method_175 getEntitiesWithinAABB (Ljava/lang/Class;Lnet/minecraft/class_25;)Ljava/util/List;
+	METHOD method_176 loadItemData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/class_58;
+	METHOD method_177 getPlayerEntityByName (Ljava/lang/String;)Lnet/minecraft/class_54;
 	METHOD method_178 spawnParticle (Ljava/lang/String;DDDDDD)V
 	METHOD method_179 playRecord (Ljava/lang/String;III)V
-	METHOD method_181 func_31047_a (Ljava/util/Collection;)V
-	METHOD method_182 addLoadedEntities (Ljava/util/List;)V
+	METHOD method_180 setItemData (Ljava/lang/String;Lnet/minecraft/class_58;)V
+	METHOD method_181 func_31054_a (Ljava/util/Collection;)V
+	METHOD method_182 func_636_a (Ljava/util/List;)V
 	METHOD method_183 addWorldAccess (Lnet/minecraft/class_59;)V
 	METHOD method_184 addWeatherEffect (Lnet/minecraft/class_57;)Z
-	METHOD method_185 sendTrackedEntityStatusUpdatePacket (Lnet/minecraft/class_57;B)V
+	METHOD method_185 func_9425_a (Lnet/minecraft/class_57;B)V
+	METHOD method_186 getClosestPlayerToEntity (Lnet/minecraft/class_57;D)Lnet/minecraft/class_54;
+	METHOD method_187 createExplosion (Lnet/minecraft/class_57;DDDF)Lnet/minecraft/class_60;
+	METHOD method_188 newExplosion (Lnet/minecraft/class_57;DDDFZ)Lnet/minecraft/class_60;
+	METHOD method_189 getEntityPathToXYZ (Lnet/minecraft/class_57;IIIF)Lnet/minecraft/class_61;
+	METHOD method_190 getCollidingBoundingBoxes (Lnet/minecraft/class_57;Lnet/minecraft/class_25;)Ljava/util/List;
+	METHOD method_191 playSoundAtEntity (Lnet/minecraft/class_57;Ljava/lang/String;FF)V
+	METHOD method_192 getPathToEntity (Lnet/minecraft/class_57;Lnet/minecraft/class_57;F)Lnet/minecraft/class_61;
 	METHOD method_193 updateEntityWithOptionalForce (Lnet/minecraft/class_57;Z)V
 	METHOD method_194 TickUpdates (Z)Z
 	METHOD method_195 saveWorld (ZLnet/minecraft/class_62;)V
 	METHOD method_196 setAllowedMobSpawns (ZZ)V
+	METHOD method_197 getChunkProvider ()Lnet/minecraft/class_51;
 	METHOD method_198 getCelestialAngle (F)F
+	METHOD method_199 getChunkFromBlockCoords (II)Lnet/minecraft/class_43;
 	METHOD method_200 setBlock (IIII)Z
 	METHOD method_201 setBlockAndMetadataWithNotify (IIIII)Z
 	METHOD method_202 markBlocksDirty (IIIIII)V
-	METHOD method_203 updateTileEntityChunkAndDoNothing (IIILnet/minecraft/class_55;)V
-	METHOD method_204 func_32005_b (J)V
+	METHOD method_203 func_698_b (IIILnet/minecraft/class_55;)V
 	METHOD method_205 setLightValue (Lnet/minecraft/class_56;IIII)V
-	METHOD method_206 func_27069_b (Lnet/minecraft/class_25;)Z
+	METHOD method_207 isAABBInMaterial (Lnet/minecraft/class_25;Lnet/minecraft/class_15;)Z
 	METHOD method_208 getUniqueDataId (Ljava/lang/String;)I
-	METHOD method_209 addUnloadedEntities (Ljava/util/List;)V
+	METHOD method_209 func_632_b (Ljava/util/List;)V
 	METHOD method_210 entityJoinedWorld (Lnet/minecraft/class_57;)Z
+	METHOD method_211 getEntitiesWithinAABBExcludingEntity (Lnet/minecraft/class_57;Lnet/minecraft/class_25;)Ljava/util/List;
 	METHOD method_212 getInitialSpawnLocation ()V
-	METHOD method_213 func_27065_c (F)F
+	METHOD method_213 func_27166_f (F)F
+	METHOD method_214 getChunkFromChunkCoords (II)Lnet/minecraft/class_43;
 	METHOD method_215 setBlockMetadataWithNotify (IIII)V
 	METHOD method_216 scheduleBlockUpdate (IIIII)V
-	METHOD method_217 getChunkData (IIIIII)[B
 	METHOD method_218 getIsAnyLiquid (Lnet/minecraft/class_25;)Z
 	METHOD method_219 obtainEntitySkin (Lnet/minecraft/class_57;)V
 	METHOD method_220 isDaytime ()Z
-	METHOD method_221 func_27074_d (F)F
+	METHOD method_221 func_27162_g (F)F
 	METHOD method_222 getHeightValue (II)I
 	METHOD method_223 setBlockMetadata (IIII)Z
 	METHOD method_224 playNoteAt (IIIII)V
 	METHOD method_225 isBoundingBoxBurning (Lnet/minecraft/class_25;)Z
 	METHOD method_226 releaseEntitySkin (Lnet/minecraft/class_57;)V
 	METHOD method_227 updateEntities ()V
+	METHOD method_228 findTopSolidBlock (II)I
 	METHOD method_229 setBlockWithNotify (IIII)Z
-	METHOD method_230 func_28097_e (IIIII)V
+	METHOD method_230 func_28106_e (IIIII)V
 	METHOD method_231 setEntityDead (Lnet/minecraft/class_57;)V
 	METHOD method_232 updatingLighting ()Z
-	METHOD method_233 findTopSolidBlock (II)I
 	METHOD method_234 isAirBlock (III)Z
 	METHOD method_235 notifyBlockChange (IIII)V
-	METHOD method_236 removePlayer (Lnet/minecraft/class_57;)V
 	METHOD method_237 calculateInitialSkylight ()V
 	METHOD method_238 chunkExists (II)Z
 	METHOD method_239 blockExists (III)Z
@@ -128,30 +147,40 @@ CLASS net/minecraft/class_18 net/minecraft/src/World
 	METHOD method_255 getBlockLightValue (III)I
 	METHOD method_256 getWorldTime ()J
 	METHOD method_257 canExistingBlockSeeTheSky (III)Z
-	METHOD method_1782 getLightBrightness (III)F
+	METHOD method_258 getSpawnPoint ()Lnet/minecraft/class_63;
+	METHOD method_259 getIChunkProvider ()Lnet/minecraft/class_51;
 	METHOD method_260 removeBlockTileEntity (III)V
-	METHOD method_1783 isBlockOpaqueCube (III)Z
+	METHOD method_262 getWorldInfo ()Lnet/minecraft/class_7;
 	METHOD method_263 isBlockGettingPowered (III)Z
 	METHOD method_264 updateAllPlayersSleepingFlag ()V
 	METHOD method_265 isBlockIndirectlyGettingPowered (III)Z
 	METHOD method_266 wakeUpAllPlayers ()V
 	METHOD method_267 canBlockBeRainedOn (III)Z
 	METHOD method_268 isAllPlayersFullyAsleep ()Z
-	METHOD method_269 func_27067_u ()Z
-	METHOD method_270 func_27068_v ()Z
+	METHOD method_269 func_27160_B ()Z
+	METHOD method_270 func_27161_C ()Z
 	METHOD method_271 saveLevel ()V
-	METHOD method_272 func_27070_x ()V
+	METHOD method_272 func_27163_E ()V
 	METHOD method_273 stopPrecipitation ()V
+	METHOD method_274 func_650_a (I)Z
 	METHOD method_275 setChunkData (IIIIII[B)V
 	METHOD method_276 setSpawnPoint (Lnet/minecraft/class_63;)V
 	METHOD method_277 spawnPlayerWithLoadedChunks (Lnet/minecraft/class_54;)V
+	METHOD method_278 func_4085_a (Ljava/lang/Class;)Lnet/minecraft/class_57;
+	METHOD method_279 func_4079_a (Lnet/minecraft/class_57;F)Lnet/minecraft/class_26;
 	METHOD method_280 saveWorldIndirectly (Lnet/minecraft/class_62;)V
 	METHOD method_281 removeWorldAccess (Lnet/minecraft/class_59;)V
+	METHOD method_282 func_628_d (F)Lnet/minecraft/class_26;
 	METHOD method_283 setSpawnLocation ()V
+	METHOD method_284 getFogColor (F)Lnet/minecraft/class_26;
 	METHOD method_285 emptyMethod1 ()V
 	METHOD method_286 getStarBrightness (F)F
 	METHOD method_287 joinEntityInSurroundings (Lnet/minecraft/class_57;)V
+	METHOD method_288 func_687_d ()Ljava/lang/String;
+	METHOD method_289 func_27158_h (F)V
+	METHOD method_290 func_21119_g ()Ljava/lang/String;
 	METHOD method_291 getLoadedEntityList ()Ljava/util/List;
+	METHOD method_292 func_656_j ()V
 	METHOD method_293 sendQuittingDisconnectingPacket ()V
 	METHOD method_294 randomDisplayUpdates (III)V
-	METHOD method_295 updateEntityList ()V
+	METHOD method_295 DIST_HASH_MAGIC ()V

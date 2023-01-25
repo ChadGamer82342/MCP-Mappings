@@ -2,9 +2,11 @@ CLASS net/minecraft/class_223 net/minecraft/src/BlockPistonBase
 	FIELD field_844 isSticky Z
 	FIELD field_845 field_31048_b Z
 	METHOD method_759 canPushBlock (ILnet/minecraft/class_18;IIIZ)Z
-	METHOD method_760 getOrientation (I)I
+	METHOD method_760 func_31044_d (I)I
+	METHOD method_761 func_31039_c (Lnet/minecraft/class_18;IIILnet/minecraft/class_54;)I
 	METHOD method_762 isPowered (I)Z
-	METHOD method_763 isPowered (Lnet/minecraft/class_18;IIII)Z
-	METHOD method_764 updatePistonState (Lnet/minecraft/class_18;III)V
-	METHOD method_765 canExtend (Lnet/minecraft/class_18;IIII)Z
-	METHOD method_766 tryExtend (Lnet/minecraft/class_18;IIII)Z
+	METHOD method_763 func_31041_f (Lnet/minecraft/class_18;IIII)Z
+	METHOD method_764 func_31043_h (Lnet/minecraft/class_18;III)V
+	METHOD method_765 func_31045_h (Lnet/minecraft/class_18;IIII)Z
+	METHOD method_766 func_31047_i (Lnet/minecraft/class_18;IIII)Z
+	METHOD method_767 ignoreUpdates ()I

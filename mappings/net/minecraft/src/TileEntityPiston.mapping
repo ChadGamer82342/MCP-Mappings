@@ -8,8 +8,12 @@ CLASS net/minecraft/class_283 net/minecraft/src/TileEntityPiston
 	FIELD field_1767 field_31020_l F
 	FIELD field_1768 field_31018_m Ljava/util/List;
 	METHOD method_1518 getStoredBlockID ()I
-	METHOD method_1519 func_31007_a (F)F
-	METHOD method_1520 func_31009_a (FF)V
-	METHOD method_1521 func_31010_c ()Z
-	METHOD method_1522 func_31008_d ()I
-	METHOD method_1523 clearPistonTileEntity ()V
+	METHOD method_1519 func_31008_a (F)F
+	METHOD method_1520 func_31010_a (FF)V
+	METHOD method_1521 func_31015_b ()Z
+	METHOD method_1522 func_31009_d ()I
+	METHOD method_1523 func_31011_l ()V
+	METHOD method_1524 func_31017_b (F)F
+	METHOD method_1525 func_31014_c (F)F
+	METHOD method_1526 func_31013_d (F)F
+	METHOD method_1527 storedOrientation ()Z

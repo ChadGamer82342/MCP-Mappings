@@ -5,9 +5,20 @@ CLASS net/minecraft/class_26 net/minecraft/src/Vec3D
 	FIELD field_1588 vectorList Ljava/util/List;
 	FIELD field_1589 nextVector I
 	METHOD method_1292 initialize ()V
+	METHOD method_1293 createVectorHelper (DDD)Lnet/minecraft/class_26;
 	METHOD method_1294 distanceTo (Lnet/minecraft/class_26;)D
+	METHOD method_1295 getIntermediateWithXValue (Lnet/minecraft/class_26;D)Lnet/minecraft/class_26;
+	METHOD method_1296 normalize ()Lnet/minecraft/class_26;
+	METHOD method_1297 createVector (DDD)Lnet/minecraft/class_26;
 	METHOD method_1298 squareDistanceTo (Lnet/minecraft/class_26;)D
+	METHOD method_1299 getIntermediateWithYValue (Lnet/minecraft/class_26;D)Lnet/minecraft/class_26;
 	METHOD method_1300 lengthVector ()D
+	METHOD method_1301 addVector (DDD)Lnet/minecraft/class_26;
+	METHOD method_1302 getIntermediateWithZValue (Lnet/minecraft/class_26;D)Lnet/minecraft/class_26;
 	METHOD method_1303 squareDistanceTo (DDD)D
+	METHOD method_1304 setComponents (DDD)Lnet/minecraft/class_26;
+	METHOD method_1305 func_28215_a ()V
 	METHOD method_1306 rotateAroundX (F)V
+	METHOD method_1307 subtract (Lnet/minecraft/class_26;)Lnet/minecraft/class_26;
 	METHOD method_1308 rotateAroundY (F)V
+	METHOD method_1309 crossProduct (Lnet/minecraft/class_26;)Lnet/minecraft/class_26;

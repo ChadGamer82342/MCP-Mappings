@@ -2,3 +2,6 @@ CLASS net/minecraft/class_570 net/minecraft/src/ImageBufferDownload
 	FIELD field_2445 imageData [I
 	FIELD field_2446 imageWidth I
 	FIELD field_2447 imageHeight I
+	METHOD method_1898 func_885_a (IIII)V
+	METHOD method_1899 func_884_b (IIII)V
+	METHOD method_1900 func_886_c (IIII)Z

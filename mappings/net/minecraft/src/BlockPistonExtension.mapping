@@ -1,3 +1,5 @@
 CLASS net/minecraft/class_205 net/minecraft/src/BlockPistonExtension
 	FIELD field_756 field_31053_a I
-	METHOD method_727 func_31045_b (I)I
+	METHOD method_727 func_31050_c (I)I
+	METHOD method_728 func_31051_a ()V
+	METHOD method_729 func_31052_a_ (I)V

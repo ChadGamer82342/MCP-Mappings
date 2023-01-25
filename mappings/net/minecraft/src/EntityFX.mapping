@@ -12,5 +12,7 @@ CLASS net/minecraft/class_77 net/minecraft/src/EntityFX
 	FIELD field_2645 interpPosX D
 	FIELD field_2646 interpPosY D
 	FIELD field_2647 interpPosZ D
+	METHOD method_2000 func_407_b (F)Lnet/minecraft/class_77;
+	METHOD method_2001 func_405_d (F)Lnet/minecraft/class_77;
 	METHOD method_2002 renderParticle (Lnet/minecraft/class_67;FFFFFF)V
 	METHOD method_2003 getFXLayer ()I

@@ -14,15 +14,15 @@ CLASS net/minecraft/class_186 net/minecraft/src/WorldGenBigTree
 	FIELD field_657 field_870_m I
 	FIELD field_658 field_869_n I
 	FIELD field_659 field_868_o [[I
-	METHOD method_611 func_422_e ()Z
-	METHOD method_612 func_424_a ()V
-	METHOD method_613 func_431_a (I)F
-	METHOD method_614 func_423_a (III)V
-	METHOD method_615 func_426_a (IIIFBI)V
-	METHOD method_616 func_427_a ([I[I)I
-	METHOD method_617 func_425_a ([I[II)V
-	METHOD method_618 func_421_b ()V
-	METHOD method_619 func_429_b (I)F
-	METHOD method_620 func_432_c ()V
-	METHOD method_621 func_430_c (I)Z
-	METHOD method_622 func_428_d ()V
+	METHOD method_611 func_519_e ()Z
+	METHOD method_612 func_521_a ()V
+	METHOD method_613 func_528_a (I)F
+	METHOD method_614 func_520_a (III)V
+	METHOD method_615 func_523_a (IIIFBI)V
+	METHOD method_616 func_524_a ([I[I)I
+	METHOD method_617 func_522_a ([I[II)V
+	METHOD method_618 func_518_b ()V
+	METHOD method_619 func_526_b (I)F
+	METHOD method_620 func_529_c ()V
+	METHOD method_621 func_527_c (I)Z
+	METHOD method_622 random0 ()V

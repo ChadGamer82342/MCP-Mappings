@@ -1,4 +1,8 @@
 CLASS net/minecraft/class_567 net/minecraft/src/SpawnerAnimals
 	FIELD field_2408 nightSpawnEntities [Ljava/lang/Class;
 	FIELD field_2409 eligibleChunksForSpawning Ljava/util/Set;
+	METHOD method_1868 getRandomSpawningPointInChunk (Lnet/minecraft/class_18;II)Lnet/minecraft/class_339;
+	METHOD method_1869 performSleepSpawning (Lnet/minecraft/class_18;Ljava/util/List;)Z
 	METHOD method_1870 performSpawning (Lnet/minecraft/class_18;ZZ)I
+	METHOD method_1871 canCreatureTypeSpawnAtLocation (Lnet/minecraft/class_238;Lnet/minecraft/class_18;III)Z
+	METHOD method_1872 creatureSpecificInit (Lnet/minecraft/class_127;Lnet/minecraft/class_18;FFF)V

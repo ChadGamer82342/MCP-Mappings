@@ -5,4 +5,8 @@ CLASS net/minecraft/class_591 net/minecraft/src/SaveFormatComparator
 	FIELD field_2560 field_22168_d J
 	FIELD field_2561 field_22167_e Z
 	METHOD method_1956 getFileName ()Ljava/lang/String;
+	METHOD method_1957 func_22160_a (Lnet/minecraft/class_591;)I
 	METHOD method_1958 getDisplayName ()Ljava/lang/String;
+	METHOD method_1959 func_22159_c ()J
+	METHOD method_1960 func_22161_d ()Z
+	METHOD method_1961 func_22163_e ()J

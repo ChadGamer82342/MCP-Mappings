@@ -1,3 +1,1 @@
 CLASS net/minecraft/class_168 net/minecraft/src/IPlayerFileData
-	METHOD method_609 writePlayerData (Lnet/minecraft/class_54;)V
-	METHOD method_610 readPlayerData (Lnet/minecraft/class_54;)V

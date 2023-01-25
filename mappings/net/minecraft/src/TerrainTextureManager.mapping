@@ -6,3 +6,5 @@ CLASS net/minecraft/class_586 net/minecraft/src/TerrainTextureManager
 	FIELD field_2529 field_1184_e [I
 	FIELD field_2530 field_1183_f [I
 	FIELD field_2531 field_1182_g [I
+	METHOD method_1938 func_800_a ()V
+	METHOD method_1939 func_799_a (Lnet/minecraft/class_478;)V

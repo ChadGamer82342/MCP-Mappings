@@ -4,5 +4,5 @@ CLASS net/minecraft/class_475 net/minecraft/src/StepSound
 	FIELD field_2600 field_1679_c F
 	METHOD method_1976 getVolume ()F
 	METHOD method_1977 getPitch ()F
-	METHOD method_1978 func_737_c ()Ljava/lang/String;
+	METHOD method_1978 func_1145_d ()Ljava/lang/String;
 	METHOD method_1979 stepSoundDir ()Ljava/lang/String;

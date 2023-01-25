@@ -1,2 +1,4 @@
 CLASS net/minecraft/class_157 net/minecraft/src/SaveConverterMcRegion
-	METHOD method_536 func_22108_a (Ljava/io/File;Ljava/util/ArrayList;Ljava/util/ArrayList;)V
+	METHOD method_535 func_22181_a (Ljava/io/File;Ljava/util/ArrayList;IILnet/minecraft/class_62;)V
+	METHOD method_536 func_22183_a (Ljava/io/File;Ljava/util/ArrayList;Ljava/util/ArrayList;)V
+	METHOD method_537 func_22182_a (Ljava/util/ArrayList;IILnet/minecraft/class_62;)V

@@ -1,3 +1,4 @@
 CLASS net/minecraft/class_526 net/minecraft/src/BlockDispenser
 	FIELD field_2206 random Ljava/util/Random;
+	METHOD method_1774 dispenseItem (Lnet/minecraft/class_18;IIILjava/util/Random;)V
 	METHOD method_1775 setDispenserDefaultDirection (Lnet/minecraft/class_18;III)V

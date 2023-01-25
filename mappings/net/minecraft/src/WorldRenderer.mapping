@@ -37,6 +37,7 @@ CLASS net/minecraft/class_66 net/minecraft/src/WorldRenderer
 	METHOD method_299 distanceToEntitySquared (Lnet/minecraft/class_57;)F
 	METHOD method_300 updateInFrustrum (Lnet/minecraft/class_68;)V
 	METHOD method_301 setDontDraw ()V
+	METHOD method_302 func_1204_c ()V
 	METHOD method_303 callOcclusionQueryList ()V
 	METHOD method_304 skipAllRenderPasses ()Z
 	METHOD method_305 markDirty ()V

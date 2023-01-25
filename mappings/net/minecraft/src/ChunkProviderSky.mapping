@@ -22,6 +22,6 @@ CLASS net/minecraft/class_208 net/minecraft/src/ChunkProviderSky
 	FIELD field_781 field_28076_u Lnet/minecraft/class_105;
 	FIELD field_782 field_28075_v [Lnet/minecraft/class_153;
 	FIELD field_783 field_28074_w [D
-	METHOD method_737 func_28069_a (II[B[Lnet/minecraft/class_153;)V
-	METHOD method_738 func_28070_a (II[B[Lnet/minecraft/class_153;[D)V
-	METHOD method_739 func_28071_a ([DIIIIII)[D
+	METHOD method_737 func_28072_a (II[B[Lnet/minecraft/class_153;)V
+	METHOD method_738 func_28071_a (II[B[Lnet/minecraft/class_153;[D)V
+	METHOD method_739 func_28073_a ([DIIIIII)[D

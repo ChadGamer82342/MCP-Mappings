@@ -4,6 +4,8 @@ CLASS net/minecraft/class_34 net/minecraft/src/FontRenderer
 	FIELD field_2463 fontDisplayLists I
 	FIELD field_2464 buffer Ljava/nio/IntBuffer;
 	METHOD method_1901 getStringWidth (Ljava/lang/String;)I
+	METHOD method_1902 func_27277_a (Ljava/lang/String;I)I
 	METHOD method_1903 drawStringWithShadow (Ljava/lang/String;III)V
+	METHOD method_1904 func_27278_a (Ljava/lang/String;IIII)V
 	METHOD method_1905 renderString (Ljava/lang/String;IIIZ)V
 	METHOD method_1906 drawString (Ljava/lang/String;III)V

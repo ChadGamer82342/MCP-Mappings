@@ -1,7 +1,11 @@
 CLASS net/minecraft/class_187 net/minecraft/src/NBTBase
 	FIELD field_660 key Ljava/lang/String;
+	METHOD method_623 createTagOfType (B)Lnet/minecraft/class_187;
+	METHOD method_624 writeTag (Lnet/minecraft/class_187;Ljava/io/DataOutput;)V
+	METHOD method_625 setKey (Ljava/lang/String;)Lnet/minecraft/class_187;
 	METHOD method_626 getKey ()Ljava/lang/String;
 	METHOD method_627 getTagName (B)Ljava/lang/String;
+	METHOD method_628 readTag (Ljava/io/DataInput;)Lnet/minecraft/class_187;
 	METHOD method_629 getType ()B
 	METHOD method_630 readTagContents (Ljava/io/DataInput;)V
 	METHOD method_631 writeTagContents (Ljava/io/DataOutput;)V

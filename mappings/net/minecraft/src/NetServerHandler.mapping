@@ -13,9 +13,3 @@ CLASS net/minecraft/class_11 net/minecraft/src/NetServerHandler
 	FIELD field_927 lastPosZ D
 	FIELD field_928 hasMoved Z
 	FIELD field_929 field_10_k Ljava/util/Map;
-	METHOD method_831 handlePackets ()V
-	METHOD method_832 teleportTo (DDDFF)V
-	METHOD method_833 kickPlayer (Ljava/lang/String;)V
-	METHOD method_834 getNumChunkDataPackets ()I
-	METHOD method_835 sendPacket (Lnet/minecraft/class_169;)V
-	METHOD method_836 handleSlashCommand (Ljava/lang/String;)V

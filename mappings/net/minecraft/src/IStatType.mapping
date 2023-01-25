@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_498 net/minecraft/src/IStatType
+	METHOD method_1725 func_27192_a (I)Ljava/lang/String;

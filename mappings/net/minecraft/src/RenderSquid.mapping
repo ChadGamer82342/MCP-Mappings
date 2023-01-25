@@ -1,1 +1,5 @@
 CLASS net/minecraft/class_150 net/minecraft/src/RenderSquid
+	METHOD method_529 func_21008_a (Lnet/minecraft/class_151;DDDFF)V
+	METHOD method_530 func_21005_a (Lnet/minecraft/class_151;F)V
+	METHOD method_531 func_21007_a (Lnet/minecraft/class_151;FFF)V
+	METHOD method_532 func_21006_b (Lnet/minecraft/class_151;F)F

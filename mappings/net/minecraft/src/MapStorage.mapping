@@ -5,5 +5,7 @@ CLASS net/minecraft/class_53 net/minecraft/src/MapStorage
 	FIELD field_553 idCounts Ljava/util/Map;
 	METHOD method_523 saveAllData ()V
 	METHOD method_524 saveData (Lnet/minecraft/class_58;)V
+	METHOD method_525 loadData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/class_58;
 	METHOD method_526 getUniqueDataId (Ljava/lang/String;)I
+	METHOD method_527 setData (Ljava/lang/String;Lnet/minecraft/class_58;)V
 	METHOD method_528 loadIdCounts ()V

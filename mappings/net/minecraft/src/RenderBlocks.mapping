@@ -64,20 +64,32 @@ CLASS net/minecraft/class_13 net/minecraft/src/RenderBlocks
 	FIELD field_103 field_22374_p F
 	FIELD field_104 field_22373_q F
 	FIELD field_105 field_22372_r F
+	METHOD method_41 func_31076_a (DDDDDDFD)V
 	METHOD method_42 renderItemIn3d (I)Z
+	METHOD method_43 func_1224_a (IIILnet/minecraft/class_15;)F
 	METHOD method_44 renderBlockMinecartTrack (Lnet/minecraft/class_16;III)Z
 	METHOD method_45 renderTorchAtAngle (Lnet/minecraft/class_17;DDDDD)V
 	METHOD method_46 renderBottomFace (Lnet/minecraft/class_17;DDDI)V
 	METHOD method_47 renderCrossedSquares (Lnet/minecraft/class_17;IDDD)V
 	METHOD method_48 renderBlockOnInventory (Lnet/minecraft/class_17;IF)V
+	METHOD method_49 func_31075_a (Lnet/minecraft/class_17;III)V
 	METHOD method_50 renderStandardBlockWithAmbientOcclusion (Lnet/minecraft/class_17;IIIFFF)Z
 	METHOD method_51 renderBlockUsingTexture (Lnet/minecraft/class_17;IIII)V
+	METHOD method_52 func_31079_a (Lnet/minecraft/class_17;IIIZ)V
+	METHOD method_53 renderBlockFallingSand (Lnet/minecraft/class_17;Lnet/minecraft/class_18;III)V
+	METHOD method_54 func_31081_b (DDDDDDFD)V
 	METHOD method_55 renderTopFace (Lnet/minecraft/class_17;DDDI)V
+	METHOD method_56 func_1245_b (Lnet/minecraft/class_17;IDDD)V
 	METHOD method_57 renderBlockByRenderType (Lnet/minecraft/class_17;III)Z
 	METHOD method_58 renderStandardBlockWithColorMultiplier (Lnet/minecraft/class_17;IIIFFF)Z
+	METHOD method_59 func_31074_b (Lnet/minecraft/class_17;IIIZ)Z
+	METHOD method_60 func_31077_c (DDDDDDFD)V
 	METHOD method_61 renderEastFace (Lnet/minecraft/class_17;DDDI)V
 	METHOD method_62 renderBlockTorch (Lnet/minecraft/class_17;III)Z
+	METHOD method_63 func_1230_b (Lnet/minecraft/class_17;IIIFFF)Z
+	METHOD method_64 func_31080_c (Lnet/minecraft/class_17;IIIZ)Z
 	METHOD method_65 renderWestFace (Lnet/minecraft/class_17;DDDI)V
+	METHOD method_66 func_31078_d (Lnet/minecraft/class_17;III)V
 	METHOD method_67 renderNorthFace (Lnet/minecraft/class_17;DDDI)V
 	METHOD method_68 renderBlockLever (Lnet/minecraft/class_17;III)Z
 	METHOD method_69 renderSouthFace (Lnet/minecraft/class_17;DDDI)V

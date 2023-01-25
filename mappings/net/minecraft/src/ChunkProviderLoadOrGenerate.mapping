@@ -13,3 +13,4 @@ CLASS net/minecraft/class_390 net/minecraft/src/ChunkProviderLoadOrGenerate
 	METHOD method_1241 saveChunk (Lnet/minecraft/class_43;)V
 	METHOD method_1242 setCurrentChunkOver (II)V
 	METHOD method_1243 canChunkExist (II)Z
+	METHOD method_1244 func_542_c (II)Lnet/minecraft/class_43;

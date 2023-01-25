@@ -7,5 +7,5 @@ CLASS net/minecraft/class_459 net/minecraft/src/NoiseGenerator2
 	FIELD field_2171 field_4294_f D
 	FIELD field_2172 field_4293_g D
 	METHOD method_1758 wrap (D)I
-	METHOD method_1759 func_4115_a ([DDDIIDDD)V
-	METHOD method_1760 func_4114_a ([IDD)D
+	METHOD method_1759 func_4157_a ([DDDIIDDD)V
+	METHOD method_1760 ticksInAir ([IDD)D

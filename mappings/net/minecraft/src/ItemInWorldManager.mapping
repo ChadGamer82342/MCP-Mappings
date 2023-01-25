@@ -12,8 +12,3 @@ CLASS net/minecraft/class_70 net/minecraft/src/ItemInWorldManager
 	FIELD field_2319 field_22048_m I
 	FIELD field_2320 field_22047_n I
 	FIELD field_2321 field_22046_o I
-	METHOD method_1828 func_328_a ()V
-	METHOD method_1829 func_22045_b (III)V
-	METHOD method_1830 func_324_a (IIII)V
-	METHOD method_1833 removeBlock (III)Z
-	METHOD method_1834 func_325_c (III)Z

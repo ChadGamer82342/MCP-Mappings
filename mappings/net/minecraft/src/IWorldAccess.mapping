@@ -3,7 +3,7 @@ CLASS net/minecraft/class_59 net/minecraft/src/IWorldAccess
 	METHOD method_1149 markBlockAndNeighborsNeedsUpdate (III)V
 	METHOD method_1150 markBlockRangeNeedsUpdate (IIIIII)V
 	METHOD method_1151 doNothingWithTileEntity (IIILnet/minecraft/class_55;)V
-	METHOD method_1152 func_28133_a (Lnet/minecraft/class_54;IIIII)V
+	METHOD method_1152 func_28136_a (Lnet/minecraft/class_54;IIIII)V
 	METHOD method_1153 spawnParticle (Ljava/lang/String;DDDDDD)V
 	METHOD method_1154 playSound (Ljava/lang/String;DDDFF)V
 	METHOD method_1155 playRecord (Ljava/lang/String;III)V

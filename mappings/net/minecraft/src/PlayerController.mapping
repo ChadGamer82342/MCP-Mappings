@@ -4,9 +4,18 @@ CLASS net/minecraft/class_504 net/minecraft/src/PlayerController
 	METHOD method_1705 resetBlockRemoving ()V
 	METHOD method_1706 setPartialTime (F)V
 	METHOD method_1707 clickBlock (IIII)V
+	METHOD method_1708 func_27174_a (IIIZLnet/minecraft/class_54;)Lnet/minecraft/class_31;
+	METHOD method_1709 func_20086_a (ILnet/minecraft/class_54;)V
+	METHOD method_1710 func_717_a (Lnet/minecraft/class_18;)V
 	METHOD method_1711 flipPlayer (Lnet/minecraft/class_54;)V
+	METHOD method_1712 sendUseItem (Lnet/minecraft/class_54;Lnet/minecraft/class_18;Lnet/minecraft/class_31;)Z
+	METHOD method_1713 sendPlaceBlock (Lnet/minecraft/class_54;Lnet/minecraft/class_18;Lnet/minecraft/class_31;IIII)Z
+	METHOD method_1714 interactWithEntity (Lnet/minecraft/class_54;Lnet/minecraft/class_57;)V
 	METHOD method_1715 getBlockReachDistance ()F
 	METHOD method_1716 sendBlockRemoved (IIII)Z
+	METHOD method_1717 createPlayer (Lnet/minecraft/class_18;)Lnet/minecraft/class_54;
+	METHOD method_1718 func_6473_b (Lnet/minecraft/class_54;)V
+	METHOD method_1719 attackEntity (Lnet/minecraft/class_54;Lnet/minecraft/class_57;)V
 	METHOD method_1720 updateController ()V
 	METHOD method_1721 sendBlockRemoving (IIII)V
 	METHOD method_1722 shouldDrawHUD ()Z

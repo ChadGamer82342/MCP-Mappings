@@ -9,4 +9,5 @@ CLASS net/minecraft/class_238 net/minecraft/src/EnumCreatureType
 	FIELD field_949 field_6518_e [Lnet/minecraft/class_238;
 	METHOD method_853 getCreatureClass ()Ljava/lang/Class;
 	METHOD method_854 getMaxNumberOfCreature ()I
+	METHOD method_855 getCreatureMaterial ()Lnet/minecraft/class_15;
 	METHOD method_856 getPeacefulCreature ()Z

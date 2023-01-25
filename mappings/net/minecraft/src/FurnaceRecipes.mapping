@@ -1,5 +1,7 @@
 CLASS net/minecraft/class_44 net/minecraft/src/FurnaceRecipes
 	FIELD field_170 smeltingBase Lnet/minecraft/class_44;
 	FIELD field_171 smeltingList Ljava/util/Map;
+	METHOD method_144 smelting ()Lnet/minecraft/class_44;
+	METHOD method_145 getSmeltingResult (I)Lnet/minecraft/class_31;
 	METHOD method_146 addSmelting (ILnet/minecraft/class_31;)V
 	METHOD method_147 getSmeltingList ()Ljava/util/Map;
