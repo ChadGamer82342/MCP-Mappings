@@ -7,7 +7,6 @@ CLASS net/minecraft/class_54 net/minecraft/src/EntityPlayer
 	FIELD field_510 field_22061_z F
 	FIELD field_511 timeUntilPortal I
 	FIELD field_512 inPortal Z
-	FIELD field_513 timeInPortal F
 	FIELD field_514 fishEntity Lnet/minecraft/class_135;
 	FIELD field_515 sleepTimer I
 	FIELD field_516 playerSpawnCoordinate Lnet/minecraft/class_63;
